@@ -1,4 +1,4 @@
-baseURL = "https://iacmac-web-tools.github.io/amrhub/"
+baseURL = "http://amrhub.ru"
 languageCode = "ru-RU"
 defaultContentLanguage = "ru"
 title = "AMRhub"

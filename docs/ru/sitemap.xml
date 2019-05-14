@@ -3,180 +3,180 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/services/amr-map/</loc>
+    <loc>http://amrhub.ru/services/amr-map/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/services/amr-map/"
+                href="http://amrhub.ru/en/services/amr-map/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/services/amr-map/"
+                href="http://amrhub.ru/services/amr-map/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/services/amr-paint/</loc>
+    <loc>http://amrhub.ru/services/amr-paint/</loc>
     <lastmod>2019-02-19T14:08:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/services/amr-paint/"
+                href="http://amrhub.ru/en/services/amr-paint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/services/amr-paint/"
+                href="http://amrhub.ru/services/amr-paint/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/services/amr-seq/</loc>
+    <loc>http://amrhub.ru/services/amr-seq/</loc>
     <lastmod>2015-07-18T14:08:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/services/amr-seq/"
+                href="http://amrhub.ru/en/services/amr-seq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/services/amr-seq/"
+                href="http://amrhub.ru/services/amr-seq/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/services/amr-book/</loc>
+    <loc>http://amrhub.ru/services/amr-book/</loc>
     <lastmod>2015-07-18T14:53:21+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/services/amr-book/"
+                href="http://amrhub.ru/en/services/amr-book/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/services/amr-book/"
+                href="http://amrhub.ru/services/amr-book/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/services/amr-cloud/</loc>
+    <loc>http://amrhub.ru/services/amr-cloud/</loc>
     <lastmod>2015-07-18T14:53:21+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/services/amr-cloud/"
+                href="http://amrhub.ru/en/services/amr-cloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/services/amr-cloud/"
+                href="http://amrhub.ru/services/amr-cloud/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/services/snpt/</loc>
+    <loc>http://amrhub.ru/services/snpt/</loc>
     <lastmod>2015-07-18T14:08:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/services/snpt/"
+                href="http://amrhub.ru/en/services/snpt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/services/snpt/"
+                href="http://amrhub.ru/services/snpt/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/services/city-map/</loc>
+    <loc>http://amrhub.ru/services/city-map/</loc>
     <lastmod>2015-07-18T14:08:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/services/city-map/"
+                href="http://amrhub.ru/en/services/city-map/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/services/city-map/"
+                href="http://amrhub.ru/services/city-map/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/about/about/</loc>
+    <loc>http://amrhub.ru/about/about/</loc>
     <lastmod>2015-07-18T14:08:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/</loc>
+    <loc>http://amrhub.ru/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/"
+                href="http://amrhub.ru/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/"
+                href="http://amrhub.ru/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/about/</loc>
+    <loc>http://amrhub.ru/about/</loc>
     <lastmod>2015-07-18T14:08:35+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/categories/</loc>
+    <loc>http://amrhub.ru/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/categories/"
+                href="http://amrhub.ru/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/categories/"
+                href="http://amrhub.ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/services/</loc>
+    <loc>http://amrhub.ru/services/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/services/"
+                href="http://amrhub.ru/en/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/services/"
+                href="http://amrhub.ru/services/"
                 />
   </url>
   
   <url>
-    <loc>https://iacmac-web-tools.github.io/amrhub/tags/</loc>
+    <loc>http://amrhub.ru/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://iacmac-web-tools.github.io/amrhub/en/tags/"
+                href="http://amrhub.ru/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://iacmac-web-tools.github.io/amrhub/tags/"
+                href="http://amrhub.ru/tags/"
                 />
   </url>
   
