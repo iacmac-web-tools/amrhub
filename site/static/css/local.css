@@ -24,6 +24,9 @@
 .navbar-right > li.purple {
 	border-color: #9b569b;
 }
+.navbar-right > li.cyan {
+	border-color: #007aff;
+}
 
 .content-section-green {
 	background-color: #005a51;
@@ -40,6 +43,11 @@
 	background-color: #3477a1;
 	color: #f8f8f8;
 } 
+.content-section-cyan {
+	background-color: #007aff;
+	color: #f8f8f8;
+} 
+
 .content-section-red {
 	background-color: #dc3546;
 	color: #f8f8f8;

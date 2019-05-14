@@ -14,13 +14,13 @@
 
     <!-- Icons -->
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/img/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/img/icons/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/img/icons/safari-pinned-tab.svg" color="#0096c1">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}/img/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}/img/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}/img/icons/favicon-16x16.png">
+    <link rel="manifest" href="{{ .Site.BaseURL }}/site.webmanifest">
+    <link rel="mask-icon" href="{{ .Site.BaseURL }}/img/icons/safari-pinned-tab.svg" color="#0096c1">
     <meta name="msapplication-TileColor" content="#2d89ef">
-    <meta name="msapplication-TileImage" content="/img/icons/mstile-144x144.png">
+    <meta name="msapplication-TileImage" content="{{ .Site.BaseURL }}/img/icons/mstile-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
     <!-- SOCIAL ICONS -->
@@ -31,7 +31,7 @@
         content="Вас приветствует сайт AMRhub — виртуальная точка входа для целой экосистемы уникальных веб-продуктов, созданных специалистами НИИ антимикробной химиотерапии (НИИАХ) ФГБОУ ВО «Смоленский государственный медицинский университет» Министерства здравоохранения Российской Федерации и Межрегиональной ассоциации по клинической микробиологии и антимикробной химиотерапии (МАКМАХ).">
     <meta property="og:url" content="http://amrhub.ru">
     <meta property="og:site_name" content="AMRhub">
-    <meta property="og:image" content="http://amrhub.ru/img/icons/amr-hub-preview.png">
+    <meta property="og:image" content="{{ .Site.BaseURL }}/img/icons/amr-hub-preview.png">
     {{ range .Params.tags }}
     <meta property="og:tags" content="{{ . }}">
     {{ end }}
@@ -41,17 +41,17 @@
     <meta property="twitter:description"
         content="Вас приветствует сайт AMRhub — виртуальная точка входа для целой экосистемы уникальных веб-продуктов, созданных специалистами НИИ антимикробной химиотерапии (НИИАХ) ФГБОУ ВО «Смоленский государственный медицинский университет» Министерства здравоохранения Российской Федерации и Межрегиональной ассоциации по клинической микробиологии и антимикробной химиотерапии (МАКМАХ).">
     <meta property="twitter:title" content="AMRhub">
-    <meta property="twitter:image" content="http://amrhub.ru/img/icons/amr-hub-preview.png">
+    <meta property="twitter:image" content="{{ .Site.BaseURL }}/img/icons/amr-hub-preview.png">
     <!-- End of Twitter -->
 
     <!-- Bootstrap Core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS  -->
-    <link href="/css/landing-page.css" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}/css/landing-page.css" rel="stylesheet">
 
     <!-- Pricing CSS -->
-    <link rel="stylesheet" href="/css/pricing.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/pricing.css">
 
     <!-- Local CSS -->
     {{ range .Site.Params.custom_css }}
@@ -59,9 +59,8 @@
     {{ end }}
 
     <!-- Custom Fonts -->
-    <link href="/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet"
-        type="text/css">
+    <link href="{{ .Site.BaseURL }}/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet"    type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
