@@ -33,7 +33,7 @@ keywords = "AMRhub, AMRmap, AMRbook, AMRguide, IACMAC, AMRseq, antimicrobials, a
 
 
 [params]
-    custom_css = ["css/local.css"]
+    custom_css = ["/css/local.css"]
 
 [[params.social]]
     title = "email"
