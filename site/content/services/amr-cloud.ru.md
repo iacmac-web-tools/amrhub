@@ -10,4 +10,4 @@ web = "http://amrcloud.net"
 color = "cyan"
 +++
 
-AMRcloud (AntiMicrobial Resistance Cloud) is a web platform for analysis of AMR survillance data that contains a set of tools to visualize the antimicrobial susceptibilities and genetic resistance determinants data in microbial isolates.
+AMRcloud — это онлайн платформа анализа и обмена пользовательскими данными по резистентности к антимикробным препаратам, которая содержит набор инструментов для визуализации результатов определения чувствительности микроорганизмов к антимикробным препаратам и распространенности детерминант устойчивости к антибиотикам.
