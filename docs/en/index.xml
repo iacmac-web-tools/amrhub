@@ -76,5 +76,14 @@ To speed up identification of genomes matching the defined SNP profiles, SNPT al
       <description>CityMap is a simple and convenient web-tool for data geo-visualization. The resource allows to pin markers and piecharts on the map of the Russian Federation (finding cities&amp;rsquo; coordinates automatically), and also to draw a regional heatmap.</description>
     </item>
     
+    <item>
+      <title>Drugs vs Bugs</title>
+      <link>http://amrhub.ru/en/services/amr-game/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>http://amrhub.ru/en/services/amr-game/</guid>
+      <description>The board game «Drugs vs Bugs» is created by PhD student at the University of Oxford — Célia Souque — and translated into Russian by IACMAC. The ultimate goal of this project is to raise awareness of antibiotic resistance, and to succeed, we will need to involve as many people as possible. One of our aims is to put a version of the game online for people to download and print themselves.</description>
+    </item>
+    
   </channel>
 </rss>
