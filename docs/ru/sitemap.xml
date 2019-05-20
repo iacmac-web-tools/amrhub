@@ -123,13 +123,8 @@
   </url>
   
   <url>
-    <loc>http://amrhub.ru/about/about/</loc>
-    <lastmod>2015-07-18T14:08:35+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://amrhub.ru/</loc>
-    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
+    <lastmod>2019-02-19T14:08:29+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -141,6 +136,27 @@
                 hreflang="ru"
                 href="http://amrhub.ru/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://amrhub.ru/services/</loc>
+    <lastmod>2019-02-19T14:08:29+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://amrhub.ru/en/services/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="http://amrhub.ru/services/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://amrhub.ru/about/about/</loc>
+    <lastmod>2015-07-18T14:08:35+02:00</lastmod>
   </url>
   
   <url>
@@ -161,22 +177,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="http://amrhub.ru/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://amrhub.ru/services/</loc>
-    <lastmod>2015-07-18T14:08:29+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://amrhub.ru/en/services/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="http://amrhub.ru/services/"
                 />
   </url>
   
