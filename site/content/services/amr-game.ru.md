@@ -7,7 +7,7 @@ weight = 10
 color = "green"
 icon = "amr-game-logo.png"
 img = "amr-game-logo.png"
-web = "http://amrhub.ru/files/amrgame.zip"
+web = "{{ .Site.BaseURL }}/files/amrgame.zip"
 isDownload = true
 +++
 
