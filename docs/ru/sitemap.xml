@@ -3,195 +3,190 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://amrhub.ru/services/amr-map/</loc>
+    <loc>https://amrhub.ru/services/amr-map/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/amr-map/"
+                href="https://amrhub.ru/en/services/amr-map/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/amr-map/"
+                href="https://amrhub.ru/services/amr-map/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/services/amr-paint/</loc>
+    <loc>https://amrhub.ru/services/amr-paint/</loc>
     <lastmod>2019-02-19T14:08:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/amr-paint/"
+                href="https://amrhub.ru/en/services/amr-paint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/amr-paint/"
+                href="https://amrhub.ru/services/amr-paint/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/services/amr-seq/</loc>
+    <loc>https://amrhub.ru/services/amr-seq/</loc>
     <lastmod>2015-07-18T14:08:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/amr-seq/"
+                href="https://amrhub.ru/en/services/amr-seq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/amr-seq/"
+                href="https://amrhub.ru/services/amr-seq/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/services/amr-book/</loc>
+    <loc>https://amrhub.ru/services/amr-book/</loc>
     <lastmod>2015-07-18T14:53:21+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/amr-book/"
+                href="https://amrhub.ru/en/services/amr-book/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/amr-book/"
+                href="https://amrhub.ru/services/amr-book/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/services/amr-cloud/</loc>
+    <loc>https://amrhub.ru/services/amr-cloud/</loc>
     <lastmod>2015-07-18T14:53:21+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/amr-cloud/"
+                href="https://amrhub.ru/en/services/amr-cloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/amr-cloud/"
+                href="https://amrhub.ru/services/amr-cloud/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/services/snpt/</loc>
+    <loc>https://amrhub.ru/services/snpt/</loc>
     <lastmod>2015-07-18T14:08:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/snpt/"
+                href="https://amrhub.ru/en/services/snpt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/snpt/"
+                href="https://amrhub.ru/services/snpt/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/services/city-map/</loc>
+    <loc>https://amrhub.ru/services/city-map/</loc>
     <lastmod>2015-07-18T14:08:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/city-map/"
+                href="https://amrhub.ru/en/services/city-map/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/city-map/"
+                href="https://amrhub.ru/services/city-map/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/services/amr-game/</loc>
+    <loc>https://amrhub.ru/services/amr-game/</loc>
     <lastmod>2015-07-18T14:08:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/amr-game/"
+                href="https://amrhub.ru/en/services/amr-game/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/amr-game/"
+                href="https://amrhub.ru/services/amr-game/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/</loc>
+    <loc>https://amrhub.ru/</loc>
     <lastmod>2019-02-19T14:08:29+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/"
+                href="https://amrhub.ru/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/"
+                href="https://amrhub.ru/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/services/</loc>
+    <loc>https://amrhub.ru/services/</loc>
     <lastmod>2019-02-19T14:08:29+02:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/services/"
+                href="https://amrhub.ru/en/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/services/"
+                href="https://amrhub.ru/services/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/about/about/</loc>
+    <loc>https://amrhub.ru/about/about/</loc>
     <lastmod>2015-07-18T14:08:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://amrhub.ru/about/</loc>
+    <loc>https://amrhub.ru/about/</loc>
     <lastmod>2015-07-18T14:08:35+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://amrhub.ru/categories/</loc>
-    <priority>0</priority>
+    <loc>https://amrhub.ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/categories/"
+                href="https://amrhub.ru/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/categories/"
+                href="https://amrhub.ru/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://amrhub.ru/tags/</loc>
-    <priority>0</priority>
+    <loc>https://amrhub.ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://amrhub.ru/en/tags/"
+                href="https://amrhub.ru/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://amrhub.ru/tags/"
+                href="https://amrhub.ru/tags/"
                 />
   </url>
   

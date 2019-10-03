@@ -1,4 +1,4 @@
-baseURL = "http://amrhub.ru"
+baseURL = "https://amrhub.ru"
 languageCode = "ru-RU"
 defaultContentLanguage = "ru"
 title = "AMRhub"

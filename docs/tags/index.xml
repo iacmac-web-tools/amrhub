@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AMRhub</title>
-    <link>http://amrhub.ru/tags/</link>
+    <link>https://amrhub.ru/tags/</link>
     <description>Recent content in Tags on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>IACMAC</copyright>
     
-	<atom:link href="http://amrhub.ru/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://amrhub.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
