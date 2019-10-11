@@ -21,6 +21,8 @@ inProgressText = "в разработке"
 weight = 1
 languageName = "Русский"
 keywords = "AMRhub, AMRmap, AMRbook, AMRguide, IACMAC, AMRseq, antimicrobials, antibiotics, SNP typing, SNPTAB, SNPTPA, МАКМАХ, антибиотики, антибиотикорезистентность"
+gdprText = "На нашем сайте включены cookies, потому что мы используем услуги Google Analytics"
+gdprButtonText = "Понятно"
 
 [Languages.en]
 title = "AMRhub"
@@ -32,6 +34,8 @@ inProgressText = "is in progress"
 weight = 2
 languageName = "English"
 keywords = "AMRhub, AMRmap, AMRbook, AMRguide, IACMAC, AMRseq, antimicrobials, antibiotics, SNP typing, SNPTAB, SNPTPA, МАКМАХ, antibiotics, antimicrobialresistance"
+gdprText = "This website uses cookies to ensure you get the best experience on our website."
+gdprButtonText = "Allow"
 
 
 [params]
