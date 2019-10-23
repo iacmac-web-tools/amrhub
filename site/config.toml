@@ -20,7 +20,7 @@ downloadText = "Скачать"
 inProgressText = "в разработке"
 weight = 1
 languageName = "Русский"
-keywords = "AMRhub, AMRmap, AMRbook, AMRguide, IACMAC, AMRseq, antimicrobials, antibiotics, SNP typing, SNPTAB, SNPTPA, МАКМАХ, антибиотики, антибиотикорезистентность"
+keywords = "AMRhub, AMRcloud, AMRmap, AMRbook, AMRguide, IACMAC, AMRseq, antimicrobials, antibiotics, SNP typing, SNPTAB, SNPTPA, МАКМАХ, антибиотики, антибиотикорезистентность"
 gdprText = "На нашем сайте включены cookies, потому что мы используем услуги Google Analytics"
 gdprButtonText = "Понятно"
 
@@ -33,7 +33,7 @@ downloadText = "Download"
 inProgressText = "is in progress"
 weight = 2
 languageName = "English"
-keywords = "AMRhub, AMRmap, AMRbook, AMRguide, IACMAC, AMRseq, antimicrobials, antibiotics, SNP typing, SNPTAB, SNPTPA, МАКМАХ, antibiotics, antimicrobialresistance"
+keywords = "AMRhub, AMRcloud, AMRmap, AMRbook, AMRguide, IACMAC, AMRseq, antimicrobials, antibiotics, SNP typing, SNPTAB, SNPTPA, МАКМАХ, antibiotics, antimicrobialresistance"
 gdprText = "This website uses cookies to ensure you get the best experience on our website."
 gdprButtonText = "Allow"
 
@@ -74,7 +74,7 @@ gdprButtonText = "Allow"
 [[params.services]]
     title = "AMRmap"
     icon = "map"
-    url = "http://amrmap.ru"
+    url = "https://amrmap.ru"
 [[params.services]]
     title = "AMRpaint"
     icon = "paint-brush"
@@ -88,11 +88,14 @@ gdprButtonText = "Allow"
     icon = "building"
     url = "https://iacmac-web-tools.github.io/CityMap/"
 
-
+[[params.links.ru]]
+    title = "AMRcloud"
+    icon = "cloud"
+    url = "https://amrcloud.net/ru"
 [[params.links.ru]]
     title = "AMRmap"
     icon = "map"
-    url = "http://amrmap.ru"
+    url = "https://amrmap.ru"
 [[params.links.ru]]
     title = "AMRpaint"
     icon = "paint-brush"
@@ -105,11 +108,15 @@ gdprButtonText = "Allow"
     title = "CityMap"
     icon = "building"
     url = "https://iacmac-web-tools.github.io/CityMap/"
-    
+
+[[params.links.en]]
+    title = "AMRcloud"
+    icon = "cloud"
+    url = "https://amrcloud.net/en"    
 [[params.links.en]]
     title = "AMRmap"
     icon = "map"
-    url = "http://amrmap.net"
+    url = "https://amrmap.net"
 [[params.links.en]]
     title = "AMRpaint"
     icon = "paint-brush"

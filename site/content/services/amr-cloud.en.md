@@ -2,11 +2,11 @@
 date = "2015-07-18T14:53:21+02:00"
 draft = false
 title = "AMRcloud"
-isReady = false
+isReady = true
 icon = "amr-cloud-icon.svg"
 img = "amr-cloud-logo.png"
 weight = 4
-web = "http://amrcloud.net"
+web = "https://amrcloud.net/en"
 color = "cyan"
 +++
 
