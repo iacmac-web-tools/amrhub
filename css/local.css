@@ -27,7 +27,13 @@
 .navbar-right > li.cyan {
 	border-color: #007aff;
 }
+.navbar-right > li.pink { 
+  border-color: #beaed4
+}
 
+.content-section-pink {
+	background-color: #beaed4;
+}
 .content-section-green {
 	background-color: #005a51;
 	color: #f8f8f8;
