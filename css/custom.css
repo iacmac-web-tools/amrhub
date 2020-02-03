@@ -173,3 +173,8 @@ hr.dot:after {
   content: "\f192";
 }
 
+/* cubes */
+hr.cubes:after {
+  content: "\f1b3";
+}
+
