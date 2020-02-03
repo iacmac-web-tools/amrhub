@@ -18,7 +18,6 @@ a {
   outline: 0;
   color: #0e705d;
   font-weight: bold;
-  
 }
 
 header {
@@ -75,3 +74,102 @@ header {
     top: 15%;
     position: relative;
   }
+
+
+
+/* MODAL LINES */
+
+/* line-icon */
+hr.line-icon-light,
+hr.line-icon-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+
+hr.line-icon-light:after,
+hr.line-icon-primary:after {
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+}
+
+hr.line-icon-light {
+    border-color: #fff;
+}
+
+hr.line-icon-light:after {
+    color: #fff;
+    background-color: #18bc9c;
+}
+
+hr.line-icon-primary {
+    border-color: #2c3e50;
+}
+
+hr.line-icon-primary:after {
+    color: #2c3e50;
+    background-color: #fff;
+}
+
+/* BOOK */
+hr.book:after {
+    content: "\f02d";
+  }
+
+
+
+/* CLOUD */
+hr.cloud:after {
+    content: "\f0c2";
+}
+
+
+/* gamepad */
+hr.gamepad:after {
+    content: "\f11b";
+}
+
+
+/* map */
+hr.map:after {
+    content: "\f279";
+}
+
+/* share */
+hr.share:after {
+    content: "\f1e0";
+}
+
+
+/* paint */
+hr.paint:after {
+    content: "\f1fc";
+}
+
+/* search */
+hr.search:after {
+    content: "\f002";
+}
+
+/* marker */
+hr.marker:after {
+    content: "\f041";
+}
+
+/* bug */
+hr.bug:after {
+  content: "\f188";
+}
+
+/* dot */
+hr.dot:after {
+  content: "\f192";
+}
+
