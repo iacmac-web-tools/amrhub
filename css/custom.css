@@ -184,3 +184,11 @@ hr.cubes:after {
   content: "\f1b3";
 }
 
+/* donate */
+hr.ruble:after {
+  content: "\f158";
+}
+
+hr.dollar:after {
+  content: "\f155";
+}
