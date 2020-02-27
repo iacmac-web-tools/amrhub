@@ -92,7 +92,7 @@ const OFFLINE_CACHE_FILES = [
 
 const NOT_FOUND_CACHE_FILES = ["/404.html"];
 
-const OFFLINE_PAGE = "/index.html";
+const OFFLINE_PAGE = "/offline.html";
 const NOT_FOUND_PAGE = "/404.html";
 
 const CACHE_VERSIONS = {
@@ -106,9 +106,11 @@ const CACHE_VERSIONS = {
 const MAX_TTL = {
   "/": 3600,
   html: 3600,
-  json: 86400,
-  js: 86400,
-  css: 86400
+  json: 864000,
+  js: 864000,
+  css: 864000,
+  svg: 864000,
+  png: 864000
 };
 
 const CACHE_BLACKLIST = [
