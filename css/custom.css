@@ -136,6 +136,11 @@ hr.cloud:after {
     content: "\f0c2";
 }
 
+/* NOTE */
+hr.note:after {
+  content: "\f14a";
+}
+
 
 /* gamepad */
 hr.gamepad:after {
