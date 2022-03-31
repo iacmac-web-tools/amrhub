@@ -1,4 +1,4 @@
-const CACHE_VERSION = 4;
+const CACHE_VERSION = 5;
 
 const BASE_CACHE_FILES = [
   "/manifest.json",

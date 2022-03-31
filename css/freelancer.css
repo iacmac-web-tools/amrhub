@@ -260,6 +260,74 @@ section.success a.active {
     }
 }
 
+/* ========== */
+/* TEAM START */
+/* ========== */
+
+.avatar-circle {
+    border-radius: 50%;
+}
+
+#team .team-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+#team .team-item .team-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+#team .team-item .team-link .caption {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    background: rgba(24,188,156,.9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+#team .team-item .team-link .caption:hover {
+    opacity: 1;
+}
+
+#team .team-item .team-link .caption .caption-content {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 20px;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+#team .team-item .team-link .caption .caption-content i {
+    margin-top: -12px;
+}
+
+#team .team-item .team-link .caption .caption-content h3,
+#team .team-item .team-link .caption .caption-content h4 {
+    margin: 0;
+}
+
+#team * {
+    z-index: 2;
+}
+
+@media(min-width:767px) {
+    #team .team-item {
+        margin: 0 0 30px;
+    }
+}
+/* ======== */
+/* TEAM END */
+/* ======== */
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
@@ -457,3 +525,110 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+
+/* ================ */
+/* TEAM MODAL START */
+/* ================ */
+
+.team-modal .modal-content {
+    padding: 100px 0;
+    min-height: 100%;
+    border: 0;
+    border-radius: 0;
+    text-align: center;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.team-modal .modal-content h2 {
+    margin: 0;
+    font-size: 3em;
+}
+
+.team-modal .modal-content img {
+    margin-bottom: 30px;
+}
+
+.team-modal .modal-content .item-details {
+    margin: 30px 0;
+}
+
+.team-modal .close-modal {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.team-modal .close-modal:hover {
+    opacity: .3;
+}
+
+.team-modal .close-modal .lr {
+    z-index: 1051;
+    width: 1px;
+    height: 75px;
+    margin-left: 35px;
+    background-color: #2c3e50;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.team-modal .close-modal .lr .rl {
+    z-index: 1052;
+    width: 1px;
+    height: 75px;
+    background-color: #2c3e50;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.team-modal .modal-backdrop {
+    display: none;
+    opacity: 0;
+}
+
+/* ============== */
+/* TEAM MODAL END */
+/* ============== */
+
+/* ============= */
+/* NETWORK ICONS */
+/* ============= */
+
+ul.network-icon {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #profile .network-icon {
+    margin-top: 30px;
+  }
+  
+  .network-icon li {
+    margin-right: 20px;
+  }
+  
+  .network-icon li:last-of-type {
+    margin-right: 0;
+  }
+  
+  .network-icon li:hover {
+    transform: scale(1.2)
+  }
+  
+  .big-icon {
+    font-size: 4rem !important;
+  }

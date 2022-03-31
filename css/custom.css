@@ -194,6 +194,12 @@ hr.cubes:after {
   content: "\f1b3";
 }
 
+/* people */
+hr.people:after {
+  content: "\f0c0";
+}
+
+
 /* donate */
 hr.ruble:after {
   content: "\f158";
@@ -201,4 +207,13 @@ hr.ruble:after {
 
 hr.dollar:after {
   content: "\f155";
+}
+
+.mt-1 { 
+  margin-top: 0.5em;
+}
+
+.justify-content-center {
+  display: flex;
+  justify-content: center !important;
 }
