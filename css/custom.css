@@ -217,3 +217,8 @@ hr.dollar:after {
   display: flex;
   justify-content: center !important;
 }
+
+.modal-team-content > 
+  p { 
+    font-size: 15px !important; 
+  }
