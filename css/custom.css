@@ -205,6 +205,14 @@ hr.people.bg-secondary:after {
 }
 
 
+/* graduation cap */
+hr.graduation-cap:after {
+  content: "\f19d";
+}
+hr.graduation-cap.bg-secondary:after {
+  content: "\f19d";
+  background: #ebebeb;
+}
 
 /* donate */
 hr.ruble:after {
