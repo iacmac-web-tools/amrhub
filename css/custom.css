@@ -214,6 +214,15 @@ hr.graduation-cap.bg-secondary:after {
   background: #ebebeb;
 }
 
+/* smile */
+hr.smile-o:after {
+  content: "\f118";
+}
+hr.smile-o.bg-secondary:after {
+  content: "\f118";
+  background: #ebebeb;
+}
+
 /* donate */
 hr.ruble:after {
   content: "\f158";
