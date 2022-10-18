@@ -19,6 +19,13 @@
   text-transform: none;
   text-align: center;
 }
+.modal-body > ul >li { 
+  font-size: 20px;
+  text-align: left;
+}
+.modal-body > p { 
+  font-size: 20px;
+}
 
 a {
   outline: 0;
@@ -230,6 +237,15 @@ hr.ruble:after {
 
 hr.dollar:after {
   content: "\f155";
+}
+
+/* heart */
+hr.heartbeat:after {
+  content: "\f21e";
+}
+hr.heartbeat.bg-secondary:after {
+  content: "\f21e";
+  background: #ebebeb;
 }
 
 .mt-1 {
