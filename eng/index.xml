@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eng on AMRhub</title><link>https://devcows.github.io/eng/</link><description>Recent content in Eng on AMRhub</description><generator>Hugo -- gohugo.io</generator><language>ru</language><atom:link href="https://devcows.github.io/eng/index.xml" rel="self" type="application/rss+xml"/><item><title>Main</title><link>https://devcows.github.io/eng/main/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://devcows.github.io/eng/main/</guid><description/></item><item><title>Our projects</title><link>https://devcows.github.io/eng/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://devcows.github.io/eng/projects/</guid><description>AMRmap (AntiMicrobial Resistance Map) is a web platform for analysis of AMR data in Russia that contains a set of tools to visualize the data on distribution of antimicrobial susceptibilities and main genetic resistance determinants in clinical microbial isolates. The AMRmap database accumulates the data from prospective multicenter AMR surveillance studies conducted by the Institute of Antimicrobial Chemotherapy (IAC) and the Interregional Association for Clinical Microbiology and Antimicrobial Chemotherapy (IACMAC).</description></item><item><title>Our team</title><link>https://devcows.github.io/eng/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://devcows.github.io/eng/team/</guid><description>Alexey Y. Kuzmenkov, MD, PhD
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eng on AMRhub</title>
+    <link>https://amrhub.ru/eng/</link>
+    <description>Recent content in Eng on AMRhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	<atom:link href="https://amrhub.ru/eng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Main</title>
+      <link>https://amrhub.ru/eng/main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amrhub.ru/eng/main/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our projects</title>
+      <link>https://amrhub.ru/eng/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amrhub.ru/eng/projects/</guid>
+      <description>AMRmap (AntiMicrobial Resistance Map) is a web platform for analysis of AMR data in Russia that contains a set of tools to visualize the data on distribution of antimicrobial susceptibilities and main genetic resistance determinants in clinical microbial isolates. The AMRmap database accumulates the data from prospective multicenter AMR surveillance studies conducted by the Institute of Antimicrobial Chemotherapy (IAC) and the Interregional Association for Clinical Microbiology and Antimicrobial Chemotherapy (IACMAC).</description>
+    </item>
+    
+    <item>
+      <title>Our team</title>
+      <link>https://amrhub.ru/eng/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amrhub.ru/eng/team/</guid>
+      <description>Alexey Y. Kuzmenkov, MD, PhD
 deputy director at the Institute of Antimicrobial Chemotherapy (IAC) of the Smolensk State Medical University of the Ministry of Health of the Russian Federation
 assistant professor of the Microbiology Department at the Institute of Antimicrobial Chemotherapy (IAC) of the Smolensk State Medical University of the Ministry of Health of the Russian Federation
-Email: alexey.kuzmenkov@antibiotic.ru ORCID: 0000-0001-9562-2096 ResearchGate: Alexey-Kuzmenkov Scopus Author ID: 57218210526 ResearcherID: T-4838-2018 SPIN-Код: 3033-7640 Alina G.</description></item></channel></rss>
+ Email:  alexey.kuzmenkov@antibiotic.ru   ORCID:  0000-0001-9562-2096   ResearchGate:  Alexey-Kuzmenkov   Scopus Author ID:  57218210526   ResearcherID:  T-4838-2018   SPIN-Код:  3033-7640        Alina G.</description>
+    </item>
+    
+  </channel>
+</rss>

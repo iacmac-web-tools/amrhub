@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AMRbook on AMRhub</title><link>https://devcows.github.io/tags/amrbook/</link><description>Recent content in AMRbook on AMRhub</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Mon, 05 Sep 2022 09:29:20 +0200</lastBuildDate><atom:link href="https://devcows.github.io/tags/amrbook/index.xml" rel="self" type="application/rss+xml"/><item><title>AMRbook теперь на мобильных устройствах</title><link>https://devcows.github.io/blog/2022/09/05/book05092022/</link><pubDate>Mon, 05 Sep 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/09/05/book05092022/</guid><description>Команда разработчиков AMRhub выпустила первое мобильное приложение.</description></item><item><title>Обновление AMRbook</title><link>https://devcows.github.io/blog/2022/06/21/book21062022/</link><pubDate>Tue, 21 Jun 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/06/21/book21062022/</guid><description>Терапия инфекций, вызванных полирезистентными штаммами микроорганизмов вынесена в отдельный раздел на стартовой странице.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMRbook on AMRhub</title>
+    <link>https://amrhub.ru/tags/amrbook/</link>
+    <description>Recent content in AMRbook on AMRhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 05 Sep 2022 09:29:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://amrhub.ru/tags/amrbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AMRbook теперь на мобильных устройствах</title>
+      <link>https://amrhub.ru/blog/2022/09/05/book05092022/</link>
+      <pubDate>Mon, 05 Sep 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/09/05/book05092022/</guid>
+      <description>Команда разработчиков AMRhub выпустила первое мобильное приложение.</description>
+    </item>
+    
+    <item>
+      <title>Обновление AMRbook</title>
+      <link>https://amrhub.ru/blog/2022/06/21/book21062022/</link>
+      <pubDate>Tue, 21 Jun 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/06/21/book21062022/</guid>
+      <description>Терапия инфекций, вызванных полирезистентными штаммами микроорганизмов вынесена в отдельный раздел на стартовой странице.</description>
+    </item>
+    
+  </channel>
+</rss>

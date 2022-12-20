@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Мероприятие on AMRhub</title><link>https://devcows.github.io/categories/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link><description>Recent content in Мероприятие on AMRhub</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Wed, 07 Sep 2022 09:29:20 +0200</lastBuildDate><atom:link href="https://devcows.github.io/categories/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml"/><item><title>Онлайн-тренинг по работе с сервисом AMRexpert</title><link>https://devcows.github.io/blog/2022/09/07/expert07092022/</link><pubDate>Wed, 07 Sep 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/09/07/expert07092022/</guid><description>15 сентября в 16:00 (МСК) в рамках проекта «Разговоры об инфекциях и антибиотиках» состоится онлайн-тренинг по работе с сервисом AMRexpert.</description></item><item><title>Презентация AMRhub на VIII РКЛМ</title><link>https://devcows.github.io/blog/2022/08/23/news23082022/</link><pubDate>Tue, 23 Aug 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/08/23/news23082022/</guid><description>6 сентября 2022 заместитель директора НИИАХ Кузьменков Алексей Юрьевич прочитает лекцию «Получение и интерпретация данных антибиотикорезистентности: в помощь практикующему специалисту».</description></item><item><title>AMRnote: обучающий вебинар [видео]</title><link>https://devcows.github.io/blog/2022/07/01/note01072022/</link><pubDate>Fri, 01 Jul 2022 13:47:08 +0200</pubDate><guid>https://devcows.github.io/blog/2022/07/01/note01072022/</guid><description>На YouTube опубликована запись вебинара «AMRnote: обучающий вебинар», прошедшего 30 июня 2022.</description></item><item><title>AMRnote: обучающий вебинар</title><link>https://devcows.github.io/blog/2022/06/28/note28062022/</link><pubDate>Tue, 28 Jun 2022 13:47:08 +0200</pubDate><guid>https://devcows.github.io/blog/2022/06/28/note28062022/</guid><description>30 июня 2022 в 16:00 (МСК) команда разработчиков AMRhub презантует свой новый продукт.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Мероприятие on AMRhub</title>
+    <link>https://amrhub.ru/categories/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link>
+    <description>Recent content in Мероприятие on AMRhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 07 Sep 2022 09:29:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://amrhub.ru/categories/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Онлайн-тренинг по работе с сервисом AMRexpert</title>
+      <link>https://amrhub.ru/blog/2022/09/07/expert07092022/</link>
+      <pubDate>Wed, 07 Sep 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/09/07/expert07092022/</guid>
+      <description>15 сентября в 16:00 (МСК) в рамках проекта «Разговоры об инфекциях и антибиотиках» состоится онлайн-тренинг по работе с сервисом AMRexpert.</description>
+    </item>
+    
+    <item>
+      <title>Презентация AMRhub на VIII РКЛМ</title>
+      <link>https://amrhub.ru/blog/2022/08/23/news23082022/</link>
+      <pubDate>Tue, 23 Aug 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/08/23/news23082022/</guid>
+      <description>6 сентября 2022 заместитель директора НИИАХ Кузьменков Алексей Юрьевич прочитает лекцию «Получение и интерпретация данных антибиотикорезистентности: в помощь практикующему специалисту».</description>
+    </item>
+    
+    <item>
+      <title>AMRnote: обучающий вебинар [видео]</title>
+      <link>https://amrhub.ru/blog/2022/07/01/note01072022/</link>
+      <pubDate>Fri, 01 Jul 2022 13:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/07/01/note01072022/</guid>
+      <description>На YouTube опубликована запись вебинара «AMRnote: обучающий вебинар», прошедшего 30 июня 2022.</description>
+    </item>
+    
+    <item>
+      <title>AMRnote: обучающий вебинар</title>
+      <link>https://amrhub.ru/blog/2022/06/28/note28062022/</link>
+      <pubDate>Tue, 28 Jun 2022 13:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/06/28/note28062022/</guid>
+      <description>30 июня 2022 в 16:00 (МСК) команда разработчиков AMRhub презантует свой новый продукт.</description>
+    </item>
+    
+  </channel>
+</rss>

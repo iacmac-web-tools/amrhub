@@ -1,1 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Статья on AMRhub</title><link>https://devcows.github.io/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</link><description>Recent content in Статья on AMRhub</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Wed, 14 Dec 2022 09:29:20 +0200</lastBuildDate><atom:link href="https://devcows.github.io/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/index.xml" rel="self" type="application/rss+xml"/><item><title>Shigella sonnei — почему такое название?</title><link>https://devcows.github.io/blog/2022/12/14/ety-shigella-sonnei/</link><pubDate>Wed, 14 Dec 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/12/14/ety-shigella-sonnei/</guid><description>Shigella sonnei (подгруппа D) — грамотрицательная, факультативно анаэробная, неподвижная, споронеобразующая бактерия, возбудитель дизентерийного шигеллёза.</description></item><item><title>Shigella boydii — почему такое название?</title><link>https://devcows.github.io/blog/2022/12/07/ety-shigella-boydii/</link><pubDate>Wed, 07 Dec 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/12/07/ety-shigella-boydii/</guid><description>Shigella boydii (подгруппа C) — грамотрицательная, факультативно анаэробная, неподвижная, споронеобразующая бактерия, возбудитель дизентерийного шигеллёза.</description></item><item><title>Shigella flexneri — почему такое название?</title><link>https://devcows.github.io/blog/2022/11/30/ety-shigella-flexneri/</link><pubDate>Wed, 30 Nov 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/11/30/ety-shigella-flexneri/</guid><description>Shigella flexneri (подгруппа B) — грамотрицательная, факультативно-анаэробная, неподвижная, споронеобразующая бактерия, возбудитель дизентерийного шигеллёза.</description></item><item><title>Shigella dysenteriae — почему такое название?</title><link>https://devcows.github.io/blog/2022/11/23/ety-shigella-dysenteriae/</link><pubDate>Wed, 23 Nov 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/11/23/ety-shigella-dysenteriae/</guid><description>Shigella dysenteriae (подгруппа A) — грамотрицательная, факультативно-анаэробная, неподвижная, споронеобразующая бактерия, возбудитель дизентерийного шигеллёза.</description></item><item><title>Burkholderia cepacia — почему такое название?</title><link>https://devcows.github.io/blog/2022/11/16/ety-burkholderia-cepacia/</link><pubDate>Wed, 16 Nov 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/11/16/ety-burkholderia-cepacia/</guid><description>Burkholderia cepacia complex — группа аэробных грамотрицательных неферментирующих бактерий.</description></item><item><title>Elizabethkingia miricola — почему такое название?</title><link>https://devcows.github.io/blog/2022/11/09/ety-elizabethkingia-miricola/</link><pubDate>Wed, 09 Nov 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/11/09/ety-elizabethkingia-miricola/</guid><description>Elizabethkingia miricola — редкая грамотрицательная неферментирующая бактерия, обладающая множественной лекарственной устойчивостью.</description></item><item><title>Pichia kudriavzevii — почему такое название?</title><link>https://devcows.github.io/blog/2022/11/09/ety-pichia-kudriavzevii/</link><pubDate>Wed, 09 Nov 2022 09:29:20 +0200</pubDate><guid>https://devcows.github.io/blog/2022/11/09/ety-pichia-kudriavzevii/</guid><description>Pichia kudriavzevii — дрожжеподобный гриб, телеоморф (половая форма) Candida krusei.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Статья on AMRhub</title>
+    <link>https://amrhub.ru/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</link>
+    <description>Recent content in Статья on AMRhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 14 Dec 2022 09:29:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://amrhub.ru/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shigella sonnei — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/12/14/ety-shigella-sonnei/</link>
+      <pubDate>Wed, 14 Dec 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/12/14/ety-shigella-sonnei/</guid>
+      <description>Shigella sonnei (подгруппа D) — грамотрицательная, факультативно анаэробная, неподвижная, споронеобразующая бактерия, возбудитель дизентерийного шигеллёза.</description>
+    </item>
+    
+    <item>
+      <title>Shigella boydii — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/12/07/ety-shigella-boydii/</link>
+      <pubDate>Wed, 07 Dec 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/12/07/ety-shigella-boydii/</guid>
+      <description>Shigella boydii (подгруппа C) — грамотрицательная, факультативно анаэробная, неподвижная, споронеобразующая бактерия, возбудитель дизентерийного шигеллёза.</description>
+    </item>
+    
+    <item>
+      <title>Shigella flexneri — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/11/30/ety-shigella-flexneri/</link>
+      <pubDate>Wed, 30 Nov 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/11/30/ety-shigella-flexneri/</guid>
+      <description>Shigella flexneri (подгруппа B) — грамотрицательная, факультативно-анаэробная, неподвижная, споронеобразующая бактерия, возбудитель дизентерийного шигеллёза.</description>
+    </item>
+    
+    <item>
+      <title>Shigella dysenteriae — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/11/23/ety-shigella-dysenteriae/</link>
+      <pubDate>Wed, 23 Nov 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/11/23/ety-shigella-dysenteriae/</guid>
+      <description>Shigella dysenteriae (подгруппа A) — грамотрицательная, факультативно-анаэробная, неподвижная, споронеобразующая бактерия, возбудитель дизентерийного шигеллёза.</description>
+    </item>
+    
+    <item>
+      <title>Burkholderia cepacia — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/11/16/ety-burkholderia-cepacia/</link>
+      <pubDate>Wed, 16 Nov 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/11/16/ety-burkholderia-cepacia/</guid>
+      <description>Burkholderia cepacia complex — группа аэробных грамотрицательных неферментирующих бактерий.</description>
+    </item>
+    
+    <item>
+      <title>Elizabethkingia miricola — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/11/09/ety-elizabethkingia-miricola/</link>
+      <pubDate>Wed, 09 Nov 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/11/09/ety-elizabethkingia-miricola/</guid>
+      <description>Elizabethkingia miricola — редкая грамотрицательная неферментирующая бактерия, обладающая множественной лекарственной устойчивостью.</description>
+    </item>
+    
+    <item>
+      <title>Pichia kudriavzevii — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/11/09/ety-pichia-kudriavzevii/</link>
+      <pubDate>Wed, 09 Nov 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/11/09/ety-pichia-kudriavzevii/</guid>
+      <description>Pichia kudriavzevii — дрожжеподобный гриб, телеоморф (половая форма) Candida krusei.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AMRnote on AMRhub</title><link>https://devcows.github.io/tags/amrnote/</link><description>Recent content in AMRnote on AMRhub</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Wed, 12 Oct 2022 13:39:46 +0200</lastBuildDate><atom:link href="https://devcows.github.io/tags/amrnote/index.xml" rel="self" type="application/rss+xml"/><item><title>Обновление AMRnote</title><link>https://devcows.github.io/blog/2022/10/12/note12102022/</link><pubDate>Wed, 12 Oct 2022 13:39:46 +0200</pubDate><guid>https://devcows.github.io/blog/2022/10/12/note12102022/</guid><description>В свежем обновлении платформы AMRnote появилась возможность отслеживать количество просмотров ваших схем, руководств и сборников, находящихся в открытом доступе.</description></item><item><title>Обновление AMRnote</title><link>https://devcows.github.io/blog/2022/10/04/note04102022/</link><pubDate>Tue, 04 Oct 2022 13:47:08 +0200</pubDate><guid>https://devcows.github.io/blog/2022/10/04/note04102022/</guid><description>В свежем обновлении платформы AMRnote появился функционал создания СБОРНИКОВ, с помощью которых вы можете делиться сразу несколькими руководствами по терапии.</description></item><item><title>AMRnote: обучающий вебинар [видео]</title><link>https://devcows.github.io/blog/2022/07/01/note01072022/</link><pubDate>Fri, 01 Jul 2022 13:47:08 +0200</pubDate><guid>https://devcows.github.io/blog/2022/07/01/note01072022/</guid><description>На YouTube опубликована запись вебинара «AMRnote: обучающий вебинар», прошедшего 30 июня 2022.</description></item><item><title>AMRnote: обучающий вебинар</title><link>https://devcows.github.io/blog/2022/06/28/note28062022/</link><pubDate>Tue, 28 Jun 2022 13:47:08 +0200</pubDate><guid>https://devcows.github.io/blog/2022/06/28/note28062022/</guid><description>30 июня 2022 в 16:00 (МСК) команда разработчиков AMRhub презантует свой новый продукт.</description></item><item><title>Обучающий семинар «AMRnote — локальные рекомендации по выбору антибиотикотерапии»</title><link>https://devcows.github.io/blog/2022/05/26/note26052022/</link><pubDate>Thu, 26 May 2022 13:47:08 +0200</pubDate><guid>https://devcows.github.io/blog/2022/05/26/note26052022/</guid><description>26 мая 2022 в рамках XXIV конгресса МАКМАХ прошёл обучающий семинар, посвящённый AMRnote</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AMRnote on AMRhub</title>
+    <link>https://amrhub.ru/tags/amrnote/</link>
+    <description>Recent content in AMRnote on AMRhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 12 Oct 2022 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://amrhub.ru/tags/amrnote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Обновление AMRnote</title>
+      <link>https://amrhub.ru/blog/2022/10/12/note12102022/</link>
+      <pubDate>Wed, 12 Oct 2022 13:39:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/10/12/note12102022/</guid>
+      <description>В свежем обновлении платформы AMRnote появилась возможность отслеживать количество просмотров ваших схем, руководств и сборников, находящихся в открытом доступе.</description>
+    </item>
+    
+    <item>
+      <title>Обновление AMRnote</title>
+      <link>https://amrhub.ru/blog/2022/10/04/note04102022/</link>
+      <pubDate>Tue, 04 Oct 2022 13:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/10/04/note04102022/</guid>
+      <description>В свежем обновлении платформы AMRnote появился функционал создания СБОРНИКОВ, с помощью которых вы можете делиться сразу несколькими руководствами по терапии.</description>
+    </item>
+    
+    <item>
+      <title>AMRnote: обучающий вебинар [видео]</title>
+      <link>https://amrhub.ru/blog/2022/07/01/note01072022/</link>
+      <pubDate>Fri, 01 Jul 2022 13:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/07/01/note01072022/</guid>
+      <description>На YouTube опубликована запись вебинара «AMRnote: обучающий вебинар», прошедшего 30 июня 2022.</description>
+    </item>
+    
+    <item>
+      <title>AMRnote: обучающий вебинар</title>
+      <link>https://amrhub.ru/blog/2022/06/28/note28062022/</link>
+      <pubDate>Tue, 28 Jun 2022 13:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/06/28/note28062022/</guid>
+      <description>30 июня 2022 в 16:00 (МСК) команда разработчиков AMRhub презантует свой новый продукт.</description>
+    </item>
+    
+    <item>
+      <title>Обучающий семинар «AMRnote — локальные рекомендации по выбору антибиотикотерапии»</title>
+      <link>https://amrhub.ru/blog/2022/05/26/note26052022/</link>
+      <pubDate>Thu, 26 May 2022 13:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/05/26/note26052022/</guid>
+      <description>26 мая 2022 в рамках XXIV конгресса МАКМАХ прошёл обучающий семинар, посвящённый AMRnote</description>
+    </item>
+    
+  </channel>
+</rss>
