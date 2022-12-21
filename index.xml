@@ -6,10 +6,19 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 14 Dec 2022 09:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Dec 2022 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ralstonia insidiosa — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/12/21/ety-ralstonia-insidiosa/</link>
+      <pubDate>Wed, 21 Dec 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/12/21/ety-ralstonia-insidiosa/</guid>
+      <description>Ralstonia insidiosa — грамотрицательная палочковидная неферментирующая бактерия.</description>
+    </item>
     
     <item>
       <title>Shigella sonnei — почему такое название?</title>
@@ -76,10 +85,10 @@
     
     <item>
       <title>Pichia kudriavzevii — почему такое название?</title>
-      <link>https://amrhub.ru/blog/2022/11/09/ety-pichia-kudriavzevii/</link>
-      <pubDate>Wed, 09 Nov 2022 09:29:20 +0200</pubDate>
+      <link>https://amrhub.ru/blog/2022/11/02/ety-pichia-kudriavzevii/</link>
+      <pubDate>Wed, 02 Nov 2022 09:29:20 +0200</pubDate>
       
-      <guid>https://amrhub.ru/blog/2022/11/09/ety-pichia-kudriavzevii/</guid>
+      <guid>https://amrhub.ru/blog/2022/11/02/ety-pichia-kudriavzevii/</guid>
       <description>Pichia kudriavzevii — дрожжеподобный гриб, телеоморф (половая форма) Candida krusei.</description>
     </item>
     
@@ -138,21 +147,21 @@
     </item>
     
     <item>
-      <title>Мобильное приложение AMRexpert</title>
-      <link>https://amrhub.ru/blog/2022/09/07/expert14092022/</link>
-      <pubDate>Wed, 07 Sep 2022 09:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/blog/2022/09/07/expert14092022/</guid>
-      <description>Сервис AMRexpert стал доступен на мобильных устройствах.</description>
-    </item>
-    
-    <item>
       <title>Онлайн-тренинг по работе с сервисом AMRexpert</title>
       <link>https://amrhub.ru/blog/2022/09/07/expert07092022/</link>
       <pubDate>Wed, 07 Sep 2022 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2022/09/07/expert07092022/</guid>
       <description>15 сентября в 16:00 (МСК) в рамках проекта «Разговоры об инфекциях и антибиотиках» состоится онлайн-тренинг по работе с сервисом AMRexpert.</description>
+    </item>
+    
+    <item>
+      <title>Мобильное приложение AMRexpert</title>
+      <link>https://amrhub.ru/blog/2022/09/07/expert14092022/</link>
+      <pubDate>Wed, 07 Sep 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/09/07/expert14092022/</guid>
+      <description>Сервис AMRexpert стал доступен на мобильных устройствах.</description>
     </item>
     
     <item>
