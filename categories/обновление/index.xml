@@ -57,12 +57,12 @@
     </item>
     
     <item>
-      <title>В AMRcloud стали доступны критерии CLSI 2022</title>
-      <link>https://amrhub.ru/blog/2022/07/22/cloud21072022/</link>
-      <pubDate>Fri, 22 Jul 2022 09:29:20 +0200</pubDate>
+      <title>Обновление критериев CLSI</title>
+      <link>https://amrhub.ru/blog/2022/07/21/cloud21072022/</link>
+      <pubDate>Thu, 21 Jul 2022 09:29:20 +0200</pubDate>
       
-      <guid>https://amrhub.ru/blog/2022/07/22/cloud21072022/</guid>
-      <description>В AMRcloud стали доступны критерии CLSI 2022.</description>
+      <guid>https://amrhub.ru/blog/2022/07/21/cloud21072022/</guid>
+      <description>В платформе AMRcloud стали доступны критерии CLSI 2022.</description>
     </item>
     
     <item>
@@ -72,6 +72,24 @@
       
       <guid>https://amrhub.ru/blog/2022/07/05/cloud05072022/</guid>
       <description>Теперь на втором шаге загрузки/редактирования данных вы можете исключить повторные изоляты на основании пар-столбцов [идентификатор объекта]-[локус инфекции].</description>
+    </item>
+    
+    <item>
+      <title>Июньский пакет обновлений</title>
+      <link>https://amrhub.ru/blog/2022/06/22/cloud06062022/</link>
+      <pubDate>Wed, 22 Jun 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/06/22/cloud06062022/</guid>
+      <description>Июньское обновление платформы для анализа пользовательских данных антибиотикорезистентности AMRcloud</description>
+    </item>
+    
+    <item>
+      <title>Новый открытый проект</title>
+      <link>https://amrhub.ru/blog/2022/06/22/cloud20062022/</link>
+      <pubDate>Wed, 22 Jun 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/06/22/cloud20062022/</guid>
+      <description>На платформе AMRcloud опубликован новый открытый проект «Основные грамотрицательные бактериальные патогены, изолированные из дыхательных путей пациентов с муковисцидозом».</description>
     </item>
     
     <item>
@@ -90,6 +108,33 @@
       
       <guid>https://amrhub.ru/blog/2022/05/26/cloud26052022/</guid>
       <description>В ЛИС «Патоген» появилась возможность выгрузки данных в AMRcloud.</description>
+    </item>
+    
+    <item>
+      <title>Обновление AMRmap</title>
+      <link>https://amrhub.ru/blog/2022/05/23/map31052022/</link>
+      <pubDate>Mon, 23 May 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/05/23/map31052022/</guid>
+      <description>В мае произошло ежегодное обновление базы данных платформы AMRmap.</description>
+    </item>
+    
+    <item>
+      <title>Обновление критериев EUCAST</title>
+      <link>https://amrhub.ru/blog/2022/03/16/cloud16032022/</link>
+      <pubDate>Wed, 16 Mar 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/03/16/cloud16032022/</guid>
+      <description>В платформе AMRcloud стали доступны критерии EUCAST v.12.0 (2022).</description>
+    </item>
+    
+    <item>
+      <title>Февральский пакет обновлений</title>
+      <link>https://amrhub.ru/blog/2022/02/15/cloud15022022/</link>
+      <pubDate>Tue, 15 Feb 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/02/15/cloud15022022/</guid>
+      <description>Февральское обновление AMRcloud до версии 0.8 принесло новые возможности.</description>
     </item>
     
   </channel>
