@@ -47,5 +47,32 @@
       <description>30 июня 2022 в 16:00 (МСК) команда разработчиков AMRhub презантует свой новый продукт.</description>
     </item>
     
+    <item>
+      <title>Серия видеолекций «Мониторинг антибиотикорезистентности»</title>
+      <link>https://amrhub.ru/blog/2021/10/27/cloud27102021/</link>
+      <pubDate>Wed, 27 Oct 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/10/27/cloud27102021/</guid>
+      <description>Командой AMRhub подготовлена серия обучающих видеороликов по актуальным вопросам антибиотикорезистентности и ее контролю.</description>
+    </item>
+    
+    <item>
+      <title>Видеоруководство «Работа с AMRcloud»</title>
+      <link>https://amrhub.ru/blog/2021/10/22/cloud22102021/</link>
+      <pubDate>Fri, 22 Oct 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/10/22/cloud22102021/</guid>
+      <description>Командой AMRhub Подготовлена пошаговая видеоинструкция по работе с платформой AMRcloud.</description>
+    </item>
+    
+    <item>
+      <title>Платформа AMRcloud запущена в тестовом режиме</title>
+      <link>https://amrhub.ru/blog/2020/01/13/cloud13012020/</link>
+      <pubDate>Mon, 13 Jan 2020 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/01/13/cloud13012020/</guid>
+      <description>Год начинается с хороших новостей: онлайн-платформа для анализа и обмена данными антибиотикорезистентности AMRcloud&amp;hellip;</description>
+    </item>
+    
   </channel>
 </rss>
