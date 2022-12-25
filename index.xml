@@ -6,10 +6,19 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Dec 2022 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Dec 2022 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Krasilnikovia cinnamomea — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2022/12/25/ety-krasilnikovia-cinnamomea/</link>
+      <pubDate>Sun, 25 Dec 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/12/25/ety-krasilnikovia-cinnamomea/</guid>
+      <description>Krasilnikovia cinnamomea — грамположительная, аэробная, почвенная бактерия.</description>
+    </item>
     
     <item>
       <title>Ralstonia insidiosa — почему такое название?</title>
@@ -333,6 +342,42 @@
       
       <guid>https://amrhub.ru/blog/2021/12/10/cloud10122021/</guid>
       <description>Новым функционалом с дашбордами теперь пользуются коллеги из Якутской республиканской офтальмологической клинической больницы.</description>
+    </item>
+    
+    <item>
+      <title>Онлайн-семинар по внедрению платформы AMRcloud в мед.учреждениях Омска</title>
+      <link>https://amrhub.ru/blog/2021/12/01/news01122021/</link>
+      <pubDate>Wed, 01 Dec 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/12/01/news01122021/</guid>
+      <description>Заведующая бактериологической лабораторией РКБ (Омск) Елена Геннадьевна Бурасова провела онлайн-семинар по внедрению платформы AMRcloud в мед.учреждениях Омска для локального мониторинга антибиотикорезистентности.</description>
+    </item>
+    
+    <item>
+      <title>Онлайн-семинар «Цифровые технологии в медицине: анализ эпидемиологических данных для практического применения»</title>
+      <link>https://amrhub.ru/blog/2021/11/29/news29112021/</link>
+      <pubDate>Mon, 29 Nov 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/11/29/news29112021/</guid>
+      <description>30 ноября 2021 с 14:00 до 16:20 (МСК) пройдет онлайн-семинар «Цифровые технологии в медицине: анализ эпидемиологических данных для практического применения».</description>
+    </item>
+    
+    <item>
+      <title>#ЯпользуюсьAMRCLOUD</title>
+      <link>https://amrhub.ru/blog/2021/11/17/cloud17112021/</link>
+      <pubDate>Wed, 17 Nov 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/11/17/cloud17112021/</guid>
+      <description>Новым функционалом с дашбордами теперь пользуются коллеги из Республиканской клинической больнице им. Н.А. Семашко.</description>
+    </item>
+    
+    <item>
+      <title>Онлайн-семинар «Цифровые технологии в медицине: анализ эпидемиологических данных для практического применения»</title>
+      <link>https://amrhub.ru/blog/2021/11/15/news15112021/</link>
+      <pubDate>Mon, 15 Nov 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/11/15/news15112021/</guid>
+      <description>17 ноября 2021 с 10:00 до 12:30 (МСК) пройдет онлайн-семинар «Цифровые технологии в медицине: анализ эпидемиологических данных для практического применения».</description>
     </item>
     
     <item>
