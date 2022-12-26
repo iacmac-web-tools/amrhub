@@ -291,6 +291,24 @@
     </item>
     
     <item>
+      <title>Статья о AMRmap</title>
+      <link>https://amrhub.ru/blog/2022/05/23/map15032021/</link>
+      <pubDate>Mon, 23 May 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/05/23/map15032021/</guid>
+      <description>В международном журнале Frontiers in Microbiology вышла статья, посвящённая платформе AMRmap.</description>
+    </item>
+    
+    <item>
+      <title>Использования ЛИС в микробиологической практике</title>
+      <link>https://amrhub.ru/blog/2022/03/16/news14092021/</link>
+      <pubDate>Wed, 16 Mar 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/03/16/news14092021/</guid>
+      <description>Команда AMRhub просит вас пройти опрос, посвящённый вашему опыту использования ЛИС в микробиологической практике.</description>
+    </item>
+    
+    <item>
       <title>Обновление критериев EUCAST</title>
       <link>https://amrhub.ru/blog/2022/03/16/cloud16032022/</link>
       <pubDate>Wed, 16 Mar 2022 09:29:20 +0200</pubDate>
@@ -435,12 +453,48 @@
     </item>
     
     <item>
+      <title>Новый функционал AMRcloud: дашборды</title>
+      <link>https://amrhub.ru/blog/2021/10/08/cloud08102021/</link>
+      <pubDate>Fri, 08 Oct 2021 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/10/08/cloud08102021/</guid>
+      <description>Разработчики онлайн-платформы AMRcloud с радостью и гордостью объявляют о запуске нового, важного и полезного функционала: ДАШБОРДОВ!</description>
+    </item>
+    
+    <item>
+      <title>Открыт онлайн-доступ к руководству по мониторингу</title>
+      <link>https://amrhub.ru/blog/2021/10/04/monitoring04102021/</link>
+      <pubDate>Mon, 04 Oct 2021 12:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/10/04/monitoring04102021/</guid>
+      <description>На сайте monitoring.amrcloud.net в открытом доступе появилось практическое руководство «Мониторинг антибиотикорезистентности с использованием платформы AMRcloud»!</description>
+    </item>
+    
+    <item>
       <title>Создан конвертер для Adagio компании Bio-Rad</title>
       <link>https://amrhub.ru/blog/2021/10/04/cloud04102021/</link>
       <pubDate>Mon, 04 Oct 2021 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2021/10/04/cloud04102021/</guid>
       <description>Для пользователей бактериологического анализатора Adagio создан конвертер для подготовки данных к загрузке в AMRcloud.</description>
+    </item>
+    
+    <item>
+      <title>QR-коды для исследования CAZ-AVI</title>
+      <link>https://amrhub.ru/blog/2021/09/29/cloud29092021/</link>
+      <pubDate>Wed, 29 Sep 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/09/29/cloud29092021/</guid>
+      <description>Разработчики AMRcloud добавили новый функционал специально для центров, участвующих в исследовании CAZ-AVI.</description>
+    </item>
+    
+    <item>
+      <title>Итоги розыгрыша</title>
+      <link>https://amrhub.ru/blog/2021/09/28/news28092021/</link>
+      <pubDate>Tue, 28 Sep 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/09/28/news28092021/</guid>
+      <description>Мы подвели итоги нашего розыгрыша, посвящённого 5-летию платформы AMRmap.</description>
     </item>
     
     <item>
@@ -453,6 +507,42 @@
     </item>
     
     <item>
+      <title>Юбилей AMRmap</title>
+      <link>https://amrhub.ru/blog/2021/09/20/news20092021/</link>
+      <pubDate>Mon, 20 Sep 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/09/20/news20092021/</guid>
+      <description>В честь 5-летнего юбилея создания платформы AMRmap, мы бы хотели провести небольшой розыгрыш&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Онлайн-семинар «Цифровые технологии в медицине: анализ эпидемиологических данных для практического применения»</title>
+      <link>https://amrhub.ru/blog/2021/09/16/news16092021/</link>
+      <pubDate>Thu, 16 Sep 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/09/16/news16092021/</guid>
+      <description>6 октября 2021 с 14:00 до 16:30 (МСК) пройдет онлайн-семинар «Цифровые технологии в медицине: анализ эпидемиологических данных для практического применения».</description>
+    </item>
+    
+    <item>
+      <title>Новый открытый проект</title>
+      <link>https://amrhub.ru/blog/2021/09/13/cloud13092021/</link>
+      <pubDate>Mon, 13 Sep 2021 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/09/13/cloud13092021/</guid>
+      <description>На платформе AMRcloud опубликован новый открытый проект «Исследование SPECTRUM: эпидемиология и антибиотикорезистентность серотипов S. pneumoniae&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Примеры анализа данных в AMRcloud</title>
+      <link>https://amrhub.ru/blog/2021/09/08/cloud08092021/</link>
+      <pubDate>Wed, 08 Sep 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/09/08/cloud08092021/</guid>
+      <description>На сайте AMRcloud стало доступно новое руководство по анализу данных с большим количеством пошаговых примеров использования всех функций и вкладок нашей онлайн-платформы.</description>
+    </item>
+    
+    <item>
       <title>Обновление ЛИС «Акросс-Клиническая Лаборатория» (ЛИС АКЛ)</title>
       <link>https://amrhub.ru/blog/2021/08/25/cloud25082021/</link>
       <pubDate>Wed, 25 Aug 2021 09:29:20 +0200</pubDate>
@@ -462,12 +552,57 @@
     </item>
     
     <item>
+      <title>Рабочая поездка команды AMRhub в Казань</title>
+      <link>https://amrhub.ru/blog/2021/06/24/news24062021/</link>
+      <pubDate>Thu, 24 Jun 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/06/24/news24062021/</guid>
+      <description>23 июня сотрудники НИИ АХ с рабочей поездкой посетили Детскую республиканскую клиническую больницу&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Конвертация CAESAR ↔ AMRcloud</title>
+      <link>https://amrhub.ru/blog/2021/06/17/cloud17062021/</link>
+      <pubDate>Thu, 17 Jun 2021 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/06/17/cloud17062021/</guid>
+      <description>Хорошая новость для участников программы CAESAR&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Семинар «Использование IT-платформы AMRcloud для формирования локальной системы мониторинга антибиотикорезистентности»</title>
       <link>https://amrhub.ru/blog/2021/06/01/news01062021/</link>
       <pubDate>Tue, 01 Jun 2021 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2021/06/01/news01062021/</guid>
       <description>27 мая 2021 года в рамках XXIII конгресса МАКМАХ прошёл семинар&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Семинар «Использование IT-платформы #AMRcloud для формирования локальной системы мониторинга антибиотикорезистентности»</title>
+      <link>https://amrhub.ru/blog/2021/05/26/news26052021/</link>
+      <pubDate>Wed, 26 May 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/05/26/news26052021/</guid>
+      <description>27 мая в 12:00 в зале «Нептун» в рамках параллельной сетки XXIII конгресса МАКМАХ пройдёт семинар «Использование IT-платформы AMRcloud&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Подарки AMRteam за 2020 год</title>
+      <link>https://amrhub.ru/blog/2021/05/19/news19052021/</link>
+      <pubDate>Wed, 19 May 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/05/19/news19052021/</guid>
+      <description>Ещё в прошлом году мы обещали подарить всем участникам прошедшего 25 ноября 2020 онлайн-вебинара комплект AMRteam&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Печатная версия практического руководства</title>
+      <link>https://amrhub.ru/blog/2021/05/18/monitoring18052021/</link>
+      <pubDate>Tue, 18 May 2021 12:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/05/18/monitoring18052021/</guid>
+      <description>В интернет-магазине МАКМАХ вы уже можете приобрести печатную версию практического руководства «Мониторинг&amp;hellip;</description>
     </item>
     
     <item>
@@ -498,12 +633,66 @@
     </item>
     
     <item>
+      <title>Печатная версия практического руководства</title>
+      <link>https://amrhub.ru/blog/2021/04/19/monitoring19042021/</link>
+      <pubDate>Mon, 19 Apr 2021 12:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/04/19/monitoring19042021/</guid>
+      <description>17 апреля прошла презентация нового практического руководства AMRhub «Мониторинг антибиотикорезистентности с использованием платформы AMRcloud».</description>
+    </item>
+    
+    <item>
+      <title>Презентация практического руководства «Мониторинг антибиотикорезистентности с использованием платформы AMRcloud»</title>
+      <link>https://amrhub.ru/blog/2021/04/12/monitoring12042021/</link>
+      <pubDate>Mon, 12 Apr 2021 12:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/04/12/monitoring12042021/</guid>
+      <description>17 апреля 2021 в 12:00 (МСК) пройдет онлайн-презентация практического руководства «Мониторинг антибиотикорезистентности с использованием платформы AMRcloud».</description>
+    </item>
+    
+    <item>
+      <title>Новый открытый проект</title>
+      <link>https://amrhub.ru/blog/2021/04/12/cloud12042021/</link>
+      <pubDate>Mon, 12 Apr 2021 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/04/12/cloud12042021/</guid>
+      <description>На платформе AMRcloud опубликован новый открытый проект «Исследование DeMaRes»</description>
+    </item>
+    
+    <item>
+      <title>Обновление критериев CLSI</title>
+      <link>https://amrhub.ru/blog/2021/04/08/cloud08042021/</link>
+      <pubDate>Thu, 08 Apr 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/04/08/cloud08042021/</guid>
+      <description>В платформе AMRcloud стали доступны критерии CLSI 2021.</description>
+    </item>
+    
+    <item>
+      <title>Запуск AMRforum</title>
+      <link>https://amrhub.ru/blog/2021/04/07/forum07042021/</link>
+      <pubDate>Wed, 07 Apr 2021 13:50:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/04/07/forum07042021/</guid>
+      <description>Мы рады сообщить вам о запуске нашего нового сервиса &lt;strong&gt;AMRforum&lt;/strong&gt;, который доступен по адресу forum.amrhub.ru.</description>
+    </item>
+    
+    <item>
       <title>Мартовский пакет обновлений</title>
       <link>https://amrhub.ru/blog/2021/03/31/cloud31032021/</link>
       <pubDate>Wed, 31 Mar 2021 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2021/03/31/cloud31032021/</guid>
       <description>Мартовское обновление платформы для анализа пользовательских данных антибиотикорезистентности AMRcloud.</description>
+    </item>
+    
+    <item>
+      <title>Мартовский пакет обновлений</title>
+      <link>https://amrhub.ru/blog/2021/03/11/map11032021/</link>
+      <pubDate>Thu, 11 Mar 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/03/11/map11032021/</guid>
+      <description>Мартовское обновление платформы анализа данных резистентности к антимикробным препаратам в России AMRmap.</description>
     </item>
     
     <item>
@@ -525,12 +714,39 @@
     </item>
     
     <item>
+      <title>Обновление открытого проекта</title>
+      <link>https://amrhub.ru/blog/2021/02/10/cloud10022021/</link>
+      <pubDate>Wed, 10 Feb 2021 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/02/10/cloud10022021/</guid>
+      <description>На платформе AMRcloud обновился открытый проект «Исследование CAZ-AVI»</description>
+    </item>
+    
+    <item>
+      <title>Внедрение AMRcloud</title>
+      <link>https://amrhub.ru/blog/2021/01/28/news28012021/</link>
+      <pubDate>Thu, 28 Jan 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/01/28/news28012021/</guid>
+      <description>Микробиологи РБ№2 – ЦЭМП первыми внедрили уникальную онлайн-платформу AMRcloud.</description>
+    </item>
+    
+    <item>
       <title>Январский пакет обновлений</title>
       <link>https://amrhub.ru/blog/2021/01/27/cloud27012021/</link>
       <pubDate>Wed, 27 Jan 2021 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2021/01/27/cloud27012021/</guid>
       <description>Январское обновление платформы для анализа пользовательских данных антибиотикорезистентности AMRcloud.</description>
+    </item>
+    
+    <item>
+      <title>AMRhub: итоги 2020 года</title>
+      <link>https://amrhub.ru/blog/2020/12/28/news28122020/</link>
+      <pubDate>Mon, 28 Dec 2020 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/12/28/news28122020/</guid>
+      <description>Команда AMRhub поздравляет всех с наступающим Новым Годом и подводит итоги работы в 2020-ом.</description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Опрос on AMRhub</title>
+    <link>https://amrhub.ru/categories/%D0%BE%D0%BF%D1%80%D0%BE%D1%81/</link>
+    <description>Recent content in Опрос on AMRhub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 16 Mar 2022 09:29:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://amrhub.ru/categories/%D0%BE%D0%BF%D1%80%D0%BE%D1%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Использования ЛИС в микробиологической практике</title>
+      <link>https://amrhub.ru/blog/2022/03/16/news14092021/</link>
+      <pubDate>Wed, 16 Mar 2022 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/03/16/news14092021/</guid>
+      <description>Команда AMRhub просит вас пройти опрос, посвящённый вашему опыту использования ЛИС в микробиологической практике.</description>
+    </item>
+    
+  </channel>
+</rss>
