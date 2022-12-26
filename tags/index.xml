@@ -6,26 +6,62 @@
     <description>Recent content in Tags on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Dec 2022 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>MicrobeNames</title>
-      <link>https://amrhub.ru/tags/microbenames/</link>
-      <pubDate>Sun, 25 Dec 2022 00:29:20 +0200</pubDate>
+      <title>AMRcloud</title>
+      <link>https://amrhub.ru/tags/amrcloud/</link>
+      <pubDate>Mon, 26 Dec 2022 00:29:20 +0200</pubDate>
       
-      <guid>https://amrhub.ru/tags/microbenames/</guid>
+      <guid>https://amrhub.ru/tags/amrcloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMRexpert</title>
       <link>https://amrhub.ru/tags/amrexpert/</link>
-      <pubDate>Sat, 19 Nov 2022 09:29:20 +0200</pubDate>
+      <pubDate>Mon, 26 Dec 2022 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/amrexpert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMRmap</title>
+      <link>https://amrhub.ru/tags/amrmap/</link>
+      <pubDate>Mon, 26 Dec 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMRnote</title>
+      <link>https://amrhub.ru/tags/amrnote/</link>
+      <pubDate>Mon, 26 Dec 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrnote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicrobeNames</title>
+      <link>https://amrhub.ru/tags/microbenames/</link>
+      <pubDate>Mon, 26 Dec 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/microbenames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://amrhub.ru/tags/monitoring/</link>
+      <pubDate>Mon, 26 Dec 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/monitoring/</guid>
       <description></description>
     </item>
     
@@ -35,42 +71,6 @@
       <pubDate>Tue, 18 Oct 2022 13:50:46 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/amrcf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRnote</title>
-      <link>https://amrhub.ru/tags/amrnote/</link>
-      <pubDate>Wed, 12 Oct 2022 13:39:46 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrnote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRcloud</title>
-      <link>https://amrhub.ru/tags/amrcloud/</link>
-      <pubDate>Mon, 26 Sep 2022 09:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrcloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRmap</title>
-      <link>https://amrhub.ru/tags/amrmap/</link>
-      <pubDate>Tue, 20 Sep 2022 13:50:46 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monitoring</title>
-      <link>https://amrhub.ru/tags/monitoring/</link>
-      <pubDate>Thu, 08 Sep 2022 12:47:08 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/monitoring/</guid>
       <description></description>
     </item>
     

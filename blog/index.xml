@@ -6,10 +6,19 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 25 Dec 2022 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2022 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AMRhub: итоги 2022 года</title>
+      <link>https://amrhub.ru/blog/2022/12/26/news26122022/</link>
+      <pubDate>Mon, 26 Dec 2022 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2022/12/26/news26122022/</guid>
+      <description>Команда AMRhub поздравляет всех с наступающим Новым Годом и подводит итоги работы в 2022-ом.</description>
+    </item>
     
     <item>
       <title>Krasilnikovia cinnamomea — почему такое название?</title>
@@ -405,6 +414,15 @@
       
       <guid>https://amrhub.ru/blog/2021/10/21/news21102021/</guid>
       <description>15 октября 2021 года в рамках V Сибирской конференции по антимикробной терапии и клинической микробиологии&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>#ЯпользуюсьAMRCLOUD</title>
+      <link>https://amrhub.ru/blog/2021/10/15/cloud15102021/</link>
+      <pubDate>Fri, 15 Oct 2021 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2021/10/15/cloud15102021/</guid>
+      <description>Новым функционалом с дашбордами теперь пользуются коллеги из Республиканская больница №2 - Центр экстренной медицинской помощи.</description>
     </item>
     
     <item>
