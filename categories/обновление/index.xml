@@ -354,6 +354,24 @@
     </item>
     
     <item>
+      <title>Обновление платформы AMRmap</title>
+      <link>https://amrhub.ru/blog/2020/10/29/map28042020/</link>
+      <pubDate>Thu, 29 Oct 2020 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/10/29/map28042020/</guid>
+      <description>Проведена интеграция платформы AMRmap и онлайн-справочника AMRbook.</description>
+    </item>
+    
+    <item>
+      <title>Октябрьский пакет обновлений</title>
+      <link>https://amrhub.ru/blog/2020/10/29/map29102020/</link>
+      <pubDate>Thu, 29 Oct 2020 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/10/29/map29102020/</guid>
+      <description>Октябрьское обновление платформы анализа данных резистентности к антимикробным препаратам в России AMRmap.</description>
+    </item>
+    
+    <item>
       <title>Октябрьский пакет обновлений</title>
       <link>https://amrhub.ru/blog/2020/10/17/cloud17102020/</link>
       <pubDate>Sat, 17 Oct 2020 09:29:20 +0200</pubDate>
@@ -372,12 +390,57 @@
     </item>
     
     <item>
+      <title>Обновление критериев CLSI</title>
+      <link>https://amrhub.ru/blog/2020/06/16/cloud16062020/</link>
+      <pubDate>Tue, 16 Jun 2020 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/06/16/cloud16062020/</guid>
+      <description>В платформе AMRcloud стали доступны критерии CLSI 2018-19.</description>
+    </item>
+    
+    <item>
+      <title>Новый открытый проект</title>
+      <link>https://amrhub.ru/blog/2020/06/15/cloud15062020/</link>
+      <pubDate>Mon, 15 Jun 2020 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/06/15/cloud15062020/</guid>
+      <description>На платформе AMRcloud обновился открытый проект «Исследование «ДАРМИС»</description>
+    </item>
+    
+    <item>
+      <title>Обновление критериев EUCAST</title>
+      <link>https://amrhub.ru/blog/2020/04/21/map21042020/</link>
+      <pubDate>Tue, 21 Apr 2020 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/04/21/map21042020/</guid>
+      <description>В платформе AMRmap стали доступны критерии EUCAST v.10.0 (2020).</description>
+    </item>
+    
+    <item>
       <title>Обновление критериев EUCAST</title>
       <link>https://amrhub.ru/blog/2020/03/11/cloud11032020/</link>
       <pubDate>Wed, 11 Mar 2020 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2020/03/11/cloud11032020/</guid>
       <description>В платформе AMRcloud стали доступны критерии EUCAST v.10.0 (2020).</description>
+    </item>
+    
+    <item>
+      <title>Новый открытый проект</title>
+      <link>https://amrhub.ru/blog/2020/02/11/cloud04022020/</link>
+      <pubDate>Tue, 11 Feb 2020 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/02/11/cloud04022020/</guid>
+      <description>На платформе AMRcloud опубликован новый открытый проект «Acinetobacter baumannii»</description>
+    </item>
+    
+    <item>
+      <title>Новый открытый проект</title>
+      <link>https://amrhub.ru/blog/2020/02/11/cloud11022020/</link>
+      <pubDate>Tue, 11 Feb 2020 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2020/02/11/cloud11022020/</guid>
+      <description>На платформе AMRcloud опубликован новый открытый проект «CAZ-AVI»</description>
     </item>
     
     <item>
