@@ -452,5 +452,32 @@
       <description>В платформе AMRcloud стали доступны критерии EUCAST ECOFF.</description>
     </item>
     
+    <item>
+      <title>AMRmap 2.0</title>
+      <link>https://amrhub.ru/blog/2019/04/02/map02042019/</link>
+      <pubDate>Tue, 02 Apr 2019 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2019/04/02/map02042019/</guid>
+      <description>Rоманда разработчиков презентует новую версию продукта AMRmap 2.0, изменения в которой коснулись не только графической составляющей, но и&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Руководство пользователя</title>
+      <link>https://amrhub.ru/blog/2018/08/07/map07082018/</link>
+      <pubDate>Tue, 07 Aug 2018 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2018/08/07/map07082018/</guid>
+      <description>Обновлённое руководство пользователя AMRmap теперь доступно в формате онлайн-книги.</description>
+    </item>
+    
+    <item>
+      <title>Серия обучающих видеороликов</title>
+      <link>https://amrhub.ru/blog/2018/03/28/map28032018/</link>
+      <pubDate>Wed, 28 Mar 2018 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2018/03/28/map28032018/</guid>
+      <description>На YouTube опубликована серия обучающих видеороликов, посвященных работе с платформой AMRmap.</description>
+    </item>
+    
   </channel>
 </rss>
