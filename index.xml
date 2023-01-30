@@ -6,10 +6,19 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Jan 2023 09:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jan 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leptospira noguchii — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2023/01/30/ety-leptospira-noguchii/</link>
+      <pubDate>Mon, 30 Jan 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/01/30/ety-leptospira-noguchii/</guid>
+      <description>Leptospira noguchii — грамотрицательная аэробная подвижная спиралевидная бактерия.</description>
+    </item>
     
     <item>
       <title>Интеграция с Системой годовых отчетов</title>
