@@ -6,10 +6,19 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 30 Jan 2023 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Январский пакет обновлений</title>
+      <link>https://amrhub.ru/blog/2023/01/31/cloud31012023/</link>
+      <pubDate>Tue, 31 Jan 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/01/31/cloud31012023/</guid>
+      <description>Январское обновление платформы для анализа пользовательских данных антибиотикорезистентности AMRcloud.</description>
+    </item>
     
     <item>
       <title>Leptospira noguchii — почему такое название?</title>
