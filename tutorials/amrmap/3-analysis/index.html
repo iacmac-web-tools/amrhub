@@ -1,0 +1,1924 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title> Анализ данных </title>
+<meta name="author" content="DevCows" />
+
+
+
+
+<meta name="keywords" content="amrhub, microbiology, bacteriology, AMR, Антибиотикорезистентность, AntimicrobialResistance, Антибиотики, медицина, Микробиология, бактериология">
+
+
+<meta name="description" content="Виртуальная точка входа для экосистемы уникальных веб-продуктов, посвященных вопросам антимикробной резистентности.">
+
+<script type="text/javascript" >
+  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+  m[i].l=1*new Date();
+  for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+  k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+  (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+  ym(91843173, "init", {
+       clickmap:true,
+       trackLinks:true,
+       accurateTrackBounce:true,
+       webvisor:true
+  });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/91843173" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+<meta name="generator" content="Hugo 0.59.1" />
+
+
+<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.2/css/academicons.min.css" integrity crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link href="/css/animate.css" rel="stylesheet">
+
+
+
+  <link href="/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
+
+
+
+<link href="/css/custom.css?1675322094" rel="stylesheet">
+
+
+
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
+
+
+<link href="/css/owl.carousel.css" rel="stylesheet">
+<link href="/css/owl.theme.css" rel="stylesheet">
+
+
+<link rel="alternate" href="https://amrhub.ru/index.xml" type="application/rss+xml" title="AMRhub">
+
+
+
+
+
+
+
+
+<meta property="og:locale" content="ru">
+<meta property="og:site_name" content="AMRhub">
+<meta property="og:title" content=" Анализ данных ">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://amrhub.ru/tutorials/amrmap/3-analysis/" />
+<meta property="og:description" content="Виртуальная точка входа для экосистемы уникальных веб-продуктов, посвященных вопросам антимикробной резистентности.">
+<meta property="og:image" content="https://amrhub.ru/img/sharing-default.png">
+<meta property="og:image:type" content="image/png">
+
+
+
+  <meta property="og:image:width" content="800">
+  <meta property="og:image:height" content="420">
+
+
+<meta property="og:updated_time" content="2020-02-14T00:04:00Z">
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@GoHugoIO">
+<meta name="twitter:title" content=" Анализ данных ">
+
+<meta name="twitter:image" content="https://amrhub.ru/img/sharing-default.png">
+
+<meta name="twitter:description" content="Виртуальная точка входа для экосистемы уникальных веб-продуктов, посвященных вопросам антимикробной резистентности.">
+
+
+    
+  </head>
+
+  <body>
+
+    
+<header>
+  <div id="top">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-5">
+          support@antibiotic.ru
+        </div>
+        <div class="col-xs-7">
+          <div class="social">
+            
+            <a href="https://www.antibiotic.ru/" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-globe'></i></a>
+            
+            <a href="https://www.youtube.com/@IACMAC" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-youtube'></i></a>
+            
+            <a href="https://vk.com/iacmac" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-vk'></i></a>
+            
+            <a href="https://t.me/iacmac" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-telegram'></i></a>
+            
+            <a href="mailto:support@antibiotic.ru" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope'></i></a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+    <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
+    <div class="navbar navbar-default yamm " role="navigation" id="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="/">
+                    
+                      <img src="/img/logo.png" alt="3. Анализ данных logo" class="hidden-xs hidden-sm" />
+                      <img src="/img/logo-small.png" alt="3. Анализ данных logo" class="visible-xs visible-sm" />
+                    
+                    <span class="sr-only">3. Анализ данных - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Toggle Navigation</span>
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/">Главная</a>
+                  </li>
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/blog/">Новости</a>
+                  </li>
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/projects/">Проекты</a>
+                  </li>
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/tutorials/">Руководства</a>
+                  </li>
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Команда <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/team/kuzmenkov-ay">Кузьменков А.Ю.</a></li>
+                            
+                            <li><a href="/team/vinogradova-ag">Виноградова А.Г.</a></li>
+                            
+                            <li><a href="/team/trushin-iv">Трушин И.В.</a></li>
+                            
+                            <li><a href="/team/avramenko-aa">Авраменко А.А.</a></li>
+                            
+                            <li><a href="/team/starostenkov-aa">Старостенков А.А.</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                  
+
+                  
+                 <li class="dropdown">
+              
+<a href="/eng/main"><span class="emoji-flag-icon"><img src="\img\flag-uk.png" style="margin-right: 5px; height: 15px;"></span><span>English</span></a>
+                      </li>
+                      
+                    </ul>
+                </li>
+                </ul>
+            </div>
+            
+
+            <div class="collapse clearfix" id="search">
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+                </span>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</header>
+
+
+
+    <div id="heading-breadcrumbs">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-12">
+                  <h1></h1>
+              </div>
+          </div>
+      </div>
+  </div>
+
+
+
+
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn-template-main docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/tutorials/amrmap/">Руководство</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/tutorials/amrmap/1-info/">1. Общая информация</a>
+      </li>
+      
+      <li >
+        <a href="/tutorials/amrmap/2-access/">2. Доступ к системе</a>
+      </li>
+      
+      <li class="active">
+        <a href="/tutorials/amrmap/3-analysis/">3. Анализ данных</a>
+      </li>
+      
+      <li >
+        <a href="/tutorials/amrmap/4-addition/">4. Дополнительная информация</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title"></a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#3-1-основная-информация">3.1 Основная информация</a>
+<ul>
+<li><a href="#3-1-2-микроорганизмы">3.1.2 Микроорганизмы</a></li>
+<li><a href="#3-1-3-антибиотики-все">3.1.3 Антибиотики (все)</a></li>
+<li><a href="#3-2-1-суммарная-информация">3.2.1 Суммарная информация</a></li>
+<li><a href="#3-2-2-по-группам">3.2.2 По группам</a></li>
+<li><a href="#3-2-3-карта">3.2.3 Карта</a></li>
+<li><a href="#3-2-4-мпк">3.2.4 МПК</a></li>
+</ul></li>
+<li><a href="#3-3-ассоциированная-wbr-устойчивость">3.3 Ассоциированная<wbr> устойчивость</a>
+<ul>
+<li><a href="#3-3-1-матрица">3.3.1 Матрица</a></li>
+<li><a href="#3-3-2-тренд">3.3.2 Тренд</a></li>
+<li><a href="#3-3-3-таблица">3.3.3 Таблица</a></li>
+<li><a href="#3-3-4-множественная-wbr-устойчивость">3.3.4 Множественная<wbr> устойчивость</a></li>
+<li><a href="#3-3-5-диаграмма-wbr-рассеяния-мпк">3.3.5 Диаграмма<wbr> рассеяния МПК</a></li>
+<li><a href="#3-3-6-поиск-правил">3.3.6 Поиск правил</a></li>
+</ul></li>
+<li><a href="#3-4-генетические-детерминанты-резистентности">3.4 Генетические детерминанты резистентности</a>
+<ul>
+<li><a href="#3-4-1-карта">3.4.1 Карта</a></li>
+<li><a href="#3-4-2-карта-x2">3.4.2 Карта x2</a></li>
+<li><a href="#3-4-3-маркеры">3.4.3 Маркеры</a></li>
+<li><a href="#3-4-4-антибиотики-все">3.4.4 Антибиотики (все)</a></li>
+<li><a href="#3-4-5-мпк">3.4.5 МПК</a></li>
+<li><a href="#3-4-6-тренд">3.4.6 Тренд</a></li>
+<li><a href="#3-4-7-время-первого-wbr-обнаружения">3.4.7 Время первого<wbr> обнаружения</a></li>
+</ul></li>
+<li><a href="#3-5-сравнения">3.5 Сравнения</a>
+<ul>
+<li><a href="#3-5-1-суммарно">3.5.1 Суммарно</a></li>
+<li><a href="#3-5-2-по-годам">3.5.2 По годам</a></li>
+<li><a href="#3-5-3-мпк">3.5.3 МПК</a></li>
+<li><a href="#3-5-4-детерминанты">3.5.4 Детерминанты</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>3. Анализ данных</h1>
+
+          <div class="article-style">
+            
+
+<h2 id="3-1-основная-информация">3.1 Основная информация</h2>
+
+<p>Принцип работы онлайн платформы рассмотрим на примере.</p>
+<p>Приступая к анализу данных в приложении, пользователю прежде всего необходимо определить задачу (вопрос).</p>
+<p>Сформулируем следующую задачу:</p>
+<blockquote>
+<p>Определить чувствительность к различным антимикробным препаратам микроорганизмов и группы микроорганизмов, которые наиболее часто, согласно данным приложения, были выделены при
+<strong>Нозокомиальных инфекциях</strong> во <strong>Всех</strong> федеральных округах, <strong>Всех</strong> краях/областях/республиках, <strong>Всех</strong> городах, <strong>Всех</strong> ЛПУ, <strong>Всех</strong> отделениях, <strong>Всех</strong> локализациях инфекционного процесса, при возрасте исследуемой группы <strong>от 0 до 104 лет</strong>, за период <strong>с 1997 по 2018 гг.</strong></p>
+</blockquote>
+
+### 3.1.1 Параметры выбора
+<p><strong><em>I. Параметры основные</em></strong></p>
+<p>Рассмотрим пошагово выбор данных параметров.</p>
+<p><strong>Выбор группы инфекций.</strong></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice1.png"><img src="/img/tutorials/amrmap/04_example/choice1.png" /></a></p>
+<p><strong>Выбор</strong> Всех <strong>Федеральных округов.</strong></p>
+<p>Для того, чтобы не выбирать физически все доступные федеральные округа, выберем пункт <strong>Все</strong> из
+выпадающего списка, который появляется при нажатии на поле <strong>2. Федеральный округ</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice2.png"><img src="/img/tutorials/amrmap/04_example/choice2.png" /></a></p>
+<p><strong>Выбор</strong> Всех <strong>Областей/краев/республик.</strong></p>
+<p>Для того, чтобы не выбирать физически все области/края/республики, выберем пункт <strong>Все</strong> из выпадающего списка, который появляется при нажатии на поле <strong>3. Область/Край/республика</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice3.png"><img src="/img/tutorials/amrmap/04_example/choice3.png" /></a></p>
+<p>Выбор <strong>Все</strong> города в поле <strong>4. Город</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice4.png"><img src="/img/tutorials/amrmap/04_example/choice4.png" /></a></p>
+<p><strong>Выбор</strong> в поле <strong>5. ЛПУ</strong>.</p>
+<p>Выбор в данном поле доступен только для пользователей с <strong>Экспертным уровнем доступа</strong>,
+пользователи с общими правами доступа не могут использовать данное поле, и значение <strong>Все</strong> выбрано по умолчанию.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice5.png"><img src="/img/tutorials/amrmap/04_example/choice5.png" /></a></p>
+<p>Выбор <strong>Все</strong> в поле <strong>6. Профиль отделения</strong>.</p>
+<p><strong>ВАЖНО !</strong></p>
+<blockquote>
+<ul>
+<li>Профиль отделения “Терапия” обобщает различные отделения терапевтической направленности (кардиология, пульмонология и т.д.).</li>
+<li>Профиль отделения “Хирургия” обобщает различные отделения хирургической направленности (абдоминальная хирургия, торакальная хирургия и т.д.).</li>
+<li>Если пользователя интересует узкоспециализированное отделение или группа пациентов, то получить необходимую выборку можно путем использования фильтров в поле <strong>7. Локализация инфекции</strong> и <strong>8. Клинический материал</strong></li>
+</ul>
+</blockquote>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice6.png"><img src="/img/tutorials/amrmap/04_example/choice6.png" /></a></p>
+<p>Выбор <strong>Все</strong> виды локализаций инфекций в поле <strong>7. Локализация инфекции</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice7.png"><img src="/img/tutorials/amrmap/04_example/choice7.png" /></a></p>
+<p>Выбор варианта <strong>Все</strong> в поле <strong>8.Клинический материал</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice8.png"><img src="/img/tutorials/amrmap/04_example/choice8.png" /></a></p>
+<p>Выбор <strong>9. Период</strong> и <strong>10. Возраст пациента, лет</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice9.png"><img src="/img/tutorials/amrmap/04_example/choice9.png" /></a></p>
+<pre><code> Напомним, что для начала нам нужно определить микроорганизмы и группы микроорганизмов которые, наиболее часто, согласно данным приложения, были выделены 
+ при выбранных параметрах </code></pre>
+<p>Результат представлен в следующем разделе <strong>Микроорганизмы</strong></p>
+
+<h3 id="3-1-2-микроорганизмы">3.1.2 Микроорганизмы</h3>
+
+<p>Чтобы ответить на вопрос о наиболее часто выделенных микроорганизмах и группах микроорганизмов при выбранных условиях, после заполнения полей <strong>1-10</strong> необходимо нажать на кнопку <strong>Отобразить ТОП 10</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice10.png"><img src="/img/tutorials/amrmap/04_example/choice10.png" /></a></p>
+<p>После нажатия на данную кнопку во вкладке <strong>Микроорганизмы</strong> появляются интерактивные гистограммы частот выделения микроорганизмов и групп микроорганизмов(представлены ниже).</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/graph1.png"><img src="/img/tutorials/amrmap/04_example/graph1.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранять полученный график, для этого необходимо нажать на символ <strong>“три полоски”</strong>, в выпавшем меню выбрать подходящий формат.</em></p>
+<p>Для просмотра распределения микроорганизмов внутри одной группы необходимо выбрать интересующий параметр в поле <strong>11.Группа микроорганизмов</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/graph2.png"><img src="/img/tutorials/amrmap/04_example/graph2.png" /></a></p>
+<p>Таким образом, изучая графики ТОП 10 микроорганизмов и ТОП 10 групп, пользователь может получить информацию о микроорганизмах и группе микроорганизмов, которые наиболее часто выделяются при заданных параметрах.</p>
+<p>Данные графики призваны помочь пользователю сориентироваться при выборе параметров <strong>11. Группа микроорганизмов</strong> и <strong>12. Микроорганизм</strong>,
+подразумевая, что пользователю интересны наиболее часто встречающиеся возбудители.</p>
+<p>После того, как пользователь получил представление о частотах выделения микроорганизмов и групп микроорганизмов, необходимо приступить к выбору параметров
+<strong>11. Группа микроорганизмов</strong> и <strong>12. Микроорганизм</strong>.</p>
+<p><strong>Выбор</strong> показателя <strong>Группа микроорганизмов</strong>.</p>
+<p>Предположим, что после изучения графика на вкладке <strong>ТОП 10 групп</strong>, пользователя заинтересовала группа, занимающая <em>3-е место</em> по частоте выделения - <em>Staphylococcus spp</em>.</p>
+<p>Выберем данную группу в поле <strong>11. Группа микроорганизмов</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice13.png"><img src="/img/tutorials/amrmap/04_example/choice13.png" /></a></p>
+<p><strong>Выбор микроорганизма.</strong></p>
+<p>Выберем <strong>Все</strong> микроорганизмы в
+группе <em>Staphylococcus</em> spp. в поле
+<strong>12. Микроорганизм</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice14.png"><img src="/img/tutorials/amrmap/04_example/choice14.png" /></a></p>
+<p><strong><em>II. Поле инфографики</em></strong></p>
+<p>Последовательный выбор параметров <strong>1-10</strong> и заполнение полей <strong>Группа микроорганизмов</strong> и <strong>Микроорганизм</strong>, рассмотренные в разделе
+<strong>Параметры основные</strong> позволяет приступить к работе в <strong>Поле инфографики</strong>.</p>
+
+<h3 id="3-1-3-антибиотики-все">3.1.3 Антибиотики (все)</h3>
+
+<p>После введения необходимых данных во вкладке необходимо нажать кнопку <strong>Отобразить</strong>.</p>
+<ul>
+<li><em>Гистограмма</em></li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice16.png"><img src="/img/tutorials/amrmap/04_example/choice16.png" /></a></p>
+<p>На представленой гистограмме:</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice16_2.png"><img src="/img/tutorials/amrmap/04_example/choice16_2.png" /></a></p>
+<ul>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) расположены в порядке убывания.</strong></span></li>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы) отсортированы по увеличению относительного количества.</strong></span></li>
+</ul>
+<p>По умолчанию в представленном разделе установлено значение <strong>“Все”</strong>.</p>
+<p>Для сравнения определенных антибактериальных препаратов, в выпадающем окне следует выбрать необходимые для сравнения варианты.</p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code> Антибиотики - Цефтаролин,Клиндамицин, Ципрофлоксацин</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice_all1.png"><img src="/img/tutorials/amrmap/04_example/choice_all1.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li><p>при наведении курсора мыши на интересующую часть гистограммы отобразится всплывающее окно с числовым значением (в %) для данного столбца</p></li>
+<li><p>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его категорий</p></li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат.</em></p>
+<ul>
+<li><em>Таблица</em></li>
+</ul>
+<p>Представленная таблица состоит из 5 столбцов:</p>
+<ul>
+<li><strong>Антибиотик</strong> - доступен выбор препаратов(возможен множественный выбор) из выпадающего списка</li>
+<li><strong>категория</strong> - последовательно расположены обозначения:
+<ul>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span></li>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) </strong></span></li>
+</ul></li>
+<li><strong>%</strong> - относительное количество микроорганизмов данной категории, выделенных за весь выбранный промежуток времени</li>
+<li><strong>количество</strong> - абсолютное количество микроорганизмов определенной категории к общему количеству изолятов за рассматриваемый период</li>
+<li><strong>95% ДИ</strong> - 95% Доверительный интервал для относительного количества микроорганизмов определенной категории за определенный период времени</li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice_all2.png"><img src="/img/tutorials/amrmap/04_example/choice_all2.png" /></a></p>
+<hr />
+<p>Необходимо подчеркнуть, что для столбцов,<strong>Количество,95 ДИ</strong> возможно применение фильтров в нескольких вариантах:</p>
+<ul>
+<li>Введение в строке поиска интересующие значения (<em>Категория</em>)</li>
+<li>Нажатие на строку поиска столбцов с числовыми показателями приводит к появлению ползунка, регулируя положение (<em>%</em>)</li>
+<li>Нажатие на строку поиска столбец <em>Антибиотики</em> позволяет пользователям выбрать необходимые антибиотики из выпадающего списка</li>
+<li>Сортировка данных по возрастанию (стрелка вверх) или убыванию (стрелка вниз)</li>
+</ul>
+<hr />
+
+
+## 3.2 Выбранный антибиотик
+<p>В нашем примере мы выбрали Гентамицин.
+Нажимаем кнопку <strong>Отобразить</strong>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice17.png"><img src="/img/tutorials/amrmap/04_example/choice17.png" /></a></p>
+
+<h3 id="3-2-1-суммарная-информация">3.2.1 Суммарная информация</h3>
+
+<p>Появляется график, содержащий суммарную информацию по активности выбранного препарата.</p>
+<ul>
+<li><p>Слева на экране последовательно отображены:</p>
+<ul>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы)</strong>,</span></li>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong>,</span></li>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong>.</span></li>
+</ul></li>
+</ul>
+<p>Доступна информация по относительному и абсолютному количеству изолятов, 95% ДИ.</p>
+<ul>
+<li>Справа указано количество городов, принимающих участие, и абсолютное количество протестированных изолятов по
+отношению к выбранному антибактериальному препарату.</li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice18.png"><img src="/img/tutorials/amrmap/04_example/choice18.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат.</em></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice19.png"><img src="/img/tutorials/amrmap/04_example/choice19.png" /></a></p>
+
+<h3 id="3-2-2-по-группам">3.2.2 По группам</h3>
+
+<p>Основным преимуществом данного раздела является работа с широким спектром настраиваемых параметров.</p>
+<p><strong><em>I. Группировать по </em></strong></p>
+<p>Подвкладка позволяет группировать данные по представленным ниже параметрам. Необходимо отметить, что для правильного отображения гистограммы для выбранного параметра в соответствующем разделе <strong>Параметры основные</strong> должен быть выбран вариант <strong>Все</strong>. В другом случае будет предложено выбрать для представления данных <strong>Таблицу</strong>.</p>
+<ul>
+<li><p><strong>Период</strong> - деление выбранного промежутка времени происходит по годам</p></li>
+<li><p><strong>Тип инфекции</strong> - соответствует выбранному параметру в поле <strong>1. Группа инфекций</strong>
+Для представления данных в виде Гистограммы в поле <strong>1. Группа инфекций</strong> следует выбрать <strong>Все</strong>.</p></li>
+<li><p><strong>Федеральный округ</strong> - для отображения данных в виде гистограммы в поле <strong>2. Федеральный округ</strong> необходимо выбрать <strong>Все</strong>.</p></li>
+<li><strong>Область/Край/Республика</strong> - для отображения данных в виде гистограммы в поле <strong>3.Область/Край/Республика</strong> рекомендуется выбрать <strong>Все</strong></li>
+<li><strong>Город</strong> - для отображения данных в виде гистограммы в поле <strong>4.Город</strong> рекомендуется выбрать <strong>Все</strong></li>
+<li><strong>Профиль отделения</strong> - для отображения данных в виде гистограммы в поле <strong>6.Профиль отделения</strong> рекомендуется выбрать <strong>Все</strong> или несколько вариантов профиля отделений в выпадающем списке.</li>
+<li><strong>Локализация инфекции</strong> - для отображения данных в виде гистограммы в поле <strong>7.Локализация инфекции</strong> рекомендуется выбрать <strong>Все</strong> или несколько вариантов локализаций инфекции в выпадающем списке.</li>
+<li><strong>Клинический материал</strong> - для отображения данных в виде гистограммы в поле <strong>8.Клинический материал</strong> рекомендуется выбрать <strong>Все</strong> или несколько вариантов клинического материала в выпадающем списке.</li>
+<li><p><strong>Микроорганизм</strong> - для представления данных в виде гистограммы в поле <strong>Микроорганизм</strong> рекомендовано выбрать вариант <strong>Все</strong>.</p></li>
+</ul>
+<blockquote>
+<p>Важно! При изменении параметров в выпадающем списке <strong>Группировать по</strong> для корректного представления данных необходимо нажать кнопку <strong>Отобразить</strong></p>
+</blockquote>
+<blockquote>
+<p>При работе в рамках одной категории и переключении между Типами графиков, Таблицей и Трендом(Граф, Матрица) нажатие кнопки <strong>Отобразить</strong> необходимо однократно, после выбора категории в выпадающем списке <strong>Группировать по</strong></p>
+</blockquote>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code> Группа инфекций: Нозокомиальные
+ Параметры основные: Поля 2-8 параметр Все
+ Группа микроорганизмов:Staphylococcus spp
+ Микроорганизм: Все
+ Антибиотик: Гентамицин
+ Группировать по : Федеральный округ 
+ 
+ Тип графика: Гистограмма + 95 % ДИ</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choicegroup2.png"><img src="/img/tutorials/amrmap/04_example/choicegroup2.png" /></a></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choicegroup.png"><img src="/img/tutorials/amrmap/04_example/choicegroup.png" /></a></p>
+<blockquote>
+<p>Важно! Если при выборе параметров в выпадающем списке <strong>Группировать по</strong> и нажатии кнопки <strong>Отобразить</strong> появляются сообщения: <strong>Недостаточно данных</strong> рекомендуется проверить соответствующий параметр в поле <strong>Параметры основные</strong></p>
+</blockquote>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choicegroup3.png"><img src="/img/tutorials/amrmap/04_example/choicegroup3.png" /></a></p>
+<p><em>Возможным решением является (один из нижепредставленных):</em></p>
+<ul>
+<li><p>установление варианта <strong>Все</strong> в соответствующем поле <strong>Параметры основные</strong></p></li>
+<li><p>выбор другого параметра в выпадающем списке <strong>Группировать по</strong></p></li>
+</ul>
+
+<h4><span class="header-section-number">3.2.2.1</span> График</h4>
+<hr />
+<p><strong><em>II. Тип графика </em></strong></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice20.png"><img src="/img/tutorials/amrmap/04_example/choice20.png" /></a></p>
+<ul>
+<li><em>Гистограмма + 95 ДИ</em></li>
+</ul>
+<p>Представленный график установлен для отображения “по умолчанию”.</p>
+<p>Гистограмма представляет данные, по выбранному антибиотику в виде столбцов, при этом столбец соответствует категории, выбранной в выпадающем списке <strong>Группировать по</strong>
+году получения изолятов.</p>
+<p>По оси х показана категория, в соответсвии с выбранной в выпадающем списке <strong>Группировать по</strong>,при этом в рамках одного параметра включены 3 вида столбцов, окрашенных в соответствии с категориями
+микроорганизмов:</p>
+<ul>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) </strong></span></li>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span></li>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+</ul>
+<blockquote>
+<p>Особенностью данного графика является отображение 95% ДИ. Для этого необходимо навести курсор на место, где “ус” пересекается со
+столбцом. Появляется всплывающее окно, со значениями верхней и нижней границы 95% ДИ для данного столбца.</p>
+</blockquote>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice23.png"><img src="/img/tutorials/amrmap/04_example/choice23.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li><p>при наведении курсора мыши на интересующую часть гистограммы отобразится всплывающее окно с числовым значением (в %) для данного столбца</p></li>
+<li><p>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его категорий</p></li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<ul>
+<li><em>Гистограмма</em></li>
+</ul>
+<p>Гистограмма представляет данные, по выбранному антибиотику, в виде столбцов, при этом столбец соответствует категории, выбранной в выпадающем списке <strong>Группировать по</strong>.</p>
+<p>Каждый столбец последовательно окрашен в соответствии с категориями
+микроорганизмов:</p>
+<ul>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) </strong></span></li>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span></li>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+</ul>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора мыши на интересующую часть гистограммы отобразится всплывающее окно с числовым значением (в %) для данного столбца</li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice22.png"><img src="/img/tutorials/amrmap/04_example/choice22.png" /></a></p>
+<ul>
+<li>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его категорий</li>
+</ul>
+<hr />
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice_legend.png"><img src="/img/tutorials/amrmap/04_example/choice_legend.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат.</em></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice_chotrend.png"><img src="/img/tutorials/amrmap/04_example/choice_chotrend.png" /></a></p>
+
+<p><h4><span class="header-section-number">3.2.2.2</span> Тренды</h4>
+<hr />
+<p><strong><em>Отображение сравнений</em></strong></p>
+<p>Доступен выбор сравнений в виде:</p>
+<ol style="list-style-type: decimal">
+<li><em>Граф</em>
+<ul>
+<li>Каждый круг представляет собой узел (в соответствии с выбранной категорией в выпадающем списке <strong>Группировать по</strong>).</li>
+<li>Появление связи между узлами возможно только при наличии статистически
+значимых различий в относительном количестве выбранных категорий микроорганизмов.<br />
+</li>
+<li>Интенсивность окраски узлов зависит от
+значения процента устойчивых микроорганизмов, чем выше процент,тем интенсивнее окраска.</li>
+</ul></li>
+<li><em>Матрица</em>
+<ul>
+<li>Представляет собой отображение попарного сравнения относительного количества микроорганизмов выбранной категории в выпадающем списке <strong>Группировать по</strong>.</li>
+<li>Сравнение производится по
+значениям, расположенным по горизонтали к значениям по вертикали.</li>
+<li>Чем выше статистическая значимость различий
+в результате сравнения, тем интенсивнее окраска ячейки матрицы.</li>
+</ul></li>
+</ol>
+<p><strong><em>Расположение узлов</em></strong></p>
+<p>Работа с данной категорией возможна при отображении сравнений в виде Графа.</p>
+<p>Предлагается расположение узлов:</p>
+<ul>
+<li><em>Круговое</em></li>
+<li><p><em>Fruchterman-Reingold</em> - силовой алгоритм размещения,представляющий
+граф в виде физической системы.
+Вершины (узлы)-электроны, которые отталкиваются друг от друга при значительном приближении.
+Ребра представляют собой пружины, которые приближают вершины, имеющие
+между собой связь.
+Следует отметить, что размещение вершин происходит интуитивно, т.е. вершины которые имеют
+большее количество связей располагаются ближе друг к другу</p></li>
+<li><em>Квадрат</em></li>
+<li><p><em>Звезда</em></p></li>
+</ul>
+<p><strong><em>Размер узла пропорционален</em></strong></p>
+<p>В выпадающем списке необходимо определить подходящий вариант:</p>
+<ul>
+<li>Процент за год</li>
+<li>Количество связей</li>
+<li>Посредничество</li>
+<li>Близость</li>
+<li>Обычный.</li>
+</ul>
+<p>Чем выше значение выбранного показателя, тем больше диаметр узла.</p>
+<p><strong><em>Масштаб узлов(от/до)</em></strong></p>
+<p>Пользователю доступен выбор от 0 до 300. Изменения данных параметров позволяет
+улучшить отображение графа в соответствии с требованиями пользователя.</p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code> Группировать по - Период
+ Отображение сравнений - Граф
+ Расположение узлов - Круговое
+ Размер узла пропорционален - Процент за год
+ Масштаб узлов от 7 до 60.
+  </code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice31.png"><img src="/img/tutorials/amrmap/04_example/choice31.png" /></a></p>
+<p>Выберем узел (временную точку наблюдения) - 2012 г.
+Переместим граф на необходимое расстояние,
+удерживая левую кнопку мыши. Для отображения связей
+только для временной точки наблюдения - 2012г., нажмем на данный граф левой кнопкой мыши.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice32.png"><img src="/img/tutorials/amrmap/04_example/choice32.png" /></a></p>
+<p>На данном рисунке выбранный узел, соответствующий 2012 г., связан с узлами, которые
+соответствуют 2006 и 2013 гг. Это значит, что различия в
+проценте резистентных штаммов между 2006 г. (57,54%) и 2012 (41,15%), а также между 2012 г.
+(41,15%) и 2013 (24,65%) статистически значимы (p &lt; 0,05). Таким образом, это
+свидетельствует о снижении уровня резистентности.</p>
+<p>…</p>
+<p>Пример</p>
+<pre><code>В пункте Отображение сравнений выберем вариант - Матрица, с помощью нажатия на соответствующую кнопку. </code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice33.png"><img src="/img/tutorials/amrmap/04_example/choice33.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при нажатии на соответствующую область появляются данные
+множественного сравнения интересующих параметров</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат.</em></p></p>
+
+<p><h4><span class="header-section-number">3.2.2.3</span> Таблица</h4>
+<p>Представленная таблица состоит из 5 столбцов:</p>
+<ul>
+<li><strong>Группировка</strong> - данные в соответствии с параметром в выпадающем списке <strong>Группировать по</strong></li>
+<li><strong>категория микроорганизмов</strong> - последовательно расположены обозначения:
+<ul>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span></li>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) </strong></span></li>
+</ul></li>
+<li><strong>Процент</strong> - относительное количество микроорганизмов данной категории, в соответствии с параметром <strong>Группировать по</strong></li>
+<li><strong>Количество</strong> - абсолютное количество микроорганизмов определенной категории к общему количеству изолятов при выбранном параметре <strong>Группировать по</strong></li>
+<li><strong>95% ДИ</strong> - 95% Доверительный интервал для относительного количества микроорганизмов определенной категории, при выбранном параметре в выпадающем списке <strong>Группировать по</strong></li>
+</ul>
+<hr />
+<p>Необходимо подчеркнуть, что для столбцов <em>Группировка, Категория</em>, возможно применение фильтров в нескольких вариантах:</p>
+<ul>
+<li>Введение в строке поиска интересующие значения</li>
+<li>Сортировка данных по возрастанию (стрелка вверх) или убыванию (стрелка вниз)</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученных результатов</em></p>
+<p>…</p>
+<pre><code>Пример</p>
+
+<p>Группировать по - Область/Край/Республика
+ Нажатие кнопки - Отобразить
+ Представление данных - Таблица
+ Группировка - выбрать данные по Красноярскому краю</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice24.png"><img src="/img/tutorials/amrmap/04_example/choice24.png" /></a></p></p>
+
+<h3 id="3-2-3-карта">3.2.3 Карта</h3>
+
+<p>Данная вкладка включает 4 подраздела:</p>
+<ul>
+<li><p><strong><em>Карта</em></strong></p></li>
+<li><p><strong><em>Регрессия</em></strong></p></li>
+<li><p><strong><em>Рейтинг</em></strong></p></li>
+<li><p><strong><em>Дерево</em></strong></p></li>
+</ul>
+<p>Переключение между подразделами осуществляется нажатием на соответствующие кнопки.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice27.png"><img src="/img/tutorials/amrmap/04_example/choice27.png" /></a></p>
+
+<p><h4><span class="header-section-number">3.2.3.1</span> Карта</h4>
+<p>Включает два типа карт:</p>
+<p><code>Точки</code></p>
+<p><code>Контуры</code></p>
+<ul>
+<li><strong>Точки</strong></li>
+</ul>
+<p>При выборе типа карт <em>Точки</em> категории микроорганизмов отображаются в виде круговых диаграмм - <em>Точек</em>, расположенных в соответствующем регионе.</p>
+<p>Размеры диаграммы зависят от общего количества изолятов, чем выше абсолютное количество, тем больше окружность диаграммы.
+При нажатии левой кнопкой мыши по интересующей точке появляется информационное окно с названием города,
+абсолютным и относительным количеством микроорганизмов.</p>
+<p>В таблице для каждой категории
+<span style="color:#3C756F"><strong>S</strong></span>,
+<span style="color:#E6AC25"><strong>I</strong></span>,
+<span style="color:#E7605D"><strong>R</strong></span> представлены данные по их абсолютному и относительному количеству.</p>
+<p><strong><em>Отображать динамику</em></strong> выбор параметра позволяет просмотреть данные в динамике, при этом пользователь, передвигая ползунок, может регулировать появление
+<em>Точек</em> на карте или, нажав “знак треугольника”, включить автоматическое, последовательное (по годам) отображение данных.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/karta3.png"><img src="/img/tutorials/amrmap/04_example/karta3.png" /></a></p>
+<p><strong><em>Размер точек (от/до)</em></strong> включает значения от 1 до 100. С целью подбора подходящего размера пользователь может устанавливать необходимые границы, передвигая ползунок.</p>
+<p><strong><em>Порог оповещения</em></strong> выбор этого параметра не предусмотрен “по умолчанию”.
+Для его включения необходимо нажать левой кнопкой мыши на знак <strong>Оповещение</strong>.
+Передвигая ползунок по шкале, регулируется порог процента резистентных микроорганизмов, начиная с которого будут появляться знаки оповещения в виде
+<span style="color:#D43E2A"><strong>красного символа</strong></span>.</p>
+<p>Необходимо отметить, что на карте <strong><em>Порог оповещения</em></strong> обозначается
+<span style="color:#D43E2A"><strong>красным</strong></span> (резистентные микроорганизмы) и
+<span style="color:#6EAA25"><strong>зеленым</strong></span> символом (чувствительные микроорганизмы). При нажатии на которые, появляются подробные данные.</p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>     Тип карты - Точки. Размер точек от 20 до 70, Порог оповещения 40%.</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice28.png"><img src="/img/tutorials/amrmap/04_example/choice28.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата при нажатии на кнопку <strong>Сохранить карту</strong> в правом верхнем углу.</em></p>
+<hr />
+<ul>
+<li>Пользователь может изменять внешний вид карты, для этого необходимо нажать на символ в правом верхнем углу карты и из предложенного списка выбрать подходящий вариант</li>
+<li>Кнопки <strong>“+”,“-”</strong>, расположенные в верхнем левом углу,
+позволяют приблизить и отдалить карту.</li>
+<li>При нажатии на знак “квадрат”,под
+кнопками <strong>“+”,“-”</strong>, происходит разворачивание карты на весь экран (full screen).</li>
+</ul>
+<hr />
+<ul>
+<li><strong>Контуры</strong></li>
+</ul>
+<p>Тип карты <em>Контуры</em> представляет данные в виде закрашивания регионов в соответствии с категорией микроорганизмов.</p>
+<p><strong><em>Категория</em></strong></p>
+<p>В выдающем списке пользователю предлагается возможность выбора категорий
+микроорганизмов :</p>
+<ul>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span> + <span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) </strong></span></li>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) </strong></span>+ <span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span></li>
+</ul>
+<p><strong><em>Палитра</em></strong> представлена в 2 вариантах :</p>
+<ul>
+<li><p><em>Линейная</em> (окрашивание регионов осуществляется в соответствии с
+относительным содержанием выбранной категории микроорганизмов)</p></li>
+<li><p><em>Градации</em> (окрашивание регионов происходит в зависимости от процентного интервала, куда попадает данный регион в
+соответствии с относительным содержанием выбранной категории микроорганизмов)</p></li>
+</ul>
+<p>Нажатием левой кнопкой мыши по интересующему региону появляется информация с
+названием региона, категорией выбранного микроорганизма,относительном количестве
+микроорганизмов и соотношении между абсолютным количеством микроорганизмов выбранной
+категории к общему количеству микроорганизмов в интересующем регионе.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/karta2.png"><img src="/img/tutorials/amrmap/04_example/karta2.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата при нажатии на кнопку <strong>Сохранить карту</strong> в правом верхнем углу.</em></p>
+<hr />
+<ul>
+<li>Пользователь может изменять внешний вид карты, для этого необходимо нажать на символ в правом верхнем углу карты и из предложенного списка выбрать подходящий вариант</li>
+<li>Кнопки <strong>“+”,“-”</strong>, расположенные в верхнем левом углу,
+позволяют приблизить и отдалить карту.</li>
+<li>При нажатии на знак “квадрат”,под
+кнопками <strong>“+”,“-”</strong>, происходит разворачивание карты на весь экран (full screen).</li>
+</ul>
+<hr /></p>
+
+<p><h4><span class="header-section-number">3.2.3.2</span> Регрессия</h4>
+<p><strong><em>Тип тренда</em></strong></p>
+<p>Пользователю предлагается возможность выбора категорий микроорганизмов :</p>
+<ul>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы)</strong></span></li>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы)</strong></span> +
+<span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span></li>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span> + <span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+</ul>
+<p><strong><em>Названия городов</em></strong></p>
+<p>Возможен выбор двух вариантов:</p>
+<p><em>Вкл.</em> - появляются названия городов</p>
+<p><em>Выкл.</em> - отключаются названия городов</p>
+<p><strong><em>Масштаб окружностей(от/до)</em></strong></p>
+<p>Пользователю доступен выбор от 0 до 100. Изменения данных параметров позволяет
+улучшить отображение кругов в соответствии с требованиями пользователя.</p>
+<p><strong><em>Сглаживание</em></strong></p>
+<p>от 0,01 до 1.
+Линия тренда при уменьшении данного параметра становится более извилистой, при увеличении - стремится к прямой.</p>
+<p>В полученном графике по оси Х расположены временные точки, по оси Y - отображаются проценты
+выбранных категорий микроорганизмов.</p>
+<p>Для более детального обследования изучения необходимо обвести интересующую область значений,
+зажав левую кнопку мыши.</p>
+<p>После выбора необходимых значений открывается таблица, состоящая из 6 столбцов:</p>
+<ul>
+<li><em>Год</em> - год получения образца</li>
+<li><em>Дата</em> - дата поступления последнего изолята для географической точки наблюдения в текущем году</li>
+<li><em>Город</em> - название Города и общее количество протестированных изолятов</li>
+<li><em>Категория</em> - категория выбранного микроорганизма</li>
+<li><em>Количество</em> - абсолютное количество микроорганизмов выбранной категории</li>
+<li><em>Процент</em> - относительное количество
+микроорганизмов выбранной категории</li>
+</ul>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>Тип тренда - R
+Названия городов - Вкл.
+Масштаб окружностей- от 10 до 30
+Сглаживание - 1 </code></pre>
+<p>…</p>
+<p>Нажимаем кнопку <em>Отобразить</em></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice36.png"><img src="/img/tutorials/amrmap/04_example/choice36.png" /></a></p>
+<p>На представленном графике трендов заметны сильно отличающиеся точки. Для того чтобы получить дополнительную информацию в виде таблицы, необходимо зажать левую кнопку мыши и обвести интересуюшие точки.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice38.png"><img src="/img/tutorials/amrmap/04_example/choice38.png" /></a></p>
+<p>Установим параметр <strong>Сглаживание</strong> на уровне 0,5.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice39.png"><img src="/img/tutorials/amrmap/04_example/choice39.png" /></a></p></p>
+
+<p><h4><span class="header-section-number">3.2.3.3</span> Рейтинг</h4>
+<p>График в порядке возрастания представляет данные о проценте <span style="color:#DE8786"> <strong>устойчивых &reg;</strong></span>
+штаммов. Медиана разделяет все города(географические точки наблюдения) на две одинаковые по количеству группы: в первой группе процент устойчивых изолятов ниже медианы, во второй группе процент устойчивых изолятов выше медианы.</p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора мыши на обозначения круга, появляется
+информация по абсолютному количеству устойчивых микроорганизмов, его перерасчете в проценты и 95% ДИ.</li>
+</ul>
+<hr />
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice29.png"><img src="/img/tutorials/amrmap/04_example/choice29.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p></p>
+
+<p><h4><span class="header-section-number">3.2.3.4</span> Дерево</h4>
+<p>График поэтапно отражает информацию по:</p>
+<ul>
+<li><span style="color:#E7605D"> <strong>устойчивым &reg;</strong></span></li>
+<li><span style="color:#E6AC25"><strong>умеренно-резистентным микроорганизмам (I)</strong></span> + <span style="color:#E7605D"><strong>устойчивым микроорганизмам &reg;</strong></span></li>
+</ul>
+<p>в режиме <code>&quot;Федеральный округ - Область - Город&quot;</code>при нажатии на соответствующий знак круга.</p>
+<p>Рядом с названием географического объекта представлены данные по относительному и соответствующему абсолютному количеству микроорганизмов.</p>
+<p>При этом подсчет процентов происходит на каждом уровне разделения. Для лучшей визуализации результаты отсортированы от
+большего процента к меньшему, интенсивность окраски круга зависит от количества резистентных
+микроорганизмов: чем выше процент, тем интенсивнее окраска</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice30.png"><img src="/img/tutorials/amrmap/04_example/choice30.png" /></a></p></p>
+
+<h3 id="3-2-4-мпк">3.2.4 МПК</h3>
+
+<p>Данная вкладка включает два подраздела:</p>
+<ul>
+<li><p>МПК</p></li>
+<li><p>МПК тренд</p></li>
+</ul>
+
+<h4><span class="header-section-number">3.2.4.1</span> I. МПК</h4>
+<p>При нажатии на соответствующую надпись происходит построение гистограммы, включающей значения МПК 50 и МПК 90.
+На представленной гистограмме
+по оси Х расположены значения МПК - минимальной подавляющей концентрации (мг/л),
+в скобках рядом со значением МПК показано абсолютное количество изолятов, при данном МПК.</p>
+<p>Пограничные и Допустимые значения МПК для определения клинических категорий
+чувствительности бактерий к антимикробным препаратам cоответствуют критериям <a href="http://www.eucast.org">EUCAST</a> и <a href="http://www.antibiotic.ru/minzdrav/clinical-recommendations/">российским клиническим рекомендациям</a></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice41.png"><img src="/img/tutorials/amrmap/04_example/choice41.png" /></a></p>
+<p>На графике:</p>
+<ul>
+<li><span style="color:#387E78"><strong>чувствительные микроорганизмы отображены зеленым цветом.</strong></span><br />
+</li>
+<li><span style="color:#EFB932"><strong>умеренно-резистентные микроорганизмы - желтым цветом.</strong></span></li>
+<li><span style="color:#D9534F"><strong>устойчивые микроорганизмы - красным цветом.</strong></span></li>
+</ul>
+<hr />
+<p><em>Представленный график является интерактивным:</em></p>
+<ul>
+<li>при наведении курсора на столбец появляется информационное окно</li>
+<li>при наведении курсора на место, где “ус” пересекается со столбцом, появляется всплывающее окно, со значениями верхней и
+нижней границы 95% ДИ для данного столбца</li>
+<li>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его категорий</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p><strong>Внимание!</strong></p>
+<blockquote>
+<p>При анализе, включающем рассмотрение МПК во всей группе микроорганизмов, без выделения конкретного вида
+микроорганизма (<strong>11. Микроорганизм</strong> - выбран вариант <strong>Все</strong>), может возникнуть следующая ситуация</p>
+</blockquote>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice42.png"><img src="/img/tutorials/amrmap/04_example/choice42.png" /></a></p>
+<blockquote>
+<p>Окрашивание столбца в <span style="color:#ABABAB"><strong>серый цвет</strong></span> возможно при отсутствии критериев интерпретации
+чувствительности для выбранной комбинации микроорганизм-антибиотик или
+в случаях, когда одни и те же значения МПК соответствуют
+различным категориям чувствительности в зависимости от вида микроорганизма,
+типа и локализации инфекции и т.д.
+В данной ситуации рекомендуется детально рассмотреть полученные результаты, выбрав конкретный микроорганизм в
+<strong>11. Микроорганизм</strong>.</p>
+</blockquote>
+
+
+<h4><span class="header-section-number">3.2.4.2</span> II. МПК тренд</h4>
+<p>На графике, представленном в данном разделе, ось Х соответствует периоду наблюдения (годы), ось Y - значениям МПК. Размеры кругов пропорциональны числу изолятов, а цвет кругов соответствует категории чувствительности (<span style="color:#EBA5A3"><strong>красный = R</strong></span>, <span style="color:#F6D88B"><strong>желтый = I</strong></span>, <span style="color:#80BAB4"><strong>зеленый = S</strong></span>)</p>
+<p><strong><em>МПК</em></strong></p>
+<p>Активация параметра позволяет отображать изменение суммарных показателей МПК (МПК50% и т.д.) во времени в виде <span style="color:#CC4846"><strong>красной кривой</strong></span> на графике.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice46.png"><img src="/img/tutorials/amrmap/04_example/choice46.png" /></a></p>
+<p><strong><em>МПК хх%</em></strong></p>
+<p>Позволяет пользователю выбрать необходимое значение суммарных показателей МПК (на графике, представленном выше, значение суммарных показателей МПК - 60%)</p>
+<p><strong><em>Масштаб окружностей(от/до)</em></strong></p>
+<p>Пользователю доступен выбор от 0 до 100. Изменения данных параметров позволяет
+улучшить отображение кругов в соответствии с требованиями пользователя.</p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>В данной вкладке выберем Масштаб окружностей от 10 до 50 
+Обведем интересующую область </code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice43.png"><img src="/img/tutorials/amrmap/04_example/choice43.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>если зажать левую кнопку мыши и обвести интересующие точки, то во вложенных вкладках появится
+дополнительная информация (по обведенной области) о распределении МПК и отдельных изолятах в виде: гистограммы и таблицы</li>
+</ul>
+<hr />
+<p><strong><em>Гистограмма</em></strong></p>
+<p>Выбор интересующих областей отображается в виде гистограммы, где по оси Х - значения МПК и абсолютное количество микроорганизмов, по оси Y - относительное количество изолятов</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice44.png"><img src="/img/tutorials/amrmap/04_example/choice44.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора мыши на интересующий столбец гистограммы отобразится всплывающее окно с абсолютным и относительным количеством для данного столбца</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p><strong><em>Таблицы</em></strong></p>
+<p>После выбора интересующей области пользователю доступна дополнительная информация в виде таблицы, состоящей из 11 столбцов:</p>
+<ul>
+<li><em>ID</em> - идентификационный номер</li>
+<li><em>Микроорг.</em> - название микроорганизма</li>
+<li><em>МПК</em></li>
+<li><em>Категория</em> (<span style="color:#387E78"><strong>S</strong></span>, <span style="color:#EFB932"><strong>I</strong></span>, <span style="color:#D9534F"><strong>R</strong></span>)</li>
+<li><em>Город</em> - место взятия образца</li>
+<li><em>Год</em> - год получения образца</li>
+<li><em>Дата</em> - дата взятия образца</li>
+<li><em>Отделение</em> - профиль отделения</li>
+<li><em>Возраст</em> - возраст пациента, в годах</li>
+<li><em>Локализация</em> - локализация инфекционного процесса</li>
+<li><em>Клин.материал</em> - вид клинического материала</li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice45.png"><img src="/img/tutorials/amrmap/04_example/choice45.png" /></a></p>
+<hr />
+<p>Необходимо подчеркнуть, что для столбцов <strong>Микроорг, Город, Отделение, Локализация, Клин. материал</strong>, возможно применение фильтров в нескольких вариантах:</p>
+<ul>
+<li><p>Введение в строке поиска интересующие значения</p></li>
+<li><p>Сортировка данных по возрастанию (стрелка вверх) или убыванию (стрелка вниз)</p></li>
+</ul>
+<p><em>Доступен просмотр всех данных таблицы, для этого необходимо воспользоваться колесиком прокрутки при наведение курсора мыши в область расположения таблицы</em></p>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученных результатов</em></p>
+<p><strong><em>SNP профиль - (single nucleotide polymorphisms)</em></strong> - одиночные нуклеотидные полиморфизмы (SNP) являются наиболее распространенной формой генетических вариаций микробных штаммов или изолятов. В последние годы молекулярные методы, основанные на
+анализе информационных наборов SNP, получили более широкое применение в генотипировании бактерий.
+Онлайн-база данных SNPTAb и веб-приложение предназначены для помощи в анализе данных SNP A. baumannii.</p>
+
+<h2 id="3-3-ассоциированная-wbr-устойчивость">3.3 Ассоциированная<wbr> устойчивость</h2>
+
+<p>Последовательный выбор параметров <strong>1-10</strong> и заполнение полей <strong>Группа микроорганизмов</strong> и <strong>Микроорганизм</strong>, рассмотренные в
+разделе <strong>Параметры основные</strong> позволяет продолжить работу во вкладке <strong>Ассоциированная устойчивость</strong>.</p>
+<p>Во всем разделе расчет производится для <strong>R</strong> изолятов.</p>
+
+<h3 id="3-3-1-матрица">3.3.1 Матрица</h3>
+
+<p>Представление данных по ассоциированной устойчивости в виде <strong>“Матрица”</strong> позволяет пользователю определить процент,
+при котором устойчивость к первому препарату (строки) свидетельствует о наличии устойчивости к другому антибиотику
+(столбцы). В расчет включаются <strong>R</strong> изоляты.</p>
+<p>Интенсивность окрашивания ячеек
+зависит от величины процента,чем выше процент, тем интенсивнее цвет.</p>
+<p>В выпадающем списке <strong>Антибиотики</strong> пользователь может выбрать антибактериальные препараты</p>
+<p>или оставить параметр <strong>Все</strong>, установленный “по умолчанию”</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice47.png"><img src="/img/tutorials/amrmap/04_example/choice47.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении на необходимую комбинацию препаратов появляется информационное окно, с пояснением к получившимся значениям</li>
+<li>выбор интересующего блока матрицы приводит к изменению положения указателя над легендой, позволяющего показать интервал
+значений, в который входит выбранный блок матрицы.</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа</em> <strong>“три полоски”.</strong></p>
+<p>…</p>
+<pre><code>Пример
+
+Антибиотики - Гентамицин, Ванкомицин, Левофлоксацин
+
+Нажать кнопку - Отобразить</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice47_2.png"><img src="/img/tutorials/amrmap/04_example/choice47_2.png" /></a></p>
+
+<h3 id="3-3-2-тренд">3.3.2 Тренд</h3>
+
+<p><strong><em>АМП 1</em></strong> и <strong><em>АМП 2</em></strong> представляет выпадающий список антимикробных препаратов, динамические измения.</p>
+<p>Тренд отражает изменения во времени доли <strong>R</strong> изолятов к <strong>АМП2</strong>, от общего количества <strong>R</strong> изолятов к <strong>АМП1</strong>. По оси Х - год получения результатов, по оси Y - процент <strong>R</strong> изолятов к <strong>АМП2</strong>,
+от общего количества <strong>R</strong> изолятов к <strong>АМП1</strong></p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>В выпадающем меню АМП 1 - Гентамицин,  АМП 2 - Клиндамицин
+
+Нажмем кнопку &quot;Отобразить&quot;</code></pre>
+<p>…</p>
+<p>В примере, представленном ниже, за 2011 год процент <strong>R</strong> изолятов к Клиндамицину составляет 45,45% от общего количества <strong>R</strong> изолятов к Гентамицину. 95% ДИ составил 36.86 - 54.33%.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice48.png"><img src="/img/tutorials/amrmap/04_example/choice48.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора на требуемый временной промежуток появляется информационное окно с данными о проценте и 95% ДИ</li>
+</ul>
+<hr />
+<p>Необходимо отметить о возможности изменять ширину 95% ДИ. Уменьшение данного параметра приводит к отключению
+отображения результатов с малым числом наблюдений
+(широким ДИ).</p>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+
+<h3 id="3-3-3-таблица">3.3.3 Таблица</h3>
+
+<p><strong>Таблица</strong> отражает долю <strong>R</strong> изолятов к <strong>АМП2</strong>, от общего количества <strong>R</strong> изолятов к <strong>АМП1</strong>.</p>
+<p>Нажимаем <strong>Таблица</strong>, затем <strong>Отобразить</strong>.</p>
+<p>Таблица состоит из 6 столбцов:</p>
+<ul>
+<li><em>АМП 1</em> - антимикробный препарат 1</li>
+<li><em>АМП 2</em> - антимикробный препарат 2</li>
+<li><em>Всего</em> - общее количество протестированных изолятов</li>
+<li><em>N</em> - абсолютное количество R изолятов к АМП2</li>
+<li><em>Процент</em> - относительное количество <strong>R</strong> изолятов к АМП2 от общего количества <strong>R</strong> изолятов к АМП1</li>
+<li><em>95% ДИ</em></li>
+</ul>
+<p><em>Пользователь может выбрать интересующее количество записей, которое будет показано, доступны варианты:</em> <strong>15, 25, 100</strong> записей.</p>
+<hr />
+<p>Необходимо подчеркнуть, что для всех столбцов, кроме <em>N, 95% ДИ</em> возможно применение фильтров в нескольких вариантах:</p>
+<ul>
+<li>Введение в строке поиска интересующие значения</li>
+<li>Нажатие на строку поиска столбцов с числовыми показателями приводит к появлению ползунка, регулируя положение
+которого, возможно выбрать интересующие значения</li>
+<li>Сортировка данных по возрастанию (стрелка вверх) или убыванию (стрелка вниз)</li>
+</ul>
+<hr />
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice50.png"><img src="/img/tutorials/amrmap/04_example/choice50.png" /></a></p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>Воспользуемся фильтрами
+В АМП 1 начнем вводить Гентамицин (для большинства антибактериальных 
+препаратов достаточно первых трех букв), в АМП 2 выберем Ванкомицин </code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice51.png"><img src="/img/tutorials/amrmap/04_example/choice51.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученных результатов в форматах представленных внизу таблицы, при этом количество
+сохраненных записей (строк) зависит от выбранного варианта в окне:</em> <strong>15, 25, 100 записей</strong></p>
+
+<h3 id="3-3-4-множественная-wbr-устойчивость">3.3.4 Множественная<wbr> устойчивость</h3>
+
+<p>Подраздел <strong>Множественная устойчивость</strong> показывает число изолятов одновременно устойчивых <strong>R</strong> к выбранным антибиотикам.</p>
+<p><strong><em>Антибиотики</em></strong> необходимо выбрать в выпадающем списке интересующие пользователя антибиотики. Нажать кнопку <strong>Отобразить</strong>.</p>
+<p>Представлены три блока данных:</p>
+<ul>
+<li><em>N</em> - абсолютное число изолятов одновременно устойчивых <strong>R</strong> к выбранным антибиотикам по отношению к общему числу протестированных изолятов</li>
+<li><em>R</em> - относительное число изолятов одновременно устойчивых <strong>R</strong> к выбранным антибиотикам</li>
+<li><em>95% ДИ</em> - 95% доверительный интервал для относительного числа изолятов одновременно устойчивым к выбранным антибиотикам</li>
+</ul>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>В меню Антибиотики выберем Ванкомицин и Гентамицин
+Нажмем кнопку Отобразить</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice52.png"><img src="/img/tutorials/amrmap/04_example/choice52.png" /></a></p>
+<p>В представленном примере 1 изолят одновременно устойчив к Ванкомицину и Гентамицину
+среди выбранной группы Staphylococcus spp.</p>
+
+<h3 id="3-3-5-диаграмма-wbr-рассеяния-мпк">3.3.5 Диаграмма<wbr> рассеяния МПК</h3>
+
+<p><strong><em>Антибиотик Х</em></strong>, <strong><em>Антибиотик Y</em></strong> - Поиск интересующего антибиотика возможен при прокручивании списка или печати названия
+(поиск осуществляется по совпадению букв).</p>
+<p><strong><em>Масштаб окружностей(от/до)</em></strong> - Пользователю доступен выбор от 0 до 100. Изменения данных параметров позволяет
+улучшить отображение кругов в соответствии с требованиями пользователя.</p>
+<hr />
+<p><strong>Свойства Goodman - Kruskal tau:</strong></p>
+<ul>
+<li>Принимает значение от 0 до 1</li>
+<li>Равен 0, при статистической независимости одной величины от второй</li>
+<li>Равен 1, при полном детерминировании одной величины от другой</li>
+</ul>
+<p>При этом необходимо подчеркнуть, что в τ (первый показатель | второй показатель), определяющей величиной будет второй показатель, зависимой - первый</p>
+<hr />
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>Антибиотик Х - Ванкомицин 
+Антибиотик Y - Гентамицин
+Нажмем кнопку Отобразить</code></pre>
+<p>…</p>
+<p>Goodman - Kruskal tau: τ (у|х) = 0.015,
+τ (х|у) = 0.048. В первом и во втором случаях результаты свидетельствуют о статистической независимости.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/mpk_vs_mpk.png"><img src="/img/tutorials/amrmap/04_example/mpk_vs_mpk.png" /></a></p>
+
+<h3 id="3-3-6-поиск-правил">3.3.6 Поиск правил</h3>
+
+<p>Генерация правил осуществляется на основе параметров, выбранных пользователем.</p>
+<p><strong>R к…</strong> - выпадающий список антимикробных препаратов. Резистентность к антимикробному препарату является выводом из правила.
+<strong>Переменные для создания правил</strong>:
+- <strong>Тип инфекции</strong>
+- <strong>Профиль отделения</strong>
+- <strong>Локализация инфекции</strong>
+- <strong>Клинический материал</strong>
+- <strong>Микроорганизм</strong>
+- <strong>Антибиотики</strong></p>
+<p>Результаты выводятся в виде таблицы.</p>
+<p>Таблица состоит из 5 столбцов:</p>
+<ul>
+<li><p><strong>Правила (Если…)</strong> - список найденных правил</p></li>
+<li><strong>Относительное количество изолятов, %</strong> - количество изолятов при определенном правиле по отношению ко всем изолятам с устойчивостью к выбранному антимикробному препарату, из выпадающего списка <strong>R к…</strong>.</li>
+<li><strong>Уверенность в Правиле, %</strong> - процент случаев, когда из <em>правила</em> (строка столбца <strong>Правила (Если…)</strong>) следует <em>вывод</em> (выбранный антимикробный препарат из списка <strong>R к…</strong>).</li>
+<li><strong>Важность правила</strong> - величина, изменяющаяся от 1 (Правило не важно) до бесконечности. При этом чем выше значение, тем больше вероятность, что данное <em>правило</em> (строка столбца <strong>Правила (Если…)</strong>) приводит к <em>выводу</em> (выбранный антимикробный препарат из списка <strong>R к…</strong>).</li>
+<li><p><strong>Количество изолятов</strong> - количество изолятов для которых из <em>правила</em> (строка столбца <strong>Правила (Если…)</strong>) следует <em>вывод</em> (выбранный антимикробный препарат из списка <strong>R к…</strong>).</p></li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/rules.png"><img src="/img/tutorials/amrmap/04_example/rules.png" /></a></p>
+<p>Список правил может включать тривиальные, т.е. обусловленные природной устойчивостью микроорганизмов к антимикробным препаратам.</p>
+<blockquote>
+<p>Важно!</p>
+</blockquote>
+<ul>
+<li>На начальном этапе работы со вкладкой <strong>Поиск правил</strong> рекомендуется подход от “общего к частному”:
+В списке <strong>Переменные для создания правил</strong> установить параметр “по умолчанию” - <strong>Все</strong></li>
+<li>При появлении <span style="color:#58ABC3"> информационного окна</span> (правый нижний угол) - в пунктах <strong>9.Период</strong> и <strong>10.Возраст пациента</strong> рекомендуется поочередно уменьшить диапозон значений.</li>
+<li>Отсутствие правил, после нажатия кнопки <strong>Отобразить</strong>, свидетельствует о низких значениях частотных характеристик (показатели столбцов 2-5 таблицы) по итогам анализа.</li>
+<li>Для избежания эффекта “значимости” редких комбинаций (высокие показатели <strong>Уверенность в Правиле, %</strong> и
+<strong>Важность правила</strong> при малом количестве изолятов), следует оценивать показатели в целом.</li>
+</ul>
+<p>…</p>
+<pre><code>Пример 
+Период - с 2012 года
+Возраст от 0 до 104 лет
+Группа микроорганизмов -*Staphylococcus* spp.
+Микроорганизм - Все
+R к - Гентамицин
+Переменные для создания правил - Все
+Нажмем кнопку Отобразить</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/rules_example.png"><img src="/img/tutorials/amrmap/04_example/rules_example.png" /></a></p>
+<p>…</p>
+<pre><code>Результаты. 
+Рассмотрим Правило №1: Если *Staphylococcus* spp. резистентен к Хлорамфениколу и Ципрофлоксацину, то обладает резистентностью к гентамицину. Уверенность, что при R к Хлорамфениколу и Ципрофлоксацину *Staphylococcus* spp. резистентен и к Гентамицину составляет - 85.283%. Реализация правила №1 в соответствующий вывод (резистентность к Гентамицину) находится на достаточно высоком уровне - столбец **Важность правила**. Процент изолятов *Staphylococcus* spp., обладающих резистентностью к Хлорамфениколу и Ципрофлоксацину по отношению ко всем резистентным к гентамицину изолятам составило свыше 18%.</code></pre>
+<p>…</p>
+<p><em>Следует напомнить о возможности поиска среди полученных результатов в графе </em> <strong>Поиск</strong> <em>и выборе необходимого показателя с помощью фильтров</em></p>
+
+<h2 id="3-4-генетические-детерминанты-резистентности">3.4 Генетические детерминанты резистентности</h2>
+
+<p>Для работы во вкладке <strong>Генетические детерминанты резистентности</strong> возможен выбор в поле <strong>Группа микроорганизмов</strong> вариант <em>Все</em>.</p>
+<p>При выборе <strong><em>Соседние страны</em></strong> появляются данные, полученных за пределами территории Российской Федерации.</p>
+<p><strong><em>Группа маркеров</em></strong> - объединяющая категория, позволяющая осуществить целенаправленный подход к выбору интересующих маркеров.</p>
+<p><strong><em>Маркер</em></strong> - маркеры, представленные в выбранном варианте <strong><em>Группа маркеров</em></strong></p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>1. Группа инфекций - Нозокомиальные
+10. Группа микроорганизмов - Enterobacterales 
+Перейдем во вкладку &quot;Генетические детерминанты устойчивости&quot;
+Выберем Группа маркеров - Карбапенемазы. 
+В выпадающем списке Маркер выберем - NDM, KPC
+Нажмем кнопку Отобразить</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice54.png"><img src="/img/tutorials/amrmap/04_example/choice54.png" /></a></p>
+
+<h3 id="3-4-1-карта">3.4.1 Карта</h3>
+
+<p>В данном разделе количество генетических детерминант отображается в виде круговых диаграмм, расположенных в соответствующем регионе.
+Размеры диаграммы зависят от общего количества полученных изолятов с определенной генетической детерминантой,
+чем выше абсолютное количество, тем больше окружность диаграммы.</p>
+<p><strong><em>Размер точек (от/до)</em></strong> включает значения от 1 до 100. С целью подбора подходящего размера пользователь может устанавливать необходимые границы, передвигая ползунок.</p>
+<p><strong><em>Отображать кол-во</em></strong> - подпись абсолютного количества маркеров.</p>
+<p><strong><em>Отображать динамику</em></strong> - просмотр данных в динамике, при этом пользователь, передвигая ползунок, может регулировать появление
+круговых диаграмм на карте или, нажав “знак треугольника”, включить автоматическое, последовательное (по годам) отображение данных.</p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>Установим Размер точек от 25 до 50 
+Отметим пункт Отображать кол-во </code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice55.png"><img src="/img/tutorials/amrmap/04_example/choice55.png" /></a></p>
+<hr />
+<p><em>Представленная Карта является интерактивной.</em></p>
+<ul>
+<li>При нажатии левой кнопкой мыши на интересующий город появляется окно с информацией о категории маркеров с их
+цветовым обозначением, абсолютном количестве
+и процентном перерасчете представленных маркеров</li>
+<li>Пользователь может изменять внешний вид карты, для этого необходимо нажать на символ в правом верхнем углу карты и из предложенного списка выбрать подходящий вариант</li>
+<li>Кнопки <strong>“+”,“-”</strong>, расположенные в верхнем левом углу,
+позволяют приблизить и отдалить карту.</li>
+<li>При нажатии на знак <strong>“квадрат”</strong>, под
+кнопками <strong>“+”,“-”</strong>, происходит разворачивание карты на весь экран (full screen)</li>
+<li>Прокручивание колесика мыши позволяет пользователю приблизить или отдалить карту</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата при нажатии на кнопку <strong>Сохранить карту</strong> в правом верхнем углу</em></p>
+
+<h3 id="3-4-2-карта-x2">3.4.2 Карта x2</h3>
+
+<p><strong>Карта x2</strong> представляет собой две карты. Работа с картами осуществляется одновременно.</p>
+<p><strong><em>АМП</em></strong> - выпадающий список антимикробных препаратов.
+Поиск интересующего препарата возможен при прокручивании списка или печати названия
+(поиск осуществляется по совпадению букв)</p>
+<p><strong><em>Категория</em></strong> - (для Карты №1)</p>
+<p>В выдающем списке пользователю предлагается возможность выбора категорий
+микроорганизмов :</p>
+<ul>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span> + <span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) </strong></span></li>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы) </strong></span> + <span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span></li>
+</ul>
+<p><strong><em>Размер точек (от/до)</em></strong> включает значения от 1 до 100. С целью подбора подходящего размера пользователь может устанавливать необходимые границы, передвигая ползунок.</p>
+<p><em>Карта №1. (верхняя)</em></p>
+<p>Верхняя карта отображает данные по категориям чувствительности микроорганизмов в виде круговых диаграмм, расположенных в соответствующем регионе.</p>
+<p>Размеры диаграммы зависят от количества полученных изолятов определенной категории,
+чем выше абсолютное количество, тем больше окружность диаграммы.</p>
+<hr />
+<p><em>Представленная Карта является интерактивной</em></p>
+<ul>
+<li>Нажатие левой кнопкой мыши по интересующей точке приводит к появлению информационного окна с названием города,
+абсолютным количеством изолятов, названием выбранной категории микроорганизмов,
+абсолютным и относительным количеством микроорганизмов выбранной категории</li>
+<li>Прокручивание колесика мыши позволяет пользователю приблизить или отдалить карту</li>
+<li>Пользователь может изменять внешний вид карты, для этого необходимо нажать на символ в правом верхнем углу карты и из предложенного списка выбрать подходящий вариант</li>
+<li>Кнопки <strong>“+”,“-”</strong>, расположенные в верхнем левом углу,
+позволяют приблизить и отдалить карту.</li>
+<li>При нажатии на знак <strong>“квадрат”</strong>, под
+кнопками <strong>“+”,“-”</strong>, происходит разворачивание карты на весь экран (full screen)</li>
+</ul>
+<hr />
+<p><em>Карта №2. (нижняя)</em></p>
+<p>Нижняя карта отображает данные по Количеству генетических детерминант в виде круговых диаграмм, расположенных в соответствующем регионе.</p>
+<p>Размеры диаграммы зависят от общего количества полученных изолятов с определенной генетической детерминантой,
+чем выше абсолютное количество, тем больше окружность диаграммы.</p>
+<hr />
+<p><em>Представленная Карта является интерактивной</em></p>
+<ul>
+<li>Нажатие левой кнопкой мыши по интересующей точке приводит к появлению информационного окна с названием города,
+абсолютным количеством изолятов, названием выбранной категории микроорганизмов,
+абсолютным и относительным количеством микроорганизмов выбранной категории</li>
+<li>Прокручивание колесика мыши позволяет пользователю приблизить или отдалить карту</li>
+<li>Пользователь может изменять внешний вид карты, для этого необходимо нажать на символ в правом верхнем углу карты и из предложенного списка выбрать подходящий вариант</li>
+<li>Кнопки <strong>“+”,“-”</strong>, расположенные в верхнем левом углу,
+позволяют приблизить и отдалить карту.</li>
+<li>При нажатии на знак <strong>“квадрат”</strong>, под
+кнопками <strong>“+”,“-”</strong>, происходит разворачивание карты на весь экран (full screen)</li>
+</ul>
+<hr />
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>В АМП выберем - Амикацин 
+Категория - Все
+Размер точек - от 25 до 50  </code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice56.png"><img src="/img/tutorials/amrmap/04_example/choice56.png" /></a></p>
+
+<h3 id="3-4-3-маркеры">3.4.3 Маркеры</h3>
+
+<p>В результе выбора интересующего показателя в <strong><em>Группа маркеров</em></strong> и <strong><em>Маркер</em></strong> и нажатии кнопки <em>Отобразить</em>
+во вкладке <strong>Маркеры</strong> отображаются данные в виде круговой диаграммы и таблицы.</p>
+<p><strong>I. Круговая диаграмма</strong></p>
+<p>На графике представлен процент изолятов каждого из маркеров от суммарного количества изолятов выбранных маркеров
+<em>N</em> - общее количество изолятов с выбранными маркерами.</p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсом на определенную область графика появляется окно с данными о названии
+маркера и его процентом содержании в представленной группе</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия
+символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p><strong>II. Таблица</strong></p>
+<p>Таблица справа состоит из 5 столбцов:</p>
+<ul>
+<li><em>Микроорганизм</em> - (название микроорганизма)</li>
+<li><em>Город</em> - город взятия образца</li>
+<li><em>Механизм</em> - соответствует выбранной группе маркеров</li>
+<li><em>Маркер</em> - название маркера, цвет ячейки совпадает с обозначение данного маркера на круговой диаграмме</li>
+<li><em>N</em> - абсолютное количество изолятов</li>
+</ul>
+<p><em>Пользователь может выбрать интересующее количество записей, которое будет показано, доступны варианты:</em> <strong>15, 25, 100</strong> записей.</p>
+<hr />
+<p>Необходимо подчеркнуть, что для всех столбцов, кроме <em>Механизм</em> возможно применение фильтров в нескольких вариантах:</p>
+<ul>
+<li>Введение в строке поиска интересующие значения</li>
+<li>Нажатие на строку поиска столбцов с числовыми показателями приводит к появлению ползунка, регулируя положение
+которого, возможно выбрать интересующие значения</li>
+<li>Сортировка данных по возрастанию (стрелка вверх) или убыванию (стрелка вниз)</li>
+</ul>
+<p><em>Следует напомнить о возможности сохранения полученных результатов в форматах представленных внизу таблицы, при этом количество
+сохраненных записей (строк) зависит от выбранного варианта в окне:</em> <strong>15, 25, 100 записей</strong></p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>В поле Маркер выберем вариант - Все 
+Нажмем Отобразить 
+Отфильтруем получившуюся таблицу по столбцу Город - выберем Москва. </code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice57.png"><img src="/img/tutorials/amrmap/04_example/choice57.png" /></a></p>
+
+<h3 id="3-4-4-антибиотики-все">3.4.4 Антибиотики (все)</h3>
+
+<p>После выбора интересующего показателя в <strong><em>Группа маркеров</em></strong>, <strong><em>Маркер</em></strong> и нажатии кнопки <em>Отобразить</em>
+во вкладке <strong>Антибиотики (все)</strong> отображаются данные в виде гистограммы.</p>
+<p>На графике представлена информация по категориям микроорганизмов среди изолятов,с выбранным маркером резистентности.</p>
+<p>По оси X - название антибактериального препарата и абсолютное количество изолятов, протестированных к этому антибактериальному препарату.</p>
+<p>По оси Y - процент изолятов.</p>
+<p>Каждый столбец в рамках одного антибактериального препарата окрашивается в соответствии с категорией микроорганизма по отношению к данному антибактериальному препарату :</p>
+<ul>
+<li><span style="color:#3C756F"><strong>S (чувствительные микроорганизмы)</strong></span></li>
+<li><span style="color:#E6AC25"><strong>I (умеренно-резистентные микроорганизмы)</strong></span></li>
+<li><span style="color:#E7605D"><strong>R (устойчивые микроорганизмы)</strong></span></li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice58.png"><img src="/img/tutorials/amrmap/04_example/choice58.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора на интересующую часть гистограммы отобразится всплывающее окно с числовым значением (в %) для данного столбца</li>
+<li>при наведение курсора на место, где “ус” пересекается со столбцом, появляется всплывающее окно, со значениями верхней и нижней границы 95% ДИ для данного столбца.</li>
+<li>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его категорий</li>
+</ul>
+<hr />
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice58.png"><img src="/img/tutorials/amrmap/04_example/choice58.png" /></a></p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>Выберем отображение I и R категорий микроорганизмов на графике
+Отключим S - элемент легенды, нажав на него</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice60.png"><img src="/img/tutorials/amrmap/04_example/choice60.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+
+<h3 id="3-4-5-мпк">3.4.5 МПК</h3>
+
+<p>В результе выбора интересующего показателя в <em>Группа маркеров</em> и <em>Маркер</em> и нажатии кнопки <em>Отобразить</em> в подразделе <strong>МПК</strong>
+доступна работа с двумя вкладками:</p>
+<ul>
+<li><p><em>МПК</em></p></li>
+<li><p><em>МПК тренд</em></p></li>
+</ul>
+<p><em>I. МПК</em></p>
+<p>На данном графике показано распределение генетическим детерминант по отношению к МПК для антибактериального препарата.</p>
+<p>По оси Х - значения МПК (мг/л) и абсолютное количество изолятов. Каждый столбец окрашивается в соответствии с цветами выбранных маркеров, при этом ширина цвета связана с процентом изолятов. Чем выше процент изолятов с генетической детерминантой, тем больше ширина цвета.</p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>В АМП выберем Цефтазидим-авибактам
+На графике показано отношение генетических детерминант к МПК для Цефтазидим-авибактама
+Столбец №4 соответствует значениям МПК 0,5 мг/л с абсолютным количеством изолятов (N) = 83
+Процент изолятов с генетической детерминантой резистентности - OXA-48гр 
+при данном значении МПК составляет 21.56 %</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice61.png"><img src="/img/tutorials/amrmap/04_example/choice61.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора на интересующую часть гистограммы отобразится всплывающее окно с числовым значением (в %) для данного столбца</li>
+<li>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его маркеров</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p><em>II. МПК тренд</em></p>
+<p>На графике, представленном в данном разделе, ось Х соответствует периоду наблюдения (годы), ось Y - значения МПК.</p>
+<p>Размеры кругов пропорциональны числу изолятов, цвет соответствует категории чувствительности. На каждом круге обозначено абсолютное количество изолятов.</p>
+<p><strong><em>Масштаб окружностей(от/до)</em></strong> - Пользователю доступен выбор от 0 до 100. Изменения данных параметров позволяет
+улучшить отображение кругов в соответствии с требованиями пользователя.</p>
+<hr />
+<p><em>Представленный график является интерактивным:</em></p>
+<ul>
+<li>если зажать левую кнопку мыши и обвести интересующие точки, то во вложенных вкладках появится
+дополнительная информация (по обведенной области) о распределении МПК, генетических маркерах и отдельных изолятах в виде: гистограммы и таблицы</li>
+</ul>
+<hr />
+<p><strong><em>Гистограмма</em></strong></p>
+<p>Выбор интересующих областей отображается в виде гистограммы, где по оси Х - значения МПК (мг/л) и абсолютное количество микроорганизмов,
+по оси Y - относительное количество изолятов с выявленной генетической детерминантой.</p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора на интересующую часть гистограммы отобразится всплывающее окно с числовым значением (в %) для данного столбца</li>
+<li>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его маркеров</li>
+</ul>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p><strong><em>Таблица</em></strong></p>
+<p>После выбора интересующей области пользователю доступна дополнительная информация в виде <em>Таблицы</em>, состоящей из 10 столбцов:</p>
+<ul>
+<li><em>ID</em> - идентификационный номер</li>
+<li><em>Микроорг.</em> - название микроорганизма</li>
+<li><em>Маркер</em> - название маркеры устойчивости</li>
+<li><em>МПК</em> - минимальная подавляющая концентрация при выбранном антибактериальном препарате</li>
+<li><em>Город</em> - город взятия образца</li>
+<li><em>Дата</em> - дата взятия образца</li>
+<li><em>Категория</em> - (<span style="color:#387E78"><strong>S</strong></span>, <span style="color:#EFB932"><strong>I</strong></span>, <span style="color:#D9534F"><strong>R</strong></span>)</li>
+<li><em>Отделение</em> - профиль отделения</li>
+<li><em>Возраст</em> - возраст пациента, в годах</li>
+<li><em>Локализация</em> - локализация инфекционного процесса</li>
+<li><em>Клин.материал</em> - вид клинического материала</li>
+</ul>
+<p><em>Пользователь может выбрать интересующее количество записей, которое будет показано, доступны варианты:</em> <strong>15, 25, 100</strong> записей.</p>
+<hr />
+<p>Необходимо подчеркнуть, что для всех столбцов, кроме <em>Маркер</em> возможно применение фильтров в нескольких вариантах:</p>
+<ul>
+<li>Введение в строке поиска интересующие значения</li>
+<li>Нажатие на строку поиска столбцов с числовыми показателями приводит к появлению ползунка, регулируя положение
+которого возможно выбрать интересующие значения</li>
+<li>Сортировка данных по возрастанию (стрелка вверх) или убыванию (стрелка вниз)</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученных результатов в форматах представленых внизу таблицы, при этом количество
+сохраненных записей (строк) зависит от выбранного варианта:</em> <strong>15, 25, 100 записей</strong></p>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>В АМП выберем Цефтазидим-авибактам 
+На данном графике показано 
+отношение генетических детерминант к МПК для Цефтазидим-авибактама
+Установим значения Масштаб окружностей от 10 до 50.
+Выберем область графика, которая будет просмотрена 
+детально, для этого обведем необходимые точки на графике, с помощью нажатия и удержания левой кнопки мыши </code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice62.png"><img src="/img/tutorials/amrmap/04_example/choice62.png" /></a></p>
+<ul>
+<li>Гистограмма</li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice63.png"><img src="/img/tutorials/amrmap/04_example/choice63.png" /></a></p>
+<ul>
+<li>Таблица</li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice64.png"><img src="/img/tutorials/amrmap/04_example/choice64.png" /></a></p>
+
+<h3 id="3-4-6-тренд">3.4.6 Тренд</h3>
+
+<p>Выберем в <strong>Группа микроорганизмов</strong> - Все, <strong>Группа маркеров</strong> - Карбапенемазы, <strong>Маркер</strong> - Все.
+Нажмем <em>Отобразить</em>.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice65.png"><img src="/img/tutorials/amrmap/04_example/choice65.png" /></a></p>
+<p>Данный подраздел <strong>Тренд</strong> включает 2 вкладки:</p>
+<ul>
+<li><p><em>Абсолютный</em></p></li>
+<li><p><em>Относительный</em></p></li>
+</ul>
+<p><strong><em>I. Абсолютный</em></strong></p>
+<p>Абсолютный тренд - это общее количество изолятов с выбранными детерминантами, которые находятся в базе данных AMRmap.</p>
+<p>По оси X - год обнаружения детерминат, по оси Y - абсолютное количество изолятов с обнаруженным маркером.</p>
+<p>Ширина цвета, которым окрашен столбец, связана с количеством изолятов. Чем больше количество изолятов с маркером, тем шире окрашивание.</p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li><p>при наведении курсора мыши на интересующую часть столбца гистограммы отобразится всплывающее окно с абсолютным числом изолятов</p></li>
+<li><p>используя легенду под графиком (нажимая на отдельные элементы), пользователь может регулировать отображение интересующих его детерминант</p></li>
+</ul>
+<hr />
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice66.png"><img src="/img/tutorials/amrmap/04_example/choice66.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p><strong><em>II. Относительный</em></strong></p>
+<p>Относительный тренд показывает процент изолятов с выбранными детерминантами.</p>
+<blockquote>
+<p>Особенностью тренда является представление
+более точных данных, поскольку в расчет включаются только изоляты, которые взяты в результате случайной выборки на этапе исследования</p>
+</blockquote>
+<p>По оси X - год обнаружения детерминат, по оси Y - процент изолятов с обнаруженным маркером. Ширина цвета, которым окрашен столбец, связана с количеством изолятов. Чем больше количество изолятов с маркером, тем шире окрашивание.</p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li><p>при наведении курсора мыши на интересующую часть столбца гистограммы отобразится всплывающее окно с относительным числом изолятов</p></li>
+<li><p>используя легенду под графиком (нажимая на отдельные элементы), пользователь может регулировать отображение интересующих его детерминант</p></li>
+</ul>
+<hr />
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice67.png"><img src="/img/tutorials/amrmap/04_example/choice67.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+
+<h3 id="3-4-7-время-первого-wbr-обнаружения">3.4.7 Время первого<wbr> обнаружения</h3>
+
+<p>Представляет данные по дате первого обнаружения маркера на территории определенного города.</p>
+<p><strong><em>Маркер</em></strong> - выпадающий список маркеров резистентности. Поиск интересующего маркера возможен при прокручивании списка или печати названия
+(поиск осуществляется по совпадению букв)</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice68.png"><img src="/img/tutorials/amrmap/04_example/choice68.png" /></a></p>
+<p>Вкладка <strong>Время первого обнаружения</strong> состоит из 2 подразделов:</p>
+<ul>
+<li>Шкала</li>
+<li>Карта</li>
+</ul>
+<p><strong><em>I. Шкала</em></strong></p>
+<p>В каждом элементе шкалы представлены данные о названии генетической детерминанты, месте обнаружения - Город, названии микроорганизма, дате обнаружения.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/scale.png"><img src="/img/tutorials/amrmap/04_example/scale.png" /></a></p>
+<hr />
+<p><em>Представленная шкала является интерактивной</em></p>
+<ul>
+<li><p>при нажатии на интересующее окно, цвет окна из <span style="color:#D1D9F4"><strong>синего</strong></span> меняется на <span style="color:#FDF77F"><strong>желтый</strong></span></p></li>
+<li><p>шкалу можно растягивать и собирать по временной оси, прокручивая колесо мыши</p></li>
+</ul>
+<hr />
+<p><strong><em>II. Карта</em></strong></p>
+<p>На карте каждый случай обнаружения генетической детерминанты изображен красным кругом при нажатии на который, появляется окно с информацией о названии генетической детерминанты, месте обнаружения - Город, названии микроорганизма, дате обнаружения.</p>
+<ul>
+<li><strong><em>Время</em></strong> - c помощью перемещения ползунка устанавливается необходимый временной промежуток</li>
+</ul>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>Выбираем интересующий маркер GES-5-гр
+Установим временной интервал от 31.01.2008 (первый случай обнаружения в 2008 году) до 04.12.2014
+(последний случай обнаружения в 2014)</code></pre>
+<p>…</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice69.png"><img src="/img/tutorials/amrmap/04_example/choice69.png" /></a></p>
+<hr />
+<ul>
+<li>Пользователь может изменять внешний вид карты, для этого необходимо нажать на символ в правом верхнем углу карты и из предложенного списка выбрать подходящий вариант</li>
+<li>Кнопки <strong>“+”</strong>,<strong>“-”</strong>, расположенные в верхнем левом углу,
+позволяют приблизить и отдалить карту.</li>
+<li>При нажатии на знак <strong>“квадрат”</strong>,под
+кнопками <strong>“+”</strong>,<strong>“-”</strong>, происходит разворачивание карты на весь экран (full screen).</li>
+</ul>
+<hr />
+
+
+
+### 3.4.8 О детерминантах
+<p>В данной вкладке представлена информация:</p>
+<ul>
+<li>полное названии генетических детерминант, включенных в платформу в настоящий момент</li>
+<li>перечень антибиотиков, устойчивость к которым связана с наличием детерминанты</li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice70.png"><img src="/img/tutorials/amrmap/04_example/choice70.png" /></a></p>
+
+<h2 id="3-5-сравнения">3.5 Сравнения</h2>
+
+<p>При переходе в раздел <strong>Сравнения</strong> появляется поле <strong>Параметры сравнения</strong> с параметрами <strong>1 - 12</strong> идентичными рассмотренному полю <strong>Параметры основные</strong></p>
+<p>…</p>
+<p><em>Пример 1</em></p>
+<pre><code>Определить чувствительность Staphylococcus spp. к Левофлоксацину, которые  были выделены при 
+Нозокомиальных инфекциях  и Внебольничных инфекциях 
+во Всех федеральных округах
+Всех краях/областях/республиках
+Всех городах
+Всех ЛПУ
+Всех отделениях
+Всех локализациях инфекционного процесса
+Возраст исследуемой группы от 0 до 104 лет 
+Период с 1997 по 2018 гг</code></pre>
+<p>…</p>
+<p>Последовательно выберем соответсвующие параметры <strong>1-12</strong> в поле <strong>Параметры основные</strong> и</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice71.png"><img src="/img/tutorials/amrmap/04_example/choice71.png" /></a></p>
+<p><strong>Параметры сравнения</strong>. С целью удобства работы, в данном разделе поля <strong>Параметры основные</strong> и <strong>Параметры сравнения</strong> можно свернуть, для этого необходимо нажать кнопку <strong>стрелка вниз</strong> в правом верхнем углу.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice72.png"><img src="/img/tutorials/amrmap/04_example/choice72.png" /></a></p>
+<p>В выпадающем списке <strong><em>Сравнить по</em></strong> выберем необходимый антибиотик - <em>Левофлоксацин</em>, нажмем кнопку <em>Сравнить</em>.</p>
+
+<h3 id="3-5-1-суммарно">3.5.1 Суммарно</h3>
+
+<p>Во вкладке <strong>Суммарно</strong> в верней части отображается гистограмма по запрашиваемым параметрам.</p>
+<hr />
+<p><em>Представленный график является интерактивным:</em></p>
+<ul>
+<li>при наведении курсора на интересующий столбец появляется всплывающее окно с названием группы сравнения, абсолютным и относительным количеством изолятов изучаемой чувствительности.</li>
+<li>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его категорий</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p>Внизу экрана суммарные данные по:</p>
+<p><span style="color:#3C756F"><strong>чувствительным - S</strong></span>, <span style="color:#CC4745"><strong>умеренно-резистентным - I</strong> + <strong>резистентным - R</strong></span> категориям изолятов, их относительном количестве и соответствующим значениям 95% ДИ, абсолютном количестве изолятов определенной категории к общему количеству изолятов. Между суммарными данными, внизу экрана, появляются результаты рассчитанного p-значения Точного критерия Фишера.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice73.png"><img src="/img/tutorials/amrmap/04_example/choice73.png" /></a></p>
+
+<h3 id="3-5-2-по-годам">3.5.2 По годам</h3>
+
+<p>На гистограмме представлены данные о чувствительности микроорганизмов к антибактериальному препарату, в зависимости от показателей, выбранных в поле <strong>Параметры основные</strong> и <strong>Параметры сравнения</strong>.</p>
+<p>По оси X - год, в скобках результаты Точного критерия Фишера.</p>
+<p>По оси Y - процент изолятов соответствующей категории.</p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice74.png"><img src="/img/tutorials/amrmap/04_example/choice74.png" /></a></p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора мыши на интересующую часть гистограммы отобразится всплывающее окно с числовым значением (в %) для данного столбца, p-значением</li>
+<li>при наведении курсора в точке, где “ус” пересекает столб появляется значение 95% ДИ</li>
+<li>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его категорий</li>
+</ul>
+<hr />
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice76.png"><img src="/img/tutorials/amrmap/04_example/choice76.png" /></a></p>
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p>Подробная информация по выбранным показателям представлена в таблице, расположенной по графиком.</p>
+<p>Таблица состоит из 5 столбцов:</p>
+<ul>
+<li><em>Год</em> - год взятия изолята</li>
+<li><em>Категория микроорганизмов</em>: <span style="color:#3C756F"><strong>(чувствительные) - S</strong></span>, <span style="color:#CC4745"><strong>(умеренно-резистентные) - I</strong> + <strong>(резистентные) - R</strong></span> микроорганизмы</li>
+<li><em>Группа 1.Параметры основные</em> - процент изолятов выбранной категории в соответствии с параметрами, выбранными в поле <strong>Параметры основные</strong> . В скобках представлены данные по абсолютному количеству изолятов данной категории к общему количеству изолятов за рассматриваемый год.</li>
+<li><em>Группа 2.Параметры сравнения</em> - процент изолятов выбранной категории в соответствии с параметрами, выбранными в поле <strong>Параметры сравнения</strong> . В скобках представлены данные по абсолютному количеству изолятов данной категории к общему количеству изолятов за рассматриваемый год.</li>
+<li><em>p-значение</em> - уровня значимости p Точного критерия Фишера. Критический уровень значимости при расчете - 0,05.<br />
+p - значение, которое свидетельствует о статистически значимых различиях между данными 3 и 4 столбца таблицы, окрашено в зеленый цвет.</li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice75.png"><img src="/img/tutorials/amrmap/04_example/choice75.png" /></a></p>
+
+<h3 id="3-5-3-мпк">3.5.3 МПК</h3>
+
+<p>В данном подразделе включена информация о количестве изолятов сравниваемых групп при определенном значении МПК.</p>
+<p><strong><em>Гистограмма</em></strong></p>
+<p>На графике представлены данные о количестве микроорганизмов в зависимости от показателей, выбранных в поле <strong>Параметры основные</strong> и <strong>Параметры сравнения</strong> при определенном значении МПК .</p>
+<p>По оси X - год и в скобках результаты Точного критерия Фишера. По оси Y - процент изолятов соответствующей группы.</p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li>при наведении курсора мыши на интересующую часть гистограммы отобразится всплывающее окно с числовым значением МПК (в %) для данного столбца, p-значением</li>
+<li>при наведении курсора в точке, где “ус” пересекает столб появляется значение 95% ДИ</li>
+<li>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его категорий</li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p><strong><em>Таблица</em></strong></p>
+<p>Таблица состоит из 4 столбцов:</p>
+<ul>
+<li><p><em>МПК, мг/л</em> - минимальная подавляющая концентрация. При статистически значимых различиях в проценте изолятов, значение МПК окрашено в
+<span style="color:#4D8000"><strong>зеленый цвет</strong></span>.</p></li>
+<li><p><em>Группа 1. Параметры основные</em> - процент изолятов в соответствии с показателями, выбранными в поле <strong>Параметры основные</strong>. В скобках представлена информация по абсолютному количеству изолятов группы 1 (при определенном значении МПК) к общему количеству изолятов при заданных показателях в поле <strong>Параметры основные</strong> и интересующем антибактериальном препарате.</p></li>
+<li><p><em>Группа 2. Параметры сравнения</em> - процент изолятов в соответствии с показателями, выбранными в поле <strong>Параметры сравнения</strong> . В скобках представлена информация по абсолютному количеству изолятов группы 2 (при определенном значении МПК) к общему количеству изолятов при заданных показателях в поле <strong>Параметры сравнения</strong> и интересующем антибактериальном препарате.</p></li>
+<li><p><em>p-значение</em> - уровень значимости p Точного критерия Фишера. Критический уровень значимости при расчете - 0,05. P- значение, которое свидетельствует о статистически значимых различиях между данными 2 и 3 столбца таблицы, окрашено в <span style="color:#4D8000"><strong>зеленый цвет</strong></span>.</p></li>
+</ul>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice77.png"><img src="/img/tutorials/amrmap/04_example/choice77.png" /></a></p>
+
+<h3 id="3-5-4-детерминанты">3.5.4 Детерминанты</h3>
+
+<p>В разделе <strong>Детерминанты</strong> представлена информация по генетическим детерминантам резистентности.</p>
+<p>Для отображения результатов основным условием является:</p>
+<ol style="list-style-type: decimal">
+<li>совпадение показателей в пункте <strong>1. Группа инфекций</strong></li>
+<li>обязательный выбор определенной группы микроорганизмов</li>
+</ol>
+<p><strong><em>Группа маркеров</em></strong> - объединяющая категория, позволяющая осуществить целенаправленный подход к выбору интересующих маркеров. Поиск интересующей группы возможен при прокручивании списка или печати названия
+(поиск осуществляется по совпадению букв)</p>
+<p><strong><em>Маркер</em></strong> - маркеры, представленных в выбранном варианте <strong>Группа маркеров</strong>. Поиск интересующего маркера возможен при прокручивании списка или печати названия
+(поиск осуществляется по совпадению букв)</p>
+<p>Полученные результаты представлены в виде гистограммы и таблицы.</p>
+<p><strong><em>I. Гистограмма</em></strong> -</p>
+<p>ось Х - номер группы и абсолютное количество изолятов данной группы в зависимости от выбранных маркеров, ось Y - относительное количество изолятов с наличием маркеров резистентности. Ширина окрашивания столбца напрямую зависит от процента изолятов с соответствующим маркером резистентности. Чем выше процент изолятов с наличием определенного маркера, тем шире окрашивание столбца данным цветом.</p>
+<hr />
+<p><em>Представленный график является интерактивным</em></p>
+<ul>
+<li><p>при наведении курсора мыши на интересующую часть гистограммы отобразится всплывающее окно с числовым значением изолятов (в %) для данного маркера</p></li>
+<li><p>используя легенду под графиком (нажимая на отдельные категории), пользователь может регулировать отображение интересующих его элементов легенды</p></li>
+</ul>
+<hr />
+<p><em>Следует напомнить о возможности сохранения полученного результата с помощью нажатия символа <strong>“три полоски”</strong> и в выпавшем меню выбрать нужный формат</em></p>
+<p><strong><em>II. Таблица</em></strong> -</p>
+<p>Таблица состоит из 4 столбцов:</p>
+<ul>
+<li><em>Маркер</em> - название выбранных маркеров</li>
+<li><p><em>Группа 1. Параметры основные</em> - процент изолятов в соответствии с показателями, выбранными в поле <strong>Параметры основные</strong>. В скобках представлена информация по абсолютному количеству изолятов группы 1 с выбранными маркерами к общему количеству изолятов при заданных показателях в поле <strong>Параметры основные</strong> и интересующем антибактериальном препарате.</p></li>
+<li><p><em>Группа 2. Параметры сравнения</em> - процент изолятов в соответствии с показателями, выбранными в поле <strong>Параметры сравнения</strong>. В скобках представлена информация по абсолютному количеству изолятов группы 2 с выбранными маркерами к общему количеству изолятов при заданных показателях в поле <strong>Параметры сравнения</strong> и интересующем антибактериальном препарате.</p></li>
+<li><p><em>p-значение</em> - уровень значимости p Точного критерия Фишера. Критический уровень значимости при расчете - 0,05. P- значение, которое свидетельствует о статистически значимых различиях между данными 2 и 3 столбца таблицы, окрашено в <span style="color:#4D8000"><strong>зеленый цвет</strong></span>.</p></li>
+</ul>
+<p>…</p>
+<p><em>Пример</em></p>
+<pre><code>Сравнить генетические детерминанты резистентности Enterobacterales при Нозокомиальных инфекциях 
+Во Всех федеральных округах
+Всех краях/областях/республиках
+Всех городах
+Всех ЛПУ
+профиль отделения: </code></pre>
+<p>в первом случае - <strong>Хирургия</strong></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice79.png"><img src="/img/tutorials/amrmap/04_example/choice79.png" /></a></p>
+<p>во втором - <strong>Терапия</strong></p>
+<p>…
+<a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice80.png"><img src="/img/tutorials/amrmap/04_example/choice80.png" /></a></p>
+<p><strong>Всех</strong> локализациях инфекционного процесса, при возрасте исследуемой группы <strong>от 0 до 104 лет</strong>, за период <strong>с 1997 по 2018 гг.</strong></p>
+<p>После введения всех заданных параметров переходим к выбору параметров подраздела <strong>Детерминанты</strong></p>
+<p><strong><em>Группа маркеров</em></strong> - Карбапенемазы, <strong><em>Маркер</em></strong> - Все. Нажмем кнопку <em>Сравнить детерминанты</em></p>
+<p><a data-fancybox="img" href="/img/tutorials/amrmap/04_example/choice78.png"><img src="/img/tutorials/amrmap/04_example/choice78.png" /></a></p>
+
+          </div>
+
+          
+
+
+
+          
+        </div>
+
+
+
+          
+
+
+
+
+          
+
+
+        </div>
+
+      </article>
+
+      <footer id="footer">
+    <div class="container">
+
+        
+        <div class="col-md-4 col-sm-6">
+            <h4>AMRhub</h4>
+
+            <p>виртуальная точка входа для экосистемы уникальных веб-продуктов, посвященных вопросам антимикробной резистентности</p>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+        <div class="col-md-4 col-sm-6">
+
+            
+
+        </div>
+        
+
+        
+        <div class="col-md-4 col-sm-6">
+
+          <h4>Контакты</h4>
+
+            <ul class="fa-ul">       
+              <li>
+                <i class="fa-li fas fa-envelope" aria-hidden="true"></i>
+                <span id="person-email"><a href="mailto:support@antibiotic.ru">support@antibiotic.ru</a></span>
+              </li>
+              <li>
+                <i class="fa-li fab fa-vk" aria-hidden="true"></i>
+                <a href="https://vk.com/iacmac" target="_blank" rel="noopener">vk.com/iacmac</a>
+              </li>
+              <li>
+                <i class="fa-li fab fa-telegram" aria-hidden="true"></i>
+                <a href="https://telegram.me/iacmac" target="_blank" rel="noopener">telegram.me/iacmac</a>
+              </li>
+              <li>
+                <i class="fa-li fab fa-youtube" aria-hidden="true"></i>
+                <a href="https://www.youtube.com/iacmac" target="_blank" rel="noopener">youtube.com/iacmac</a>
+              </li>
+            </ul>
+
+        </div>
+        
+        
+
+    </div>
+    
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-left">Copyright © AMRhub, 2023</p>
+            
+            <p class="pull-right">
+              Template by <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
+              
+
+              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </main>
+  </div>
+</div>
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-85066436-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+
+<script src="/js/front.js"></script>
+
+
+<script src="/js/owl.carousel.min.js"></script>
+
+
+
+</body>
+</html>

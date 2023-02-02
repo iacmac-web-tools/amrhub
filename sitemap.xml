@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/02-myteams/</loc>
+    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/03-myproposals/</loc>
+    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/01-mydrugs/</loc>
+    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/00-mynotebooks/</loc>
+    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/04-drugs/</loc>
+    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/05-schemes/</loc>
+    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrmap/1-info/</loc>
+    <lastmod>2020-02-14T00:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrmap/2-access/</loc>
+    <lastmod>2020-02-14T00:05:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrmap/3-analysis/</loc>
+    <lastmod>2020-02-14T00:04:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrmap/4-addition/</loc>
+    <lastmod>2020-02-14T00:03:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrmap/</loc>
+    <lastmod>2023-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/</loc>
+    <lastmod>2022-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amrhub.ru/tags/amrcloud/</loc>
     <lastmod>2023-01-31T00:29:20+02:00</lastmod>
   </url>
@@ -43,7 +103,7 @@
   </url>
   
   <url>
-    <loc>https://amrhub.ru/tags/microbenames/</loc>
+    <loc>https://amrhub.ru/tags/microbionames/</loc>
     <lastmod>2023-01-30T00:29:20+02:00</lastmod>
   </url>
   
@@ -946,6 +1006,10 @@
   
   <url>
     <loc>https://amrhub.ru/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/</loc>
   </url>
   
   <url>
