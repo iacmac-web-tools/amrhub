@@ -6,7 +6,7 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 13 Feb 2023 00:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2023 01:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -141,6 +141,15 @@
  Для пользователя доступна работа с QR-кодом или непосредственно с генерированной ссылкой  
  Ссылку необходимо выделить и вставить в строку поиска браузера  
  После нажатия клавиши Enter для пользователя появляется информационное окно</description>
+    </item>
+    
+    <item>
+      <title>Escherichia coli — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2023/02/13/ety-escherichia-coli/</link>
+      <pubDate>Mon, 13 Feb 2023 01:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/02/13/ety-escherichia-coli/</guid>
+      <description>Escherichia coli — грамотрицательная палочковидная бактерия, факультативный анаэроб, входящий в состав кишечной микробиоты.</description>
     </item>
     
     <item>
