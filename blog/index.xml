@@ -6,10 +6,19 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 13 Feb 2023 01:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Feb 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Обновление критериев EUCAST</title>
+      <link>https://amrhub.ru/blog/2023/02/20/expert20022023/</link>
+      <pubDate>Mon, 20 Feb 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/02/20/expert20022023/</guid>
+      <description>В сервисе AMRexpert стали доступны критерии EUCAST v.13.0 (2023).</description>
+    </item>
     
     <item>
       <title>Escherichia coli — почему такое название?</title>
