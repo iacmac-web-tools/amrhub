@@ -6,10 +6,19 @@
     <description>Recent content in MicrobioNames on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Feb 2023 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2023 00:00:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/microbionames/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Агар-агар — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2023/03/05/ety-agar-agar/</link>
+      <pubDate>Sun, 05 Mar 2023 00:00:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/03/05/ety-agar-agar/</guid>
+      <description>«Агар-агар» (или «агар») — это смесь полисахаридов агарозы и агаропектина, получаемая путём экстрагирования из красных водорослей.</description>
+    </item>
     
     <item>
       <title>Rickettsia rickettsii — почему такое название?</title>
