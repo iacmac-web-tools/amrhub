@@ -6,10 +6,19 @@
     <description>Recent content in MicrobioNames on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 18 Mar 2023 00:00:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/microbionames/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Агар Сабуро — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2023/04/02/ety-sabouraud/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/04/02/ety-sabouraud/</guid>
+      <description>«Агар Сабуро» (или SDA) — это твёрдая питательная среда с декстрозой, служащая для выделения различных грибов (дрожжей, плесени, дерматофитов) и нитчатых бактерий (Streptomyces, Nocardia).</description>
+    </item>
     
     <item>
       <title>Агар МакКонки — почему такое название?</title>
