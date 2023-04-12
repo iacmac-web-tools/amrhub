@@ -6,10 +6,28 @@
     <description>Recent content in Categories on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 04 Apr 2023 00:01:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2023 00:00:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Статья</title>
+      <link>https://amrhub.ru/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Мероприятие</title>
+      <link>https://amrhub.ru/categories/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link>
+      <pubDate>Mon, 10 Apr 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/categories/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Событие</title>
@@ -17,15 +35,6 @@
       <pubDate>Tue, 04 Apr 2023 00:01:46 +0200</pubDate>
       
       <guid>https://amrhub.ru/categories/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Статья</title>
-      <link>https://amrhub.ru/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</link>
-      <pubDate>Sun, 02 Apr 2023 00:00:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Mon, 16 Jan 2023 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/categories/%D0%BE%D0%BF%D1%80%D0%BE%D1%81/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Мероприятие</title>
-      <link>https://amrhub.ru/categories/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</link>
-      <pubDate>Wed, 07 Sep 2022 09:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/categories/%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     

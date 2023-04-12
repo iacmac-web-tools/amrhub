@@ -6,10 +6,19 @@
     <description>Recent content in AMRcloud on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 06 Feb 2023 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/amrcloud/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Обучающий семинар: «Цифровизация микробиологической лаборатории»</title>
+      <link>https://amrhub.ru/blog/2023/04/10/news11042023/</link>
+      <pubDate>Mon, 10 Apr 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/04/10/news11042023/</guid>
+      <description>Команда разработчиков AMRcloud благодарит всех, кто посетил симпозиум «Использование IT-платформы AMRcloud&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Тренинг по мониторингу АР в Хабаровском крае</title>
