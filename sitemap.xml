@@ -73,12 +73,42 @@
   </url>
   
   <url>
-    <loc>https://amrhub.ru/tags/amrcloud/</loc>
-    <lastmod>2023-04-15T00:00:46+02:00</lastmod>
+    <loc>https://amrhub.ru/</loc>
+    <lastmod>2023-04-25T00:29:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amrhub.ru/</loc>
+    <loc>https://amrhub.ru/tags/amrmap/</loc>
+    <lastmod>2023-04-25T00:29:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/categories/</loc>
+    <lastmod>2023-04-25T00:29:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tags/</loc>
+    <lastmod>2023-04-25T00:29:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/blog/</loc>
+    <lastmod>2023-04-25T00:29:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/categories/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
+    <lastmod>2023-04-25T00:29:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/blog/2023/04/25/map25042023/</loc>
+    <lastmod>2023-04-25T00:29:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tags/amrcloud/</loc>
     <lastmod>2023-04-15T00:00:46+02:00</lastmod>
   </url>
   
@@ -93,22 +123,7 @@
   </url>
   
   <url>
-    <loc>https://amrhub.ru/categories/</loc>
-    <lastmod>2023-04-15T00:00:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/tags/</loc>
-    <lastmod>2023-04-15T00:00:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amrhub.ru/blog/2023/04/15/team15042023/</loc>
-    <lastmod>2023-04-15T00:00:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/blog/</loc>
     <lastmod>2023-04-15T00:00:46+02:00</lastmod>
   </url>
   
@@ -180,11 +195,6 @@
   <url>
     <loc>https://amrhub.ru/blog/2023/03/18/ety-macconkey-agar/</loc>
     <lastmod>2023-03-18T00:00:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/categories/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
-    <lastmod>2023-03-14T00:29:20+02:00</lastmod>
   </url>
   
   <url>
@@ -274,11 +284,6 @@
   
   <url>
     <loc>https://amrhub.ru/blog/2022/12/26/news26122022/</loc>
-    <lastmod>2022-12-26T00:29:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/tags/amrmap/</loc>
     <lastmod>2022-12-26T00:29:20+02:00</lastmod>
   </url>
   

@@ -3228,7 +3228,7 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid #55555538;
 }
 /* breadcrumbs */
 .breadcrumb {
@@ -3468,7 +3468,7 @@ abbr[data-original-title] {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  font-size: 14px;
+  font-size: 16px;
   border-left: 5px solid var(--primary-accent);
 }
 blockquote footer,

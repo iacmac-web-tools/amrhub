@@ -6,10 +6,19 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Обновление AMRmap</title>
+      <link>https://amrhub.ru/blog/2023/04/25/map25042023/</link>
+      <pubDate>Tue, 25 Apr 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/04/25/map25042023/</guid>
+      <description>В апреле произошло ежегодное обновление базы данных платформы AMRmap.</description>
+    </item>
     
     <item>
       <title>Мастер-класс от AMRteam в Кирове</title>
@@ -71,7 +80,7 @@
       <pubDate>Sat, 25 Mar 2023 00:50:46 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2023/03/25/cf25032023/</guid>
-      <description>24 марта 2023 заместитель директора НИИ АХ Кузьменков Алексей Юрьевич выступил в Санкт-Петербурге на конференции по муковисцидозу&amp;hellip;</description>
+      <description>24 марта 2023 заместитель директора НИИАХ Кузьменков Алексей Юрьевич выступил в Санкт-Петербурге на конференции по муковисцидозу&amp;hellip;</description>
     </item>
     
     <item>
@@ -170,7 +179,7 @@
       <pubDate>Mon, 06 Feb 2023 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2023/02/06/news06022023/</guid>
-      <description>6 февраля 2023 заместитель директора НИИ АХ Кузьменков Алексей Юрьевич&amp;hellip;</description>
+      <description>6 февраля 2023 заместитель директора НИИАХ Кузьменков Алексей Юрьевич&amp;hellip;</description>
     </item>
     
     <item>
@@ -539,7 +548,7 @@
       <pubDate>Wed, 16 Mar 2022 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2022/03/16/news16032022/</guid>
-      <description>16 марта 2022 в НИИ АХ (Смоленск) с успехом прошёл предконференционный мастер-класс «Антимикробная терапия и HealthTech: какие технологии нам доступны».</description>
+      <description>16 марта 2022 в НИИАХ (Смоленск) с успехом прошёл предконференционный мастер-класс «Антимикробная терапия и HealthTech: какие технологии нам доступны».</description>
     </item>
     
     <item>
@@ -782,7 +791,7 @@
       <pubDate>Thu, 24 Jun 2021 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2021/06/24/news24062021/</guid>
-      <description>23 июня сотрудники НИИ АХ с рабочей поездкой посетили Детскую республиканскую клиническую больницу&amp;hellip;</description>
+      <description>23 июня сотрудники НИИАХ с рабочей поездкой посетили Детскую республиканскую клиническую больницу&amp;hellip;</description>
     </item>
     
     <item>
