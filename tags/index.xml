@@ -6,10 +6,19 @@
     <description>Recent content in Tags on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Jun 2023 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2023 00:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AMRexpert</title>
+      <link>https://amrhub.ru/tags/amrexpert/</link>
+      <pubDate>Fri, 23 Jun 2023 00:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrexpert/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AMRbook</title>
@@ -26,15 +35,6 @@
       <pubDate>Wed, 21 Jun 2023 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/amrcloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRexpert</title>
-      <link>https://amrhub.ru/tags/amrexpert/</link>
-      <pubDate>Wed, 21 Jun 2023 00:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrexpert/</guid>
       <description></description>
     </item>
     
