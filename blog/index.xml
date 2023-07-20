@@ -6,10 +6,19 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AMRexpert на конференции РСФ</title>
+      <link>https://amrhub.ru/blog/2023/07/19/expert19072023/</link>
+      <pubDate>Wed, 19 Jul 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/07/19/expert19072023/</guid>
+      <description>14 июля 2023 Кузьменков А.Ю. выступил на конференции Российского Сепсис Форума «Сепсис. Междисциплинарный подход к диагностике и лечению»</description>
+    </item>
     
     <item>
       <title>Прибор для учёта результатов определения чувствительности</title>

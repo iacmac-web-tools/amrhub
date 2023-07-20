@@ -6,10 +6,19 @@
     <description>Recent content in Tags on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AMRexpert</title>
+      <link>https://amrhub.ru/tags/amrexpert/</link>
+      <pubDate>Wed, 19 Jul 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrexpert/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AMRsens</title>
@@ -26,15 +35,6 @@
       <pubDate>Mon, 03 Jul 2023 00:00:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/microbionames/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRexpert</title>
-      <link>https://amrhub.ru/tags/amrexpert/</link>
-      <pubDate>Fri, 23 Jun 2023 00:47:08 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrexpert/</guid>
       <description></description>
     </item>
     
