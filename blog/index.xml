@@ -6,10 +6,28 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2023 09:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leishmania spp. — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2023/09/10/ety-leishmania/</link>
+      <pubDate>Sun, 10 Sep 2023 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/09/10/ety-leishmania/</guid>
+      <description>Leishmania spp. — род паразитических микроорганизмов, вызывающих протозойные инфекции (лейшманиозы), передающиеся через укусы москитов.</description>
+    </item>
+    
+    <item>
+      <title>AMRmonitoring в ТГМУ</title>
+      <link>https://amrhub.ru/blog/2023/09/07/news07092023/</link>
+      <pubDate>Thu, 07 Sep 2023 09:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/09/07/news07092023/</guid>
+      <description>Технологии мониторинга АМР, разработанные командой AMRhub, постепенно внедряются в учебный процесс медицинских ВУЗов России&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Мастер-класс от AMRteam в Улан-Удэ</title>
