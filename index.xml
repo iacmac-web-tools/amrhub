@@ -6,7 +6,7 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 Oct 2023 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2023 00:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -185,6 +185,15 @@
     </item>
     
     <item>
+      <title>Новые AMR-стикеры</title>
+      <link>https://amrhub.ru/blog/2023/10/27/sticker27102023/</link>
+      <pubDate>Fri, 27 Oct 2023 00:50:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/10/27/sticker27102023/</guid>
+      <description>Мы обновили наш легендарный стикер-пак с AMR-мишками!</description>
+    </item>
+    
+    <item>
       <title>Nocardia spp. — почему такое название?</title>
       <link>https://amrhub.ru/blog/2023/10/17/ety-nocardia/</link>
       <pubDate>Tue, 17 Oct 2023 00:29:20 +0200</pubDate>
@@ -245,6 +254,15 @@
       
       <guid>https://amrhub.ru/blog/2023/09/27/news27092023/</guid>
       <description>27 сентября 2023 успешно завершился комплекс лабораторных испытаний&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>7 лет проекту AMRmap</title>
+      <link>https://amrhub.ru/blog/2023/09/19/map19092023/</link>
+      <pubDate>Tue, 19 Sep 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/09/19/map19092023/</guid>
+      <description>AMRhub подготовил новый стикер-пак в честь дня рождения проекта AMRmap&amp;hellip;</description>
     </item>
     
     <item>
