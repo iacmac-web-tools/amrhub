@@ -6,10 +6,19 @@
     <description>Recent content in AMRexpert on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 04 Oct 2023 00:01:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/amrexpert/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Обновление AMRexpert</title>
+      <link>https://amrhub.ru/blog/2023/11/29/expert29112023/</link>
+      <pubDate>Wed, 29 Nov 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/11/29/expert29112023/</guid>
+      <description>В свежем обновлении сервиса AMRexpert появился новый тип предупреждений экспертной системы «Ограничение использования»&amp;hellip;</description>
+    </item>
     
     <item>
       <title>AMRhub на РКЛМ</title>
@@ -125,15 +134,6 @@
       <pubDate>Sat, 19 Nov 2022 09:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2022/11/19/expert19112022/</guid>
-      <description>В свежем обновлении сервиса AMRexpert появилась возможность делиться ссылками с результатами ваших расчётов.</description>
-    </item>
-    
-    <item>
-      <title>Обновление AMRexpert</title>
-      <link>https://amrhub.ru/blog/2022/11/19/expert29112023/</link>
-      <pubDate>Sat, 19 Nov 2022 09:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/blog/2022/11/19/expert29112023/</guid>
       <description>В свежем обновлении сервиса AMRexpert появилась возможность делиться ссылками с результатами ваших расчётов.</description>
     </item>
     
