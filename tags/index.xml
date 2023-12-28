@@ -6,33 +6,33 @@
     <description>Recent content in Tags on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 08 Dec 2023 00:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>AMRteam</title>
-      <link>https://amrhub.ru/tags/amrteam/</link>
-      <pubDate>Fri, 08 Dec 2023 00:50:46 +0200</pubDate>
+      <title>AMRcf</title>
+      <link>https://amrhub.ru/tags/amrcf/</link>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
       
-      <guid>https://amrhub.ru/tags/amrteam/</guid>
+      <guid>https://amrhub.ru/tags/amrcf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MicrobioNames</title>
-      <link>https://amrhub.ru/tags/microbionames/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:20 +0200</pubDate>
+      <title>AMRcloud</title>
+      <link>https://amrhub.ru/tags/amrcloud/</link>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
       
-      <guid>https://amrhub.ru/tags/microbionames/</guid>
+      <guid>https://amrhub.ru/tags/amrcloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AMRexpert</title>
       <link>https://amrhub.ru/tags/amrexpert/</link>
-      <pubDate>Wed, 29 Nov 2023 00:29:20 +0200</pubDate>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/amrexpert/</guid>
       <description></description>
@@ -41,25 +41,61 @@
     <item>
       <title>AMRmap</title>
       <link>https://amrhub.ru/tags/amrmap/</link>
-      <pubDate>Tue, 28 Nov 2023 00:29:20 +0200</pubDate>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/amrmap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>AMRcloud</title>
-      <link>https://amrhub.ru/tags/amrcloud/</link>
-      <pubDate>Tue, 31 Oct 2023 00:29:20 +0200</pubDate>
+      <title>AMRnote</title>
+      <link>https://amrhub.ru/tags/amrnote/</link>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
       
-      <guid>https://amrhub.ru/tags/amrcloud/</guid>
+      <guid>https://amrhub.ru/tags/amrnote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMRplate</title>
+      <link>https://amrhub.ru/tags/amrplate/</link>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrplate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMRteam</title>
+      <link>https://amrhub.ru/tags/amrteam/</link>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrteam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicrobioNames</title>
+      <link>https://amrhub.ru/tags/microbionames/</link>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/microbionames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://amrhub.ru/tags/monitoring/</link>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sticker</title>
       <link>https://amrhub.ru/tags/sticker/</link>
-      <pubDate>Fri, 27 Oct 2023 00:50:46 +0200</pubDate>
+      <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/sticker/</guid>
       <description></description>
@@ -71,42 +107,6 @@
       <pubDate>Thu, 12 Oct 2023 00:47:08 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/amrbook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRnote</title>
-      <link>https://amrhub.ru/tags/amrnote/</link>
-      <pubDate>Thu, 12 Oct 2023 00:47:08 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrnote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRsens</title>
-      <link>https://amrhub.ru/tags/amrsens/</link>
-      <pubDate>Wed, 04 Oct 2023 00:01:46 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrsens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monitoring</title>
-      <link>https://amrhub.ru/tags/monitoring/</link>
-      <pubDate>Thu, 07 Sep 2023 09:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/monitoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRcf</title>
-      <link>https://amrhub.ru/tags/amrcf/</link>
-      <pubDate>Sat, 25 Mar 2023 00:50:46 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrcf/</guid>
       <description></description>
     </item>
     
