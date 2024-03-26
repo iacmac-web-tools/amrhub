@@ -6,10 +6,19 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 00:50:46 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Мастер-класс от AMRteam в Омске</title>
+      <link>https://amrhub.ru/blog/2024/03/22/team22022024/</link>
+      <pubDate>Fri, 22 Mar 2024 00:50:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2024/03/22/team22022024/</guid>
+      <description>22 марта 2024 прошло очередное мероприятие в рамках консорциума AMRteam&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Acinetobacter baumannii — почему такое название?</title>
