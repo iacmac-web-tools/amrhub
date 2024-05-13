@@ -6,10 +6,19 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 09 Apr 2024 00:00:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 00:06:00 +0000</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Нейросетевой модуль AMRexpert</title>
+      <link>https://amrhub.ru/tutorials/amrexpert/05-amrexpert_bot/</link>
+      <pubDate>Sun, 12 May 2024 00:06:00 +0000</pubDate>
+      
+      <guid>https://amrhub.ru/tutorials/amrexpert/05-amrexpert_bot/</guid>
+      <description>Также для автоматической интерпретации и экспертного анализа антибиотикограмм вы можете воспользоваться нейросетевым модулем AMRexpert. Данный модуль был разработан на платформе чат-бота Telegram. Для работы нейросетевого модуля вам необходимо установить на свой смартфон приложение Telegram (или воспользоваться веб-версией web.telegram.org); затем найти в поисковике каналов бот AMRexpertBOT (t.me/AMRexpert_bot), нажать кнопку «СТАРТ» и сфотографировать (загрузить изображение) антибиотикограммы. В результате распознавания вы сможете получить (скачать) готовое экспертное заключение о результатах определения чувствительности к антибиотикам в удобном для вас формате: docx, html, pdf, png.</description>
+    </item>
     
     <item>
       <title>Интерпретация</title>
@@ -398,6 +407,15 @@
       
       <guid>https://amrhub.ru/blog/2023/09/12/news12092023/</guid>
       <description>В.В.Путин поддержал концепцию биотехнологического научного кластера, разработанную командой AMRhub&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Среда Клиглера — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2023/09/12/ety-kligler-agar/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2023/09/12/ety-kligler-agar/</guid>
+      <description>«Среда Клиглера» — это плотная дифференциально-диагностическая среда для первичной идентификации энтеробактерий.</description>
     </item>
     
     <item>

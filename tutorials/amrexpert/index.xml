@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Нейросетевой модуль AMRexpert</title>
+      <link>https://amrhub.ru/tutorials/amrexpert/05-amrexpert_bot/</link>
+      <pubDate>Sun, 12 May 2024 00:06:00 +0000</pubDate>
+      
+      <guid>https://amrhub.ru/tutorials/amrexpert/05-amrexpert_bot/</guid>
+      <description>Также для автоматической интерпретации и экспертного анализа антибиотикограмм вы можете воспользоваться нейросетевым модулем AMRexpert. Данный модуль был разработан на платформе чат-бота Telegram. Для работы нейросетевого модуля вам необходимо установить на свой смартфон приложение Telegram (или воспользоваться веб-версией web.telegram.org); затем найти в поисковике каналов бот AMRexpertBOT (t.me/AMRexpert_bot), нажать кнопку «СТАРТ» и сфотографировать (загрузить изображение) антибиотикограммы. В результате распознавания вы сможете получить (скачать) готовое экспертное заключение о результатах определения чувствительности к антибиотикам в удобном для вас формате: docx, html, pdf, png.</description>
+    </item>
+    
+    <item>
       <title>Интерпретация</title>
       <link>https://amrhub.ru/tutorials/amrexpert/04-interpret/</link>
       <pubDate>Sun, 21 May 2023 00:06:00 +0000</pubDate>
