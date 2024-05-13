@@ -6,10 +6,19 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 09 Apr 2024 00:00:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:00:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Среда Клиглера — почему такое название?</title>
+      <link>https://amrhub.ru/blog/2024/05/13/ety-kligler-agar/</link>
+      <pubDate>Mon, 13 May 2024 00:00:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2024/05/13/ety-kligler-agar/</guid>
+      <description>«Среда Клиглера» — это плотная дифференциально-диагностическая среда для первичной идентификации энтеробактерий.</description>
+    </item>
     
     <item>
       <title>Edwardsiella spp. — почему такое название?</title>
@@ -225,15 +234,6 @@
       
       <guid>https://amrhub.ru/blog/2023/09/12/news12092023/</guid>
       <description>В.В.Путин поддержал концепцию биотехнологического научного кластера, разработанную командой AMRhub&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Среда Клиглера — почему такое название?</title>
-      <link>https://amrhub.ru/blog/2023/09/12/ety-kligler-agar/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/blog/2023/09/12/ety-kligler-agar/</guid>
-      <description>«Среда Клиглера» — это плотная дифференциально-диагностическая среда для первичной идентификации энтеробактерий.</description>
     </item>
     
     <item>
