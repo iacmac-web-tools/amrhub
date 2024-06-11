@@ -6,10 +6,19 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 16 May 2024 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Обучающий семинар «Управление антимикробной терапией в стационаре: бесшовная интеграция процессов»</title>
+      <link>https://amrhub.ru/blog/2024/06/01/news01062024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2024/06/01/news01062024/</guid>
+      <description>30 мая 2024 в рамках XXVI конгресса МАКМАХ прошёл обучающий семинар AMRhub</description>
+    </item>
     
     <item>
       <title>AMRcloud на KazanForum</title>
