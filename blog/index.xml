@@ -6,10 +6,28 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 27 Jun 2024 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 00:00:46 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Онлайн-платформа AMCmodel</title>
+      <link>https://amrhub.ru/blog/2024/09/10/amc11092024/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2024/09/10/amc11092024/</guid>
+      <description>Новый IT-продукт для анализа и прогноза данных потребления антимикробных препаратов.</description>
+    </item>
+    
+    <item>
+      <title>Новое ответвление проекта AMRcf</title>
+      <link>https://amrhub.ru/blog/2024/09/02/cf02092024/</link>
+      <pubDate>Mon, 02 Sep 2024 00:50:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2024/09/02/cf02092024/</guid>
+      <description>Мы приглашаем микробиологов и заведующих лабораторий принять участие в проекте системы внешнего контроля качества&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Yersinia pestis — почему такое название?</title>
