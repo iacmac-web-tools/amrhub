@@ -6,10 +6,19 @@
     <description>Recent content in AMRnote on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 26 Dec 2023 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 00:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/amrnote/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Обновление AMRnote</title>
+      <link>https://amrhub.ru/blog/2024/12/24/note24122024/</link>
+      <pubDate>Tue, 24 Dec 2024 00:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2024/12/24/note24122024/</guid>
+      <description>В свежем обновлении платформы AMRnote появилась возможность создавать многоуровневые схемы терапии&amp;hellip;</description>
+    </item>
     
     <item>
       <title>AMRhub: итоги 2023 года</title>
