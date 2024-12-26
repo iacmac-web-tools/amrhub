@@ -6,15 +6,42 @@
     <description>Recent content in Tags on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Dec 2024 00:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>AMRcf</title>
+      <link>https://amrhub.ru/tags/amrcf/</link>
+      <pubDate>Wed, 25 Dec 2024 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMRcloud</title>
+      <link>https://amrhub.ru/tags/amrcloud/</link>
+      <pubDate>Wed, 25 Dec 2024 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMRexpert</title>
+      <link>https://amrhub.ru/tags/amrexpert/</link>
+      <pubDate>Wed, 25 Dec 2024 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amrexpert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AMRnote</title>
       <link>https://amrhub.ru/tags/amrnote/</link>
-      <pubDate>Tue, 24 Dec 2024 00:47:08 +0200</pubDate>
+      <pubDate>Wed, 25 Dec 2024 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/amrnote/</guid>
       <description></description>
@@ -23,7 +50,7 @@
     <item>
       <title>MicrobioNames</title>
       <link>https://amrhub.ru/tags/microbionames/</link>
-      <pubDate>Sat, 30 Nov 2024 00:29:20 +0200</pubDate>
+      <pubDate>Wed, 25 Dec 2024 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/microbionames/</guid>
       <description></description>
@@ -48,38 +75,11 @@
     </item>
     
     <item>
-      <title>AMRcf</title>
-      <link>https://amrhub.ru/tags/amrcf/</link>
-      <pubDate>Mon, 02 Sep 2024 00:50:46 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrcf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRcloud</title>
-      <link>https://amrhub.ru/tags/amrcloud/</link>
-      <pubDate>Thu, 16 May 2024 00:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrcloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AMRteam</title>
       <link>https://amrhub.ru/tags/amrteam/</link>
       <pubDate>Fri, 22 Mar 2024 00:50:46 +0200</pubDate>
       
       <guid>https://amrhub.ru/tags/amrteam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AMRexpert</title>
-      <link>https://amrhub.ru/tags/amrexpert/</link>
-      <pubDate>Tue, 12 Mar 2024 00:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amrexpert/</guid>
       <description></description>
     </item>
     
