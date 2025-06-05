@@ -5,10 +5,6 @@
     <link>https://amrhub.ru/authors/</link>
     <description>Recent content in Authors on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    
-	<atom:link href="https://amrhub.ru/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ru</language><atom:link href="https://amrhub.ru/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

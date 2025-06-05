@@ -6,11 +6,7 @@
     <description>Recent content in AMRbook on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 12 Oct 2023 00:47:08 +0200</lastBuildDate>
-    
-	<atom:link href="https://amrhub.ru/tags/amrbook/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 12 Oct 2023 00:47:08 +0200</lastBuildDate><atom:link href="https://amrhub.ru/tags/amrbook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Примеры практик внедрения AMRcloud и AMRnote</title>
       <link>https://amrhub.ru/blog/2023/10/12/note12102023/</link>
