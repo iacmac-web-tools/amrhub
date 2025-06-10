@@ -5,7 +5,11 @@
     <link>https://amrhub.ru/eng/</link>
     <description>Recent content in Eng on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="https://amrhub.ru/eng/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language>
+    
+	<atom:link href="https://amrhub.ru/eng/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Main</title>
       <link>https://amrhub.ru/eng/main/</link>

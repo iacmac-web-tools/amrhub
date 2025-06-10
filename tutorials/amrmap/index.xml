@@ -6,7 +6,11 @@
     <description>Recent content in AMRmap. Руководство пользователя on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://amrhub.ru/tutorials/amrmap/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://amrhub.ru/tutorials/amrmap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>1. Общая информация</title>
       <link>https://amrhub.ru/tutorials/amrmap/1-info/</link>

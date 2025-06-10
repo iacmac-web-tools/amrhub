@@ -6,7 +6,11 @@
     <description>Recent content in Sticker on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 26 Dec 2023 00:29:20 +0200</lastBuildDate><atom:link href="https://amrhub.ru/tags/sticker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Dec 2023 00:29:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://amrhub.ru/tags/sticker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>AMRhub: итоги 2023 года</title>
       <link>https://amrhub.ru/blog/2023/12/26/news26122023/</link>
