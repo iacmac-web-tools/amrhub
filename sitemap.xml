@@ -28,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/01-myschemes/</loc>
+    <loc>https://amrhub.ru/tutorials/amrnote/01-creatingschemas/</loc>
     <lastmod>2022-02-14T00:06:00+00:00</lastmod>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/02-mycompilations/</loc>
+    <loc>https://amrhub.ru/tutorials/amrnote/02-distirbutionschemas/</loc>
     <lastmod>2022-02-14T00:06:00+00:00</lastmod>
   </url>
   
@@ -68,43 +68,8 @@
   </url>
   
   <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/03-mydrugs/</loc>
-    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amrhub.ru/tutorials/amrnote/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/04-myteams/</loc>
-    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/05-links/</loc>
-    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/06-tags/</loc>
-    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/07-schemes/</loc>
-    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/08-drugs/</loc>
-    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amrhub.ru/tutorials/amrnote/09-tgbot/</loc>
-    <lastmod>2022-02-14T00:06:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1405,6 +1370,51 @@
   <url>
     <loc>https://amrhub.ru/blog/2016/10/01/map01102016/</loc>
     <lastmod>2016-10-01T00:29:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/01-myschemes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/02-mycompilations/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/03-mydrugs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/04-myteams/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/05-links/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/06-tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/07-schemes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/08-drugs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amrhub.ru/tutorials/amrnote/09-tgbot/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
