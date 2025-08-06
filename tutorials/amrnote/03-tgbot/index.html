@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+  <head>
+    <meta charset="utf-8">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Телеграм бот</title>
+<meta name="author" content="DevCows" />
+
+
+
+
+<meta name="keywords" content="amrhub, microbiology, bacteriology, AMR, Антибиотикорезистентность, AntimicrobialResistance, Антибиотики, медицина, Микробиология, бактериология">
+
+
+<meta name="description" content="Виртуальная точка входа для экосистемы уникальных веб-продуктов, посвященных вопросам антимикробной резистентности.">
+
+<script type="text/javascript" >
+  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+  m[i].l=1*new Date();
+  for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+  k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+  (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+  ym(91843173, "init", {
+       clickmap:true,
+       trackLinks:true,
+       accurateTrackBounce:true,
+       webvisor:true
+  });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/91843173" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+<meta name="generator" content="Hugo 0.59.1" />
+
+
+<link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.2/css/academicons.min.css" integrity crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link href="/css/animate.css" rel="stylesheet">
+
+
+
+  <link href="/css/style.blue.css" rel="stylesheet" id="theme-stylesheet">
+
+
+
+<link href="/css/custom.css?1754471743" rel="stylesheet">
+
+
+
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+
+
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png" />
+
+
+<link href="/css/owl.carousel.css" rel="stylesheet">
+<link href="/css/owl.theme.css" rel="stylesheet">
+
+
+<link rel="alternate" href="https://amrhub.ru/index.xml" type="application/rss+xml" title="AMRhub">
+
+
+
+
+
+
+
+
+<meta property="og:locale" content="ru">
+<meta property="og:site_name" content="AMRhub">
+<meta property="og:title" content="Телеграм бот">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://amrhub.ru/tutorials/amrnote/03-tgbot/" />
+<meta property="og:description" content="Виртуальная точка входа для экосистемы уникальных веб-продуктов, посвященных вопросам антимикробной резистентности.">
+<meta property="og:image" content="https://amrhub.ru/img/sharing-default.png">
+<meta property="og:image:type" content="image/png">
+
+
+
+  <meta property="og:image:width" content="800">
+  <meta property="og:image:height" content="420">
+
+
+<meta property="og:updated_time" content="2022-02-14T00:06:00Z">
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@GoHugoIO">
+<meta name="twitter:title" content="Телеграм бот">
+
+<meta name="twitter:image" content="https://amrhub.ru/img/sharing-default.png">
+
+<meta name="twitter:description" content="Виртуальная точка входа для экосистемы уникальных веб-продуктов, посвященных вопросам антимикробной резистентности.">
+
+
+    
+  </head>
+
+  <body>
+
+    
+<header>
+  <div id="top">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-5">
+          support@antibiotic.ru
+        </div>
+        <div class="col-xs-7">
+          <div class="social">
+            
+            <a href="https://www.antibiotic.ru/" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-globe'></i></a>
+            
+            <a href="https://www.youtube.com/@IACMAC" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-youtube'></i></a>
+            
+            <a href="https://vk.com/iacmac" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-vk'></i></a>
+            
+            <a href="https://t.me/iacmac" target="_blank" style="opacity: 1;"><i class='fab fa-2x fa-telegram'></i></a>
+            
+            <a href="mailto:support@antibiotic.ru" target="_blank" style="opacity: 1;"><i class='fas fa-2x fa-envelope'></i></a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+    <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
+    <div class="navbar navbar-default yamm " role="navigation" id="navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="/">
+                    
+                      <img src="/img/logo.png" alt="Телеграм бот logo" class="hidden-xs hidden-sm" />
+                      <img src="/img/logo-small.png" alt="Телеграм бот logo" class="visible-xs visible-sm" />
+                    
+                    <span class="sr-only">Телеграм бот - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                      <span class="sr-only">Toggle Navigation</span>
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/">Главная</a>
+                  </li>
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/blog/">Новости</a>
+                  </li>
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/projects/">Проекты</a>
+                  </li>
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                  <li class="dropdown ">
+                    <a href="/tutorials/">Руководства</a>
+                  </li>
+                  
+
+                  
+                  
+                  
+
+                  
+
+                  
+
+                  
+
+                  
+                    
+                    
+                    <li class="dropdown ">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Команда <span class="caret"></span></a>
+                        
+                        <ul class="dropdown-menu">
+                            
+                            <li><a href="/team/kuzmenkov-ay">Кузьменков А.Ю.</a></li>
+                            
+                            <li><a href="/team/vinogradova-ag">Виноградова А.Г.</a></li>
+                            
+                            <li><a href="/team/trushin-iv">Трушин И.В.</a></li>
+                            
+                            <li><a href="/team/avramenko-aa">Авраменко А.А.</a></li>
+                            
+                            <li><a href="/team/starostenkov-aa">Старостенков А.А.</a></li>
+                            
+                            <li><a href="/team/pryadihin-my">Прядихин М.Ю.</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                  
+
+                  
+                 <li class="dropdown">
+              
+<a href="/eng/main"><span class="emoji-flag-icon"><img src="\img\flag-uk.png" style="margin-right: 5px; height: 15px;"></span><span>English</span></a>
+                      </li>
+                      
+                    </ul>
+                </li>
+                </ul>
+            </div>
+            
+
+            <div class="collapse clearfix" id="search">
+                <form class="navbar-form" role="search">
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="Search">
+                        <span class="input-group-btn">
+                    <button type="submit" class="btn btn-template-main"><i class="fas fa-search"></i></button>
+                </span>
+                    </div>
+                </form>
+            </div>
+            
+        </div>
+    </div>
+</header>
+
+
+
+    <div id="heading-breadcrumbs">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-12">
+                  <h1></h1>
+              </div>
+          </div>
+      </div>
+  </div>
+
+
+
+
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn-template-main docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/tutorials/amrnote/">Руководство</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/tutorials/amrnote/01-creatingschemas/">Создание схем</a>
+      </li>
+      
+      <li >
+        <a href="/tutorials/amrnote/02-distirbutionschemas/">Распространение схем</a>
+      </li>
+      
+      <li class="active">
+        <a href="/tutorials/amrnote/03-tgbot/">Телеграм бот</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title"></a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#присоединение-к-команде-через-qr-код-или-ссылку">Присоединение к команде через QR-код или ссылку</a></li>
+<li><a href="#работа-с-ботом">Работа с ботом</a>
+<ul>
+<li><a href="#запуск-бота">Запуск бота</a></li>
+<li><a href="#выбор-команды">Выбор команды</a></li>
+<li><a href="#просмотр-схемы">Просмотр схемы</a></li>
+<li><a href="#просмотр-связанной-схемы">Просмотр связанной схемы</a></li>
+<li><a href="#просмотр-терапии">Просмотр терапии</a></li>
+<li><a href="#просмотр-инфоблока">Просмотр инфоблока</a></li>
+<li><a href="#просмотр-pdf">Просмотр PDF</a></li>
+</ul></li>
+<li><a href="#команды-бота">Команды бота</a>
+<ul>
+<li><a href="#публичные-схемы">Публичные схемы</a></li>
+<li><a href="#описание-бота">Описание бота</a></li>
+<li><a href="#справка">Справка</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Телеграм бот</h1>
+
+          <div class="article-style">
+            
+
+<p><strong>Telegram-бот AMRnote (@AMRnoteBot)</strong> - это инструмент для взаимодействия с платформой <strong>AMRnote</strong> через Telegram, обеспечивающий доступ к схемам терапий, управление командами и работу с материалами в любом месте и с любого устройства. Бот упрощает присоединение к командам, просмотр схем и их экспорт в PDF, что подходит для специалистов, нуждающихся в быстром доступе к клиническим алгоритмам.</p>
+
+<h2 id="присоединение-к-команде-через-qr-код-или-ссылку">Присоединение к команде через QR-код или ссылку</h2>
+
+<p>Пользователь сканирует QR-код команды или переходит по уникальной ссылке (например, <a href="https://t.me/amrnote_bot?start=tiV7DUXcAGfkoizu9ESLr">https://t.me/amrnote_bot?start=tiV7DUXcAGfkoizu9ESLr</a>).</p>
+
+<p><img src="/img/tutorials/amrnote/tg-demo.png" alt="tg-demo" /></p>
+
+<p>После сканирования/перехода пользователь автоматический добавляется в команду, как участник Telegram.</p>
+
+<h2 id="работа-с-ботом">Работа с ботом</h2>
+
+<p>Навигация в боте реализована через текстовое отображение пронумерованных списков и интерактивную клавиатуру с эмодзи. На каждом этапе пользователь может выбрать нужный элемент, нажав на кнопку с номером и соответствующим эмодзи, или вернуться на предыдущий шаг с помощью кнопок <strong>Назад ↩️</strong>, <strong>К схеме ↩️</strong> или <strong>К командам 👥</strong>.</p>
+
+<h3 id="запуск-бота">Запуск бота</h3>
+
+<ul>
+<li>Пользователь вводит команду <code>/start</code> в чате с @AMRnoteBot.</li>
+<li>Бот отображает список команд, в которых состоит пользователь.</li>
+</ul>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-teams.png" alt="Телеграм - мои команды" /></p>
+
+<h3 id="выбор-команды">Выбор команды</h3>
+
+<ul>
+<li>Пользователь выбирает команду из списка.</li>
+<li>Для удобства каждая команда сопровождается эмодзи 👥.</li>
+<li>Бот показывает достуные схемы терапий, относящиеся к этой команде.</li>
+</ul>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-schemes.png" alt="Телеграм - мои схемы" /></p>
+
+<h3 id="просмотр-схемы">Просмотр схемы</h3>
+
+<ul>
+<li>При выборе схемы отображаются:
+
+<ul>
+<li>Название схемы</li>
+<li>История переходов по иерархии</li>
+<li>Описание схемы</li>
+<li>Связанные схемы 🔗</li>
+<li>Терапии 💊</li>
+<li>Инфоблоки 📋</li>
+<li>Дочерние схемы 📚</li>
+</ul></li>
+</ul>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-schema.png" alt="Телеграм - схема" /></p>
+
+<h3 id="просмотр-связанной-схемы">Просмотр связанной схемы</h3>
+
+<p>Пользователь выбирает связанную схему, нажава на кнопку с номером и эмодзи 🔗(например, «1🔗» для «Диагностика пневмонии»).</p>
+
+<p>Бот отображает ссылку для перехода к связанной схеме.</p>
+
+<p>Нажав на ссылку, пользователь переходит к содержимому связанной схемы, которое отображается аналогично основной схеме (с описанием, инфоблоками, терапиями и т.д.).</p>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-linked.png" alt="Телеграм - связанная схема" /></p>
+
+<h3 id="просмотр-терапии">Просмотр терапии</h3>
+
+<p>Пользователь выбирает терапию, нажав кнопку с номером и эмодзи 💊(например, «1💊» для «Азитромицин»).</p>
+
+<p>Бот отображает:</p>
+
+<ul>
+<li><strong>Название терапии</strong>: Например, «Азитромицин».</li>
+<li><strong>Препараты с дозировкой и кратностью</strong>: Например, «500 мг 1 раз в день, 3 дня».</li>
+<li><strong>Описание</strong>: Дополнительные комментарии (например, «Предпочтительный выбор при нетипичной пневмонии»).</li>
+</ul>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-therapy.png" alt="Телеграм - терапия" /></p>
+
+<h3 id="просмотр-инфоблока">Просмотр инфоблока</h3>
+
+<p>Пользователь выбирает инфоблок, нажав кнопку с номером и эмодзи 📋(например, «1📋» для «Рентген грудной клетки»).</p>
+
+<p>Бот отображает:</p>
+
+<ul>
+<li><strong>Описание инфоблока</strong>: Например, «Рентген грудной клетки для подтверждения пневмонии».</li>
+<li><strong>Прикреплённые файлы</strong>: Ссылки на файлы (изображения, графики или документы) с возможностью просмотра или скачивания.</li>
+</ul>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-infoblock.png" alt="Телеграм - инфоблок" /></p>
+
+<h3 id="просмотр-pdf">Просмотр PDF</h3>
+
+<p>Пользователь нажимает кнопку PDF🖶 и бот отправляет PDF-файл схемы в чат, который можно открыть, скачать или переслать кому-либо.</p>
+
+<p>Структура PDF файла:</p>
+
+<ul>
+<li>Название и описание</li>
+<li>Содержание</li>
+<li>Инфоблоки</li>
+<li>Терапии</li>
+<li>Связанные схемы</li>
+</ul>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-pdf.png" alt="Телеграм - PDF файл" /></p>
+
+<h2 id="команды-бота">Команды бота</h2>
+
+<h3 id="публичные-схемы">Публичные схемы</h3>
+
+<p>Публичные схемы <strong><code>/public</code></strong> — это схемы, доступные любому пользователю Telegram-бота @AMRnoteBot без необходимости вступления в команду или авторизации в AMRnote. Они создаются администраторами платформы и публикуются для общего доступа, например, для образовательных целей или распространения стандартных протоколов. В остальном публичные схемы идентичны обычным: содержат описание, содержание, инфоблоки (изображения, графики, документы), терапии, дочерние и связанные схемы. Пользователь может просматривать их или скачивать в PDF.</p>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-public.png" alt="Телеграм - Публичные схемы" /></p>
+
+<h3 id="описание-бота">Описание бота</h3>
+
+<p><strong><code>/about</code></strong> Показывает описание бота и ссылку на данное руководство.</p>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-about.png" alt="Телеграм - Описание бота" /></p>
+
+<h3 id="справка">Справка</h3>
+
+<p>Команда <strong><code>/help</code></strong> служит для отображения перечня всех возможных команд бота.</p>
+
+<ul>
+<li><code>/start</code>: Запускает бота и отображает пронумерованный список команд с эмодзи .</li>
+<li><code>/teams</code>: Показывает список команд, в которых состоит пользователь, с ролями.</li>
+<li><code>/public</code>: Отображает список публичных схем, доступных без авторизации или участия в команде. Пользователь может выбрать схему (), просмотреть её содержимое, терапии, инфоблоки или скачать PDF.</li>
+<li><code>/about</code>: Показывает описание бота и ссылку на руководство.</li>
+</ul>
+
+<p><img src="/img/tutorials/amrnote/phone-tg-help.png" alt="Телеграм - Справка" /></p>
+
+          </div>
+
+          
+
+
+
+          
+        </div>
+
+
+
+          
+
+
+
+
+          
+
+
+        </div>
+
+      </article>
+
+      <footer id="footer">
+    <div class="container">
+
+        
+        <div class="col-md-4 col-sm-6">
+            <h4>AMRhub</h4>
+
+            <p>виртуальная точка входа для экосистемы уникальных веб-продуктов, посвященных вопросам антимикробной резистентности</p>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        
+        
+
+        <div class="col-md-4 col-sm-6">
+
+            
+
+        </div>
+        
+
+        
+        <div class="col-md-4 col-sm-6">
+
+          <h4>Контакты</h4>
+
+            <ul class="fa-ul">       
+              <li>
+                <i class="fa-li fas fa-envelope" aria-hidden="true"></i>
+                <span id="person-email"><a href="mailto:support@antibiotic.ru">support@antibiotic.ru</a></span>
+              </li>
+              <li>
+                <i class="fa-li fab fa-vk" aria-hidden="true"></i>
+                <a href="https://vk.com/iacmac" target="_blank" rel="noopener">vk.com/iacmac</a>
+              </li>
+              <li>
+                <i class="fa-li fab fa-telegram" aria-hidden="true"></i>
+                <a href="https://telegram.me/iacmac" target="_blank" rel="noopener">telegram.me/iacmac</a>
+              </li>
+              <li>
+                <i class="fa-li fab fa-youtube" aria-hidden="true"></i>
+                <a href="https://www.youtube.com/iacmac" target="_blank" rel="noopener">youtube.com/iacmac</a>
+              </li>
+            </ul>
+
+        </div>
+        
+        
+
+    </div>
+    
+</footer>
+
+
+
+
+
+
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-12">
+            
+            <p class="pull-left">Copyright © AMRhub, 2025</p>
+            
+            <p class="pull-right">
+              Template by <a href="https://bootstrapious.com/p/universal-business-e-commerce-template">Bootstrapious</a>.
+              
+
+              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+            </p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+    </main>
+  </div>
+</div>
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-85066436-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+
+<script src="/js/front.js"></script>
+
+
+<script src="/js/owl.carousel.min.js"></script>
+
+
+
+</body>
+</html>
