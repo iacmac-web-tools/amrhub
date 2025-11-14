@@ -6,10 +6,19 @@
     <description>Recent content in Categories on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 27 Oct 2025 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Событие</title>
+      <link>https://amrhub.ru/categories/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5/</link>
+      <pubDate>Thu, 13 Nov 2025 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/categories/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Статья</title>
@@ -17,15 +26,6 @@
       <pubDate>Mon, 27 Oct 2025 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/categories/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Событие</title>
-      <link>https://amrhub.ru/categories/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5/</link>
-      <pubDate>Wed, 16 Apr 2025 00:29:20 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/categories/%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     
