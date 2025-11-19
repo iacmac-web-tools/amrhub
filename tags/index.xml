@@ -6,10 +6,19 @@
     <description>Recent content in Tags on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Nov 2025 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:46 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AMCmodel</title>
+      <link>https://amrhub.ru/tags/amcmodel/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/tags/amcmodel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AMRnote</title>
@@ -57,15 +66,6 @@
     </item>
     
     <item>
-      <title>AMCmodel</title>
-      <link>https://amrhub.ru/tags/amcmodel/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:46 +0200</pubDate>
-      
-      <guid>https://amrhub.ru/tags/amcmodel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AMRfilms</title>
       <link>https://amrhub.ru/tags/amrfilms/</link>
       <pubDate>Wed, 06 Nov 2024 00:29:20 +0200</pubDate>
@@ -102,7 +102,7 @@
     </item>
     
     <item>
-      <title>monitoring</title>
+      <title>Monitoring</title>
       <link>https://amrhub.ru/tags/monitoring/</link>
       <pubDate>Tue, 26 Dec 2023 00:29:20 +0200</pubDate>
       

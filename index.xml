@@ -6,7 +6,7 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Nov 2025 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:46 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -135,6 +135,15 @@
       <guid>https://amrhub.ru/tutorials/amrnote/03-tgbot/</guid>
       <description>Telegram-бот AMRnote (@AMRnoteBot) - это инструмент для взаимодействия с платформой AMRnote через Telegram, обеспечивающий доступ к схемам терапий, управление командами и работу с материалами в любом месте и с любого устройства. Бот упрощает присоединение к командам, просмотр схем и их экспорт в PDF, что подходит для специалистов, нуждающихся в быстром доступе к клиническим алгоритмам.
 Присоединение к команде через QR-код или ссылку Пользователь сканирует QR-код команды или переходит по уникальной ссылке (например, https://t.</description>
+    </item>
+    
+    <item>
+      <title>Большое обновление AMCmodel</title>
+      <link>https://amrhub.ru/blog/2025/11/18/amc18112025/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2025/11/18/amc18112025/</guid>
+      <description>В платформе появилась региональная карта потребления антибиотиков РФ</description>
     </item>
     
     <item>
