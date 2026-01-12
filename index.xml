@@ -6,7 +6,7 @@
     <description>Recent content on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 18 Dec 2025 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -135,6 +135,24 @@
       <guid>https://amrhub.ru/tutorials/amrnote/03-tgbot/</guid>
       <description>Telegram-бот AMRnote (@AMRnoteBot) - это инструмент для взаимодействия с платформой AMRnote через Telegram, обеспечивающий доступ к схемам терапий, управление командами и работу с материалами в любом месте и с любого устройства. Бот упрощает присоединение к командам, просмотр схем и их экспорт в PDF, что подходит для специалистов, нуждающихся в быстром доступе к клиническим алгоритмам.
 Присоединение к команде через QR-код или ссылку Пользователь сканирует QR-код команды или переходит по уникальной ссылке (например, https://t.</description>
+    </item>
+    
+    <item>
+      <title>Практическое руководство «Наука о данных и искусственный интеллект в медицине»</title>
+      <link>https://amrhub.ru/blog/2026/01/10/publish10012026/</link>
+      <pubDate>Sat, 10 Jan 2026 13:47:08 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2026/01/10/publish10012026/</guid>
+      <description>Вышла в свет уникальная книга по анализу биомедицинских данных&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>AMRhub: итоги 2025 года</title>
+      <link>https://amrhub.ru/blog/2025/12/28/news28122025/</link>
+      <pubDate>Sun, 28 Dec 2025 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2025/12/28/news28122025/</guid>
+      <description>Команда AMRhub поздравляет всех с наступающим Новым Годом и подводит итоги работы в 2025-м</description>
     </item>
     
     <item>
