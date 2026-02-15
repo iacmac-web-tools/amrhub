@@ -6,10 +6,19 @@
     <description>Recent content in AMRnote on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Nov 2025 00:29:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 00:29:20 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/tags/amrnote/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>АМТ-интегративы — что это такое?</title>
+      <link>https://amrhub.ru/blog/2026/02/09/note09022026/</link>
+      <pubDate>Mon, 09 Feb 2026 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2026/02/09/note09022026/</guid>
+      <description>Команда AMRhub представляет новую концепцию экспертных обзоров АМТ-руководств, которые&amp;hellip;</description>
+    </item>
     
     <item>
       <title>AMRnote — новые возможности</title>

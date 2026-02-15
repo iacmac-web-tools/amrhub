@@ -6,10 +6,28 @@
     <description>Recent content in Новости on AMRhub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 10 Jan 2026 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 00:00:46 +0200</lastBuildDate>
     
 	<atom:link href="https://amrhub.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AMCmodel в международном журнале</title>
+      <link>https://amrhub.ru/blog/2026/02/12/amc12022026/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:46 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2026/02/12/amc12022026/</guid>
+      <description>В международном Q1-журнале «Frontiers in Pharmacology» вышла статья&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>АМТ-интегративы — что это такое?</title>
+      <link>https://amrhub.ru/blog/2026/02/09/note09022026/</link>
+      <pubDate>Mon, 09 Feb 2026 00:29:20 +0200</pubDate>
+      
+      <guid>https://amrhub.ru/blog/2026/02/09/note09022026/</guid>
+      <description>Команда AMRhub представляет новую концепцию экспертных обзоров АМТ-руководств, которые&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Практическое руководство «Наука о данных и искусственный интеллект в медицине»</title>
@@ -107,7 +125,7 @@
       <pubDate>Sun, 07 Sep 2025 00:29:20 +0200</pubDate>
       
       <guid>https://amrhub.ru/blog/2025/09/07/ety-penirosebomb/</guid>
-      <description>Правда ли, что первый пенициллиновый пациент заразился сепсисом от шипа роза?</description>
+      <description>Правда ли, что первый пенициллиновый пациент заразился сепсисом от шипа розы?</description>
     </item>
     
     <item>
