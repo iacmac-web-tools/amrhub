@@ -341,3 +341,12 @@
   margin-bottom: 30px;
   border: 1px solid #000000;
 }
+
+.social img {
+  vertical-align: baseline;
+}
+
+.fa-li {
+  text-align: unset;
+  width: 17px;
+}
